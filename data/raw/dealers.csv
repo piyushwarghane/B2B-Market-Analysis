@@ -1,0 +1,42 @@
+dealer_id,dealer_name,area_id,dealer_type,capacity,active_status
+D001,Pune Premier Industrial Solutions (Chakan),A001,Direct Dealer,High,Active
+D002,Precision Industrial Solutions (Chakan),A001,Direct Dealer,High,Active
+D003,Zenith Industrial Solutions (Chakan),A001,Direct Dealer,High,Active
+D004,Apex Industrial Solutions (Chakan),A001,Authorized Master,High,Active
+D005,Apex Industrial Solutions (Chakan),A001,Authorized Master,Low,Active
+D006,Zenith Industrial Solutions (Chakan),A001,Authorized Master,Medium,Active
+D007,Industrial Hub Industrial Solutions (Chakan),A001,Authorized Master,High,Active
+D008,Industrial Hub Industrial Solutions (Talegaon),A002,Authorized Master,High,Active
+D009,Maratha Industrial Solutions (Talegaon),A002,Authorized Master,High,Active
+D010,Vanguard Industrial Solutions (Talegaon),A002,Direct Dealer,Medium,Active
+D011,Western Industrial Solutions (Talegaon),A002,Regional Distributor,Low,Active
+D012,Metro Industrial Solutions (Ranjangaon),A003,Direct Dealer,Low,Inactive
+D013,Vanguard Industrial Solutions (Pimpri-Chinchwad),A004,Authorized Master,Low,Active
+D014,Western Industrial Solutions (Pimpri-Chinchwad),A004,Authorized Master,Low,Active
+D015,Deccan Industrial Solutions (Pimpri-Chinchwad),A004,Authorized Master,High,Active
+D016,Everest Industrial Solutions (Pimpri-Chinchwad),A004,Regional Distributor,Low,Active
+D017,Vanguard Industrial Solutions (Pimpri-Chinchwad),A004,Direct Dealer,High,Active
+D018,Deccan Industrial Solutions (Pimpri-Chinchwad),A004,Direct Dealer,Low,Active
+D019,Precision Industrial Solutions (Bhosari),A005,Regional Distributor,High,Active
+D020,Zenith Industrial Solutions (Bhosari),A005,Direct Dealer,High,Active
+D021,Western Industrial Solutions (Bhosari),A005,Authorized Master,High,Active
+D022,Metro Industrial Solutions (Bhosari),A005,Authorized Master,Medium,Active
+D023,Maratha Industrial Solutions (Bhosari),A005,Direct Dealer,High,Active
+D024,Everest Industrial Solutions (Bhosari),A005,Regional Distributor,High,Active
+D025,Zenith Industrial Solutions (Bhosari),A005,Regional Distributor,Low,Active
+D026,Standard Industrial Solutions (Shirur),A006,Direct Dealer,Low,Active
+D027,Vanguard Industrial Solutions (Baramati),A007,Authorized Master,High,Active
+D028,Deccan Industrial Solutions (Baramati),A007,Authorized Master,High,Active
+D029,Standard Industrial Solutions (Daund),A008,Authorized Master,Low,Active
+D030,United Industrial Solutions (Khed),A009,Direct Dealer,Medium,Active
+D031,Apex Industrial Solutions (Khed),A009,Direct Dealer,Low,Active
+D032,Zenith Industrial Solutions (Khed),A009,Direct Dealer,Medium,Active
+D033,Synergy Industrial Solutions (Khed),A009,Authorized Master,Medium,Active
+D034,United Industrial Solutions (Haveli),A010,Direct Dealer,High,Active
+D035,Synergy Industrial Solutions (Haveli),A010,Direct Dealer,Low,Active
+D036,Vanguard Industrial Solutions (Mulshi),A011,Direct Dealer,High,Active
+D037,Maratha Industrial Solutions (Purandar),A012,Authorized Master,Medium,Active
+D038,Synergy Industrial Solutions (Maval),A013,Authorized Master,High,Active
+D039,Deccan Industrial Solutions (Maval),A013,Direct Dealer,High,Active
+D040,Deccan Industrial Solutions (Maval),A013,Authorized Master,Low,Active
+D041,Global Industrial Solutions (Maval),A013,Authorized Master,Low,Active

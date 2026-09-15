@@ -1,0 +1,51 @@
+{
+  "workbook_title": "Regional B2B Market Penetration & Opportunity Scoring",
+  "author": "Antigravity Data Analytics Team",
+  "version": "2026.1",
+  "data_source": {
+    "file_name": "dashboard_data.csv",
+    "path": "data/processed/dashboard_data.csv",
+    "primary_key": "area_id"
+  },
+  "dashboards": [
+    {
+      "id": "dash_1",
+      "name": "Dashboard 1 - Executive Overview",
+      "kpis": ["Total Sales", "Addressable Units", "Active Customers", "Avg Penetration %", "High Opportunity Count"],
+      "visuals": [
+        {"type": "symbol_map", "title": "Pune Regional Industrial Map", "longitude": "longitude", "latitude": "latitude", "color": "opportunity_score"},
+        {"type": "horizontal_bar", "title": "Total Sales by Taluka", "x": "total_sales", "y": "taluka", "sort": "descending"}
+      ]
+    },
+    {
+      "id": "dash_2",
+      "name": "Dashboard 2 - Market Penetration Matrix",
+      "visuals": [
+        {
+          "type": "scatter_plot",
+          "title": "4-Quadrant Prioritization Matrix",
+          "x": "market_potential_score",
+          "y": "current_penetration_rate",
+          "color": "opportunity_category",
+          "size": "estimated_market_size",
+          "quadrant_lines": {"x_reference": 50.0, "y_reference": 15.0}
+        }
+      ]
+    },
+    {
+      "id": "dash_3",
+      "name": "Dashboard 3 - Opportunity Prioritization",
+      "visuals": [
+        {"type": "heatmap_table", "title": "Area Opportunity Ranking Table", "columns": ["opportunity_rank", "taluka", "opportunity_score", "opportunity_category", "market_potential_score", "current_penetration_rate", "primary_root_cause"]}
+      ]
+    },
+    {
+      "id": "dash_4",
+      "name": "Dashboard 4 - Root Cause Analysis",
+      "visuals": [
+        {"type": "combo_bar_chart", "title": "Delivery Delay vs Dealer Coverage", "x": "taluka", "y1": "avg_delivery_delay_days", "y2": "dealers_per_100_units"},
+        {"type": "text_card", "title": "Automated Business Recommendation", "field": "recommended_action"}
+      ]
+    }
+  ]
+}

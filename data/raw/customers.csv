@@ -1,0 +1,1901 @@
+customer_id,customer_name,area_id,industry_type,company_size,annual_revenue,customer_status,customer_since
+C0001,Kalyani Polymers,A001,Chemicals,Medium,72800000.0,Active,2021-11-21
+C0002,Sigma Tech Solutions,A001,Textile,Enterprise,372600000.0,Active,2019-02-11
+C0003,Bharat Metal Works,A001,Textile,Medium,65300000.0,Active,2018-02-23
+C0004,Thermax-Vendor Engineering Pvt Ltd,A001,Chemicals,Small,25300000.0,Active,2024-06-03
+C0005,Pragati Forgings & Castings,A001,Pharmaceuticals,Enterprise,428500000.0,Active,2019-12-19
+C0006,Shree Tech Solutions,A001,Chemicals,Enterprise,784500000.0,Active,2019-02-04
+C0007,Atlas Polymers,A001,Packaging,Enterprise,546700000.0,Active,2024-12-02
+C0008,Atlas Chemicals & Processing,A001,Engineering,Small,16200000.0,Active,2020-02-08
+C0009,Force Forgings & Castings,A001,Textile,Enterprise,384100000.0,Active,2019-05-15
+C0010,Tata-Partner Auto Components,A001,Electronics,Small,9900000.0,Active,2022-01-03
+C0011,Tata-Partner Tools & Dies,A001,Food Processing,Enterprise,588800000.0,Active,2024-07-02
+C0012,Kirloskar-Style Polymers,A001,Automotive,Enterprise,459100000.0,Active,2024-08-10
+C0013,TechnoCraft Packaging Solutions,A001,Textile,Enterprise,392900000.0,Active,2020-04-02
+C0014,Shree Packaging Solutions,A001,Textile,Small,22500000.0,Active,2018-01-19
+C0015,Omni Industries,A001,Textile,Medium,33400000.0,Active,2022-02-28
+C0016,Kirloskar-Style Auto Components,A001,Engineering,Medium,54200000.0,Active,2022-04-19
+C0017,Kalyani Engineering Pvt Ltd,A001,Engineering,Enterprise,694400000.0,Active,2022-09-11
+C0018,Deccan Forgings & Castings,A001,Packaging,Medium,45900000.0,Active,2019-11-21
+C0019,Mahindra-Tier1 Tech Solutions,A001,Packaging,Small,9200000.0,Active,2022-10-04
+C0020,Synergy Industries,A001,Chemicals,Large,113800000.0,Active,2020-02-08
+C0021,Sigma Fabricators,A001,Metal Fabrication,Enterprise,800200000.0,Active,2023-05-20
+C0022,Thermax-Vendor Industries,A001,Automotive,Large,257700000.0,Active,2018-03-09
+C0023,Apex Auto Components,A001,Textile,Medium,46300000.0,Active,2022-04-23
+C0024,Western Forgings & Castings,A001,Pharmaceuticals,Enterprise,450700000.0,Active,2024-01-03
+C0025,Thermax-Vendor Polymers,A001,Pharmaceuticals,Small,9100000.0,Active,2024-03-21
+C0026,Deccan Tools & Dies,A001,Electronics,Enterprise,636500000.0,Active,2018-02-23
+C0027,Matrix Industries,A001,Automotive,Large,194900000.0,Active,2019-07-05
+C0028,Precision Fabricators,A001,Packaging,Small,25200000.0,Active,2019-11-08
+C0029,Atlas Auto Components,A001,Packaging,Enterprise,884300000.0,Active,2023-03-08
+C0030,Kirloskar-Style Tools & Dies,A001,Food Processing,Small,12200000.0,Active,2020-07-26
+C0031,Atlas Packaging Solutions,A001,Chemicals,Large,118700000.0,Active,2023-02-13
+C0032,Precision Tech Solutions,A001,Chemicals,Medium,79000000.0,Active,2021-06-10
+C0033,Tata-Partner Forgings & Castings,A001,Automotive,Medium,53900000.0,Active,2020-02-25
+C0034,Deccan Automation Systems,A001,Textile,Enterprise,707700000.0,Active,2024-09-11
+C0035,Bharat Auto Components,A001,Pharmaceuticals,Medium,64800000.0,Active,2020-01-04
+C0036,Kalyani Polymers,A001,Packaging,Large,168600000.0,Active,2022-02-13
+C0037,Shree Forgings & Castings,A001,Pharmaceuticals,Small,21800000.0,Active,2018-09-26
+C0038,Sai Chemicals & Processing,A001,Chemicals,Large,167600000.0,Active,2023-06-20
+C0039,Western Chemicals & Processing,A001,Engineering,Large,181300000.0,Active,2023-07-11
+C0040,Dynamic Packaging Solutions,A001,Pharmaceuticals,Medium,41500000.0,Active,2023-07-22
+C0041,Siemens-Tier2 Tools & Dies,A001,Pharmaceuticals,Enterprise,628800000.0,Active,2018-05-10
+C0042,Force Polymers,A001,Packaging,Enterprise,565100000.0,Active,2023-04-17
+C0043,Omni Packaging Solutions,A001,Metal Fabrication,Small,14100000.0,Active,2023-11-20
+C0044,Western Auto Components,A001,Chemicals,Large,130400000.0,Active,2019-03-01
+C0045,Precision Forgings & Castings,A001,Electronics,Small,17200000.0,Active,2023-10-07
+C0046,Schneider-Supplier Packaging Solutions,A001,Food Processing,Enterprise,539800000.0,Active,2019-11-23
+C0047,Bharat Auto Components,A001,Food Processing,Medium,40600000.0,Active,2023-09-15
+C0048,Precision Industries,A001,Chemicals,Small,17200000.0,Active,2024-08-22
+C0049,Pragati Industries,A001,Packaging,Enterprise,667600000.0,Active,2023-09-14
+C0050,Sai Tech Solutions,A001,Metal Fabrication,Enterprise,570000000.0,Active,2024-04-27
+C0051,Thermax-Vendor Fabricators,A001,Textile,Enterprise,676000000.0,Active,2020-08-03
+C0052,Schneider-Supplier Fabricators,A001,Chemicals,Large,150500000.0,Active,2022-02-05
+C0053,Matrix Forgings & Castings,A001,Food Processing,Medium,72400000.0,Active,2018-07-14
+C0054,Western Industries,A001,Electronics,Enterprise,337400000.0,Active,2024-07-13
+C0055,Shree Packaging Solutions,A001,Automotive,Enterprise,586200000.0,Active,2020-05-25
+C0056,Dynamic Polymers,A001,Textile,Medium,59300000.0,Active,2020-07-16
+C0057,Bharat Polymers,A001,Packaging,Enterprise,734500000.0,Active,2024-08-05
+C0058,Kalyani Industries,A001,Automotive,Enterprise,655100000.0,Active,2023-01-03
+C0059,Thermax-Vendor Polymers,A001,Metal Fabrication,Enterprise,409000000.0,Active,2020-07-11
+C0060,Force Tech Solutions,A001,Packaging,Large,227000000.0,Active,2021-05-25
+C0061,TechnoCraft Fabricators,A001,Engineering,Enterprise,311600000.0,Active,2022-01-12
+C0062,Tata-Partner Chemicals & Processing,A001,Engineering,Small,22600000.0,Active,2019-04-27
+C0063,Bharat Metal Works,A001,Metal Fabrication,Medium,37600000.0,Active,2023-02-19
+C0064,Force Tech Solutions,A001,Pharmaceuticals,Large,120200000.0,Active,2022-12-23
+C0065,Apex Tools & Dies,A001,Pharmaceuticals,Small,19400000.0,Active,2020-10-22
+C0066,Dynamic Polymers,A001,Chemicals,Small,19700000.0,Active,2024-11-08
+C0067,Apex Packaging Solutions,A001,Pharmaceuticals,Small,23300000.0,Active,2022-01-12
+C0068,Sai Polymers,A001,Packaging,Small,18100000.0,Active,2020-01-28
+C0069,TechnoCraft Tech Solutions,A001,Engineering,Enterprise,876500000.0,Active,2023-08-23
+C0070,Matrix Polymers,A001,Metal Fabrication,Large,200900000.0,Active,2022-08-15
+C0071,TechnoCraft Packaging Solutions,A001,Pharmaceuticals,Large,243300000.0,Active,2024-02-09
+C0072,Vanguard Forgings & Castings,A001,Electronics,Enterprise,501800000.0,Active,2021-06-06
+C0073,Omni Forgings & Castings,A001,Packaging,Large,151300000.0,Active,2022-12-09
+C0074,Sai Engineering Pvt Ltd,A001,Textile,Medium,35100000.0,Active,2023-07-16
+C0075,Sai Forgings & Castings,A001,Electronics,Enterprise,568900000.0,Active,2018-02-10
+C0076,Tata-Partner Polymers,A001,Chemicals,Large,209500000.0,Active,2020-08-18
+C0077,Pragati Automation Systems,A001,Food Processing,Large,153300000.0,Active,2021-05-10
+C0078,Deccan Forgings & Castings,A001,Engineering,Medium,48900000.0,Active,2023-09-25
+C0079,Schneider-Supplier Tools & Dies,A001,Chemicals,Medium,74300000.0,Active,2020-12-19
+C0080,Pragati Metal Works,A001,Pharmaceuticals,Small,24000000.0,Active,2020-04-12
+C0081,Kirloskar-Style Fabricators,A001,Automotive,Medium,46500000.0,Active,2018-09-10
+C0082,Schneider-Supplier Tools & Dies,A001,Electronics,Small,24700000.0,Active,2022-05-16
+C0083,Omni Tech Solutions,A001,Packaging,Medium,87900000.0,Active,2020-08-04
+C0084,Synergy Polymers,A001,Electronics,Small,19400000.0,Active,2023-01-05
+C0085,Matrix Metal Works,A001,Pharmaceuticals,Small,26900000.0,Active,2018-09-25
+C0086,TechnoCraft Metal Works,A001,Chemicals,Enterprise,570300000.0,Active,2021-05-28
+C0087,Shree Polymers,A001,Pharmaceuticals,Small,20000000.0,Active,2023-02-25
+C0088,Force Chemicals & Processing,A001,Chemicals,Large,208900000.0,Active,2019-04-06
+C0089,Sai Auto Components,A001,Metal Fabrication,Small,16400000.0,Active,2023-10-16
+C0090,Mahindra-Tier1 Engineering Pvt Ltd,A001,Chemicals,Large,217300000.0,Active,2023-08-03
+C0091,Atlas Forgings & Castings,A001,Pharmaceuticals,Medium,55500000.0,Active,2022-04-21
+C0092,Matrix Fabricators,A001,Metal Fabrication,Small,10100000.0,Active,2024-05-20
+C0093,Siemens-Tier2 Metal Works,A001,Pharmaceuticals,Enterprise,374600000.0,Active,2023-05-23
+C0094,Dynamic Fabricators,A001,Textile,Enterprise,562700000.0,Active,2022-01-14
+C0095,Siemens-Tier2 Automation Systems,A001,Pharmaceuticals,Small,10600000.0,Active,2023-10-19
+C0096,Bharat Chemicals & Processing,A001,Pharmaceuticals,Small,22700000.0,Active,2019-08-17
+C0097,Thermax-Vendor Tech Solutions,A001,Pharmaceuticals,Medium,89800000.0,Active,2021-11-27
+C0098,Omni Auto Components,A001,Electronics,Large,163500000.0,Active,2020-11-04
+C0099,Kirloskar-Style Automation Systems,A001,Food Processing,Enterprise,472900000.0,Active,2021-09-02
+C0100,Vanguard Auto Components,A001,Packaging,Large,148200000.0,Active,2024-07-28
+C0101,Pragati Engineering Pvt Ltd,A001,Textile,Enterprise,547900000.0,Active,2019-09-12
+C0102,Kalyani Tech Solutions,A001,Electronics,Small,12700000.0,Active,2022-03-10
+C0103,Vanguard Packaging Solutions,A001,Electronics,Small,9500000.0,Active,2023-10-26
+C0104,Tata-Partner Packaging Solutions,A001,Metal Fabrication,Large,189200000.0,Active,2022-07-03
+C0105,Tata-Partner Auto Components,A001,Electronics,Small,20700000.0,Active,2019-08-23
+C0106,Mahindra-Tier1 Industries,A001,Pharmaceuticals,Enterprise,800800000.0,Active,2021-04-15
+C0107,Sai Tools & Dies,A001,Food Processing,Medium,85300000.0,Active,2022-12-05
+C0108,Synergy Fabricators,A001,Food Processing,Large,258200000.0,Active,2022-05-27
+C0109,Bharat Fabricators,A001,Pharmaceuticals,Enterprise,819200000.0,Active,2021-09-16
+C0110,Sigma Automation Systems,A001,Textile,Enterprise,573200000.0,Active,2020-04-23
+C0111,Tata-Partner Metal Works,A001,Food Processing,Medium,81400000.0,Active,2021-01-11
+C0112,Siemens-Tier2 Tech Solutions,A001,Food Processing,Enterprise,893000000.0,Active,2024-11-05
+C0113,Omni Engineering Pvt Ltd,A001,Metal Fabrication,Large,246500000.0,Active,2024-08-04
+C0114,Pragati Tech Solutions,A001,Automotive,Medium,54600000.0,Active,2023-03-03
+C0115,Omni Fabricators,A001,Packaging,Enterprise,689900000.0,Active,2024-06-28
+C0116,Atlas Industries,A001,Food Processing,Large,202800000.0,Active,2024-08-28
+C0117,Sai Engineering Pvt Ltd,A001,Engineering,Medium,67900000.0,Active,2020-04-24
+C0118,Synergy Polymers,A001,Engineering,Small,17000000.0,Active,2023-05-01
+C0119,Precision Automation Systems,A001,Automotive,Large,154500000.0,Active,2021-03-08
+C0120,Pragati Polymers,A001,Metal Fabrication,Medium,40500000.0,Active,2022-07-20
+C0121,Atlas Forgings & Castings,A001,Electronics,Medium,43900000.0,Active,2023-05-15
+C0122,Deccan Chemicals & Processing,A001,Automotive,Enterprise,840700000.0,Active,2023-09-06
+C0123,Synergy Tech Solutions,A001,Packaging,Large,205000000.0,Active,2021-12-09
+C0124,Vanguard Fabricators,A001,Chemicals,Enterprise,812000000.0,Active,2018-04-13
+C0125,Shree Automation Systems,A001,Pharmaceuticals,Large,93900000.0,Active,2024-11-13
+C0126,Deccan Engineering Pvt Ltd,A001,Automotive,Enterprise,799700000.0,Active,2020-04-20
+C0127,Sigma Forgings & Castings,A001,Chemicals,Large,212000000.0,Active,2023-11-22
+C0128,Matrix Chemicals & Processing,A001,Engineering,Small,14600000.0,Active,2021-01-19
+C0129,Sigma Packaging Solutions,A001,Metal Fabrication,Small,25400000.0,Active,2020-12-14
+C0130,Kirloskar-Style Forgings & Castings,A001,Metal Fabrication,Large,185600000.0,Active,2020-03-09
+C0131,Omni Fabricators,A001,Packaging,Small,17400000.0,Active,2018-03-25
+C0132,Tata-Partner Chemicals & Processing,A001,Food Processing,Large,106300000.0,Active,2021-01-09
+C0133,Sai Auto Components,A001,Electronics,Large,211100000.0,Active,2023-05-19
+C0134,Dynamic Chemicals & Processing,A001,Packaging,Small,21100000.0,Active,2021-01-20
+C0135,Sai Automation Systems,A001,Chemicals,Small,20400000.0,Active,2021-12-10
+C0136,Thermax-Vendor Polymers,A001,Engineering,Medium,32700000.0,Active,2018-05-16
+C0137,Apex Auto Components,A001,Chemicals,Medium,53300000.0,Active,2020-11-24
+C0138,Schneider-Supplier Industries,A001,Food Processing,Medium,83100000.0,Active,2023-02-27
+C0139,Omni Metal Works,A001,Food Processing,Large,95900000.0,Active,2020-04-15
+C0140,Vanguard Forgings & Castings,A001,Packaging,Small,26700000.0,Active,2020-09-21
+C0141,Sigma Engineering Pvt Ltd,A001,Food Processing,Large,124200000.0,Active,2018-08-03
+C0142,Atlas Forgings & Castings,A001,Automotive,Small,23200000.0,Active,2019-03-26
+C0143,Shree Forgings & Castings,A001,Engineering,Medium,65200000.0,Active,2024-04-11
+C0144,Matrix Metal Works,A001,Automotive,Large,244500000.0,Active,2019-03-18
+C0145,Deccan Tools & Dies,A001,Engineering,Small,11400000.0,Active,2020-04-19
+C0146,Western Engineering Pvt Ltd,A001,Metal Fabrication,Large,99400000.0,Active,2023-07-17
+C0147,Apex Packaging Solutions,A001,Engineering,Enterprise,569000000.0,Active,2020-09-19
+C0148,Apex Tech Solutions,A001,Textile,Medium,86700000.0,Active,2018-12-26
+C0149,Atlas Industries,A001,Pharmaceuticals,Enterprise,686000000.0,Active,2018-01-16
+C0150,Dynamic Polymers,A001,Engineering,Enterprise,727400000.0,Active,2021-02-03
+C0151,Western Metal Works,A001,Metal Fabrication,Small,11300000.0,Active,2022-11-19
+C0152,Sai Packaging Solutions,A001,Packaging,Enterprise,896800000.0,Active,2022-05-15
+C0153,Pragati Metal Works,A001,Food Processing,Small,23300000.0,Active,2018-11-21
+C0154,Sai Packaging Solutions,A001,Chemicals,Enterprise,570900000.0,Active,2019-07-11
+C0155,Vanguard Polymers,A001,Food Processing,Small,14600000.0,Active,2020-11-09
+C0156,Sigma Tools & Dies,A001,Electronics,Small,10600000.0,Active,2018-02-14
+C0157,Apex Packaging Solutions,A001,Packaging,Medium,63400000.0,Active,2022-09-18
+C0158,Western Chemicals & Processing,A001,Engineering,Enterprise,512200000.0,Active,2023-07-28
+C0159,Siemens-Tier2 Engineering Pvt Ltd,A001,Pharmaceuticals,Large,153300000.0,Active,2022-09-07
+C0160,Matrix Chemicals & Processing,A001,Electronics,Medium,80800000.0,Active,2020-09-12
+C0161,Apex Fabricators,A001,Chemicals,Enterprise,807100000.0,Active,2024-10-20
+C0162,Atlas Chemicals & Processing,A001,Textile,Small,20000000.0,Active,2023-12-09
+C0163,Bharat Tools & Dies,A001,Pharmaceuticals,Large,255900000.0,Active,2020-01-06
+C0164,Matrix Metal Works,A001,Food Processing,Small,11600000.0,Active,2023-01-03
+C0165,Siemens-Tier2 Industries,A001,Chemicals,Enterprise,551900000.0,Active,2020-03-12
+C0166,Mahindra-Tier1 Packaging Solutions,A001,Packaging,Small,24900000.0,Active,2019-03-25
+C0167,Kalyani Engineering Pvt Ltd,A001,Engineering,Large,169800000.0,Active,2021-08-20
+C0168,Vanguard Polymers,A001,Pharmaceuticals,Medium,75300000.0,Active,2018-06-14
+C0169,Apex Fabricators,A001,Electronics,Large,98200000.0,Active,2021-10-02
+C0170,Bharat Forgings & Castings,A001,Pharmaceuticals,Medium,76000000.0,Active,2024-05-10
+C0171,Western Auto Components,A001,Automotive,Enterprise,748200000.0,Active,2019-03-13
+C0172,Sai Packaging Solutions,A001,Chemicals,Large,103000000.0,Active,2024-12-02
+C0173,TechnoCraft Engineering Pvt Ltd,A001,Electronics,Small,24500000.0,Active,2022-07-19
+C0174,Dynamic Packaging Solutions,A001,Food Processing,Large,110700000.0,Active,2018-06-06
+C0175,Kalyani Tech Solutions,A001,Packaging,Small,16900000.0,Active,2018-04-14
+C0176,Shree Polymers,A001,Textile,Small,16100000.0,Active,2020-12-11
+C0177,Tata-Partner Automation Systems,A001,Metal Fabrication,Small,18200000.0,Active,2018-09-17
+C0178,Force Automation Systems,A001,Packaging,Medium,44200000.0,Active,2019-05-07
+C0179,Kirloskar-Style Metal Works,A001,Metal Fabrication,Small,12200000.0,Active,2024-11-16
+C0180,Vanguard Metal Works,A001,Electronics,Large,245600000.0,Active,2023-06-05
+C0181,Vanguard Auto Components,A001,Electronics,Enterprise,678800000.0,Active,2024-05-19
+C0182,Precision Automation Systems,A001,Textile,Small,14600000.0,Active,2021-01-02
+C0183,Sigma Fabricators,A001,Engineering,Small,20100000.0,Active,2022-07-15
+C0184,Shree Industries,A001,Automotive,Enterprise,845400000.0,Active,2022-11-07
+C0185,Western Metal Works,A001,Electronics,Medium,87500000.0,Active,2021-02-26
+C0186,Western Packaging Solutions,A001,Engineering,Medium,32300000.0,Active,2023-08-15
+C0187,Pragati Industries,A001,Metal Fabrication,Large,157100000.0,Active,2020-07-14
+C0188,Western Chemicals & Processing,A001,Automotive,Large,101900000.0,Active,2018-09-22
+C0189,Dynamic Fabricators,A001,Pharmaceuticals,Medium,50000000.0,Active,2022-11-05
+C0190,Sigma Fabricators,A001,Food Processing,Medium,65700000.0,Active,2018-05-18
+C0191,Dynamic Chemicals & Processing,A001,Packaging,Medium,70200000.0,Active,2024-12-22
+C0192,Pragati Auto Components,A001,Food Processing,Large,93300000.0,Active,2020-03-07
+C0193,Western Tech Solutions,A001,Chemicals,Medium,90000000.0,Active,2019-02-10
+C0194,Apex Industries,A001,Textile,Small,20900000.0,Active,2024-10-05
+C0195,Kalyani Polymers,A001,Metal Fabrication,Medium,40900000.0,Active,2023-10-26
+C0196,Kirloskar-Style Packaging Solutions,A001,Electronics,Small,16400000.0,Active,2023-12-08
+C0197,Vanguard Metal Works,A001,Pharmaceuticals,Enterprise,440400000.0,Active,2019-05-26
+C0198,Omni Forgings & Castings,A001,Packaging,Enterprise,577000000.0,Active,2020-07-17
+C0199,Pragati Polymers,A001,Metal Fabrication,Medium,78100000.0,Active,2019-05-02
+C0200,Thermax-Vendor Tech Solutions,A001,Packaging,Small,21800000.0,Active,2022-02-10
+C0201,Synergy Tools & Dies,A001,Pharmaceuticals,Enterprise,843200000.0,Active,2019-07-03
+C0202,Tata-Partner Tech Solutions,A001,Packaging,Small,16500000.0,Active,2021-09-12
+C0203,Tata-Partner Polymers,A001,Engineering,Large,130400000.0,Active,2020-02-27
+C0204,Schneider-Supplier Chemicals & Processing,A001,Packaging,Medium,38300000.0,Active,2020-08-23
+C0205,Matrix Packaging Solutions,A001,Electronics,Enterprise,669200000.0,Active,2018-01-09
+C0206,Force Tools & Dies,A001,Textile,Enterprise,366700000.0,Active,2020-04-10
+C0207,Apex Engineering Pvt Ltd,A001,Chemicals,Enterprise,683400000.0,Active,2022-08-03
+C0208,Apex Tech Solutions,A001,Textile,Small,20400000.0,Active,2022-04-23
+C0209,Matrix Fabricators,A001,Food Processing,Small,20100000.0,Active,2019-10-14
+C0210,Kirloskar-Style Chemicals & Processing,A001,Engineering,Large,102200000.0,Active,2022-09-17
+C0211,Pragati Industries,A001,Automotive,Enterprise,824000000.0,Active,2018-11-13
+C0212,Sigma Fabricators,A001,Automotive,Large,231900000.0,Active,2020-04-24
+C0213,Atlas Chemicals & Processing,A001,Engineering,Large,114000000.0,Active,2020-09-11
+C0214,Thermax-Vendor Tools & Dies,A001,Electronics,Enterprise,679000000.0,Active,2024-03-03
+C0215,Schneider-Supplier Tech Solutions,A001,Automotive,Large,126300000.0,Active,2024-04-02
+C0216,Western Fabricators,A001,Textile,Enterprise,893500000.0,Active,2022-08-09
+C0217,Precision Chemicals & Processing,A001,Chemicals,Large,154300000.0,Active,2024-01-28
+C0218,Thermax-Vendor Automation Systems,A001,Pharmaceuticals,Small,23400000.0,Active,2021-07-24
+C0219,Vanguard Polymers,A001,Packaging,Medium,59800000.0,Active,2021-06-26
+C0220,Pragati Fabricators,A001,Engineering,Enterprise,347400000.0,Active,2022-03-18
+C0221,Mahindra-Tier1 Automation Systems,A001,Engineering,Small,14900000.0,Active,2020-05-15
+C0222,Kalyani Packaging Solutions,A001,Food Processing,Medium,71400000.0,Active,2020-08-02
+C0223,Siemens-Tier2 Automation Systems,A001,Food Processing,Large,205100000.0,Active,2024-01-03
+C0224,Atlas Chemicals & Processing,A001,Food Processing,Large,182400000.0,Active,2023-11-06
+C0225,Bharat Tools & Dies,A001,Electronics,Small,11300000.0,Active,2019-11-12
+C0226,Sigma Polymers,A001,Automotive,Medium,70700000.0,Active,2020-06-15
+C0227,Synergy Metal Works,A001,Metal Fabrication,Large,161600000.0,Active,2023-05-08
+C0228,Apex Engineering Pvt Ltd,A001,Metal Fabrication,Enterprise,610600000.0,Active,2022-02-09
+C0229,Deccan Packaging Solutions,A001,Electronics,Medium,89800000.0,Active,2020-12-16
+C0230,Force Auto Components,A001,Metal Fabrication,Small,17100000.0,Active,2023-08-03
+C0231,Atlas Automation Systems,A001,Packaging,Small,18900000.0,Active,2020-05-28
+C0232,Kirloskar-Style Packaging Solutions,A001,Metal Fabrication,Large,181600000.0,Active,2018-04-26
+C0233,Matrix Forgings & Castings,A001,Electronics,Small,15500000.0,Active,2022-06-15
+C0234,Sai Tools & Dies,A001,Engineering,Small,14600000.0,Active,2023-12-16
+C0235,Pragati Polymers,A001,Food Processing,Small,11300000.0,Active,2020-11-03
+C0236,Vanguard Tech Solutions,A001,Textile,Large,113100000.0,Active,2024-09-21
+C0237,Shree Tools & Dies,A001,Metal Fabrication,Enterprise,601700000.0,Active,2024-01-27
+C0238,Apex Industries,A001,Metal Fabrication,Large,119600000.0,Active,2020-12-08
+C0239,Sigma Industries,A001,Pharmaceuticals,Small,13500000.0,Active,2023-09-09
+C0240,Matrix Chemicals & Processing,A001,Pharmaceuticals,Small,18000000.0,Active,2019-10-19
+C0241,Matrix Tools & Dies,A001,Packaging,Small,23900000.0,Active,2018-02-02
+C0242,Thermax-Vendor Metal Works,A001,Pharmaceuticals,Medium,76000000.0,Active,2021-10-21
+C0243,Bharat Tech Solutions,A001,Textile,Large,205500000.0,Active,2020-08-08
+C0244,Atlas Polymers,A001,Pharmaceuticals,Enterprise,343800000.0,Active,2018-03-15
+C0245,TechnoCraft Tech Solutions,A001,Electronics,Medium,50400000.0,Active,2019-06-28
+C0246,Schneider-Supplier Automation Systems,A001,Packaging,Enterprise,378500000.0,Active,2020-09-18
+C0247,Apex Automation Systems,A001,Chemicals,Enterprise,373500000.0,Active,2021-04-05
+C0248,Apex Engineering Pvt Ltd,A001,Pharmaceuticals,Enterprise,818500000.0,Active,2021-04-28
+C0249,Kirloskar-Style Automation Systems,A001,Packaging,Medium,75800000.0,Active,2021-09-15
+C0250,Omni Fabricators,A001,Electronics,Small,10600000.0,Active,2021-09-15
+C0251,Tata-Partner Forgings & Castings,A001,Packaging,Small,9900000.0,Active,2021-10-27
+C0252,Thermax-Vendor Chemicals & Processing,A001,Electronics,Large,186600000.0,Active,2024-02-14
+C0253,Matrix Fabricators,A001,Packaging,Enterprise,519600000.0,Active,2021-01-19
+C0254,Sai Forgings & Castings,A001,Packaging,Large,103200000.0,Active,2022-08-25
+C0255,Sai Fabricators,A001,Engineering,Medium,88500000.0,Active,2021-06-26
+C0256,Western Industries,A001,Packaging,Medium,41900000.0,Active,2022-07-17
+C0257,Precision Engineering Pvt Ltd,A001,Automotive,Medium,72800000.0,Active,2024-08-17
+C0258,Vanguard Tools & Dies,A001,Textile,Medium,49700000.0,Active,2022-06-06
+C0259,Dynamic Metal Works,A001,Pharmaceuticals,Large,181300000.0,Active,2022-09-16
+C0260,Schneider-Supplier Metal Works,A001,Pharmaceuticals,Enterprise,789400000.0,Active,2020-06-22
+C0261,Apex Polymers,A001,Pharmaceuticals,Small,19700000.0,Active,2020-11-26
+C0262,Shree Metal Works,A001,Chemicals,Small,19500000.0,Active,2019-09-21
+C0263,Siemens-Tier2 Metal Works,A001,Food Processing,Medium,79300000.0,Active,2019-01-19
+C0264,Schneider-Supplier Auto Components,A001,Chemicals,Small,16900000.0,Active,2021-03-14
+C0265,Schneider-Supplier Forgings & Castings,A001,Food Processing,Enterprise,823700000.0,Active,2023-12-02
+C0266,Schneider-Supplier Tools & Dies,A001,Textile,Medium,63700000.0,Active,2023-08-17
+C0267,Dynamic Automation Systems,A001,Metal Fabrication,Enterprise,847300000.0,Active,2020-09-12
+C0268,Atlas Packaging Solutions,A001,Pharmaceuticals,Enterprise,415400000.0,Active,2019-05-18
+C0269,Mahindra-Tier1 Forgings & Castings,A001,Pharmaceuticals,Large,216900000.0,Active,2023-12-16
+C0270,Western Tech Solutions,A001,Packaging,Large,141800000.0,Active,2022-11-18
+C0271,Dynamic Polymers,A001,Packaging,Medium,47400000.0,Active,2020-12-03
+C0272,Sigma Tech Solutions,A001,Pharmaceuticals,Enterprise,428400000.0,Active,2024-09-09
+C0273,Sai Packaging Solutions,A001,Pharmaceuticals,Medium,36600000.0,Active,2023-10-08
+C0274,Tata-Partner Engineering Pvt Ltd,A001,Textile,Medium,68300000.0,Active,2018-02-14
+C0275,Western Packaging Solutions,A001,Electronics,Small,21300000.0,Active,2019-01-18
+C0276,Kirloskar-Style Polymers,A001,Electronics,Enterprise,690300000.0,Active,2024-05-11
+C0277,Mahindra-Tier1 Chemicals & Processing,A001,Automotive,Small,20700000.0,Active,2019-09-24
+C0278,Siemens-Tier2 Engineering Pvt Ltd,A001,Metal Fabrication,Enterprise,829300000.0,Active,2019-01-27
+C0279,Dynamic Tech Solutions,A001,Metal Fabrication,Large,247800000.0,Active,2018-05-19
+C0280,Kalyani Auto Components,A001,Packaging,Large,171800000.0,Active,2023-09-17
+C0281,Omni Tools & Dies,A001,Textile,Enterprise,463700000.0,Active,2024-02-11
+C0282,Kirloskar-Style Packaging Solutions,A001,Electronics,Large,219300000.0,Active,2018-12-11
+C0283,Mahindra-Tier1 Metal Works,A001,Chemicals,Medium,66700000.0,Active,2023-07-27
+C0284,TechnoCraft Industries,A001,Packaging,Small,16200000.0,Active,2018-03-05
+C0285,Omni Automation Systems,A001,Chemicals,Small,13700000.0,Active,2019-08-25
+C0286,Deccan Automation Systems,A001,Pharmaceuticals,Small,13700000.0,Active,2020-12-08
+C0287,Precision Chemicals & Processing,A001,Engineering,Enterprise,484100000.0,Active,2021-11-17
+C0288,Schneider-Supplier Fabricators,A001,Engineering,Large,156200000.0,Active,2019-04-05
+C0289,Omni Tools & Dies,A001,Electronics,Large,164900000.0,Active,2022-08-25
+C0290,Sai Chemicals & Processing,A001,Chemicals,Medium,70800000.0,Active,2022-02-17
+C0291,Vanguard Industries,A001,Packaging,Small,25500000.0,Active,2018-01-27
+C0292,Sai Industries,A001,Chemicals,Medium,39900000.0,Active,2024-09-15
+C0293,Apex Chemicals & Processing,A001,Chemicals,Enterprise,354600000.0,Active,2022-08-26
+C0294,Precision Tech Solutions,A001,Metal Fabrication,Enterprise,574100000.0,Active,2018-09-15
+C0295,Atlas Fabricators,A001,Automotive,Enterprise,452700000.0,Active,2018-12-07
+C0296,Shree Auto Components,A001,Automotive,Enterprise,506700000.0,Active,2018-09-02
+C0297,Synergy Tech Solutions,A001,Automotive,Large,163600000.0,Active,2024-03-25
+C0298,Thermax-Vendor Packaging Solutions,A001,Food Processing,Large,268700000.0,Active,2021-08-28
+C0299,Dynamic Polymers,A001,Engineering,Medium,69200000.0,Active,2020-02-06
+C0300,Sai Polymers,A001,Textile,Medium,73700000.0,Active,2019-01-25
+C0301,Bharat Fabricators,A001,Electronics,Enterprise,619200000.0,Active,2024-04-08
+C0302,Vanguard Automation Systems,A001,Metal Fabrication,Large,123900000.0,Active,2023-02-02
+C0303,Atlas Polymers,A001,Automotive,Medium,42400000.0,Active,2018-10-02
+C0304,Vanguard Metal Works,A001,Automotive,Medium,74400000.0,Active,2021-08-08
+C0305,Sai Forgings & Castings,A001,Automotive,Medium,60200000.0,Active,2020-04-27
+C0306,Siemens-Tier2 Metal Works,A001,Packaging,Large,132600000.0,Active,2019-11-17
+C0307,Tata-Partner Polymers,A001,Pharmaceuticals,Large,101000000.0,Active,2022-12-06
+C0308,Thermax-Vendor Chemicals & Processing,A001,Food Processing,Enterprise,328100000.0,Active,2020-11-22
+C0309,Dynamic Industries,A001,Packaging,Enterprise,545000000.0,Active,2020-07-06
+C0310,Sai Tech Solutions,A001,Chemicals,Medium,48000000.0,Active,2023-03-26
+C0311,Vanguard Engineering Pvt Ltd,A002,Textile,Enterprise,880700000.0,Active,2022-09-05
+C0312,Dynamic Forgings & Castings,A002,Pharmaceuticals,Medium,49800000.0,Active,2018-08-28
+C0313,Sigma Auto Components,A002,Textile,Medium,33100000.0,Active,2021-11-20
+C0314,Kalyani Engineering Pvt Ltd,A002,Engineering,Medium,78300000.0,Active,2022-12-22
+C0315,Sai Forgings & Castings,A002,Electronics,Medium,82200000.0,Active,2020-05-01
+C0316,Force Forgings & Castings,A002,Engineering,Enterprise,848700000.0,Active,2023-10-23
+C0317,Force Polymers,A002,Chemicals,Large,229600000.0,Active,2021-08-18
+C0318,Thermax-Vendor Automation Systems,A002,Pharmaceuticals,Large,154700000.0,Active,2021-08-04
+C0319,Siemens-Tier2 Tech Solutions,A002,Packaging,Medium,52200000.0,Active,2021-01-19
+C0320,Tata-Partner Packaging Solutions,A002,Metal Fabrication,Small,13700000.0,Active,2022-10-24
+C0321,TechnoCraft Fabricators,A002,Metal Fabrication,Medium,49800000.0,Active,2021-10-27
+C0322,Tata-Partner Tech Solutions,A002,Textile,Large,136300000.0,Active,2024-08-24
+C0323,Thermax-Vendor Packaging Solutions,A002,Electronics,Enterprise,400900000.0,Active,2024-06-06
+C0324,Matrix Packaging Solutions,A002,Textile,Enterprise,410400000.0,Active,2022-11-02
+C0325,Pragati Engineering Pvt Ltd,A002,Engineering,Small,22800000.0,Active,2021-03-27
+C0326,Thermax-Vendor Forgings & Castings,A002,Engineering,Medium,30500000.0,Active,2022-08-12
+C0327,Precision Metal Works,A002,Electronics,Enterprise,309400000.0,Active,2022-09-14
+C0328,Bharat Engineering Pvt Ltd,A002,Textile,Large,186400000.0,Active,2020-01-17
+C0329,Schneider-Supplier Chemicals & Processing,A002,Food Processing,Medium,36400000.0,Active,2018-09-05
+C0330,Tata-Partner Forgings & Castings,A002,Textile,Large,236700000.0,Active,2020-07-03
+C0331,Sigma Polymers,A002,Electronics,Medium,89400000.0,Active,2019-05-22
+C0332,Synergy Chemicals & Processing,A002,Automotive,Small,16300000.0,Active,2021-09-16
+C0333,Precision Chemicals & Processing,A002,Automotive,Medium,35000000.0,Active,2024-07-21
+C0334,Western Metal Works,A002,Engineering,Small,13100000.0,Active,2024-12-19
+C0335,Omni Fabricators,A002,Automotive,Small,21300000.0,Active,2020-09-19
+C0336,Atlas Engineering Pvt Ltd,A002,Metal Fabrication,Large,92800000.0,Active,2019-10-05
+C0337,Schneider-Supplier Polymers,A002,Engineering,Large,119200000.0,Active,2019-10-27
+C0338,Dynamic Chemicals & Processing,A002,Textile,Large,159100000.0,Active,2023-03-26
+C0339,Schneider-Supplier Packaging Solutions,A002,Engineering,Large,99700000.0,Active,2021-04-27
+C0340,Synergy Automation Systems,A002,Food Processing,Large,95300000.0,Active,2020-08-16
+C0341,Tata-Partner Automation Systems,A002,Textile,Enterprise,559100000.0,Active,2023-10-22
+C0342,Dynamic Auto Components,A002,Pharmaceuticals,Medium,72800000.0,Active,2018-05-05
+C0343,Dynamic Packaging Solutions,A002,Metal Fabrication,Enterprise,490000000.0,Active,2018-02-01
+C0344,Mahindra-Tier1 Tech Solutions,A002,Packaging,Large,108400000.0,Active,2018-03-14
+C0345,Vanguard Industries,A002,Textile,Enterprise,362000000.0,Active,2018-06-18
+C0346,Synergy Metal Works,A002,Packaging,Enterprise,307400000.0,Active,2021-07-25
+C0347,Synergy Packaging Solutions,A002,Textile,Medium,64300000.0,Active,2019-11-13
+C0348,Kirloskar-Style Tools & Dies,A002,Pharmaceuticals,Large,138300000.0,Active,2019-02-06
+C0349,TechnoCraft Fabricators,A002,Food Processing,Large,177200000.0,Active,2018-06-09
+C0350,Tata-Partner Packaging Solutions,A002,Electronics,Medium,57500000.0,Active,2019-05-01
+C0351,Dynamic Automation Systems,A002,Food Processing,Large,169200000.0,Active,2021-11-20
+C0352,Matrix Fabricators,A002,Packaging,Medium,58700000.0,Active,2019-07-11
+C0353,Mahindra-Tier1 Packaging Solutions,A002,Electronics,Medium,49600000.0,Active,2020-07-12
+C0354,Apex Metal Works,A002,Chemicals,Medium,70900000.0,Active,2022-01-24
+C0355,Vanguard Packaging Solutions,A002,Chemicals,Enterprise,778600000.0,Active,2024-12-03
+C0356,TechnoCraft Chemicals & Processing,A002,Electronics,Medium,68000000.0,Active,2019-05-22
+C0357,Matrix Packaging Solutions,A002,Food Processing,Enterprise,344400000.0,Active,2022-08-19
+C0358,Dynamic Industries,A002,Textile,Enterprise,626200000.0,Active,2024-06-23
+C0359,Sai Metal Works,A002,Engineering,Small,22800000.0,Active,2023-11-12
+C0360,Kirloskar-Style Chemicals & Processing,A002,Automotive,Enterprise,880100000.0,Active,2020-07-04
+C0361,Bharat Auto Components,A002,Pharmaceuticals,Medium,60600000.0,Active,2022-09-19
+C0362,Schneider-Supplier Metal Works,A002,Chemicals,Enterprise,524500000.0,Active,2021-11-19
+C0363,Schneider-Supplier Industries,A002,Metal Fabrication,Large,269600000.0,Active,2021-02-10
+C0364,TechnoCraft Auto Components,A002,Engineering,Medium,50900000.0,Active,2020-08-26
+C0365,Force Industries,A002,Electronics,Large,175700000.0,Active,2021-12-23
+C0366,Vanguard Automation Systems,A002,Engineering,Large,98000000.0,Active,2023-02-01
+C0367,Western Chemicals & Processing,A002,Engineering,Medium,85800000.0,Active,2023-04-17
+C0368,Kirloskar-Style Industries,A002,Metal Fabrication,Large,190800000.0,Active,2021-04-26
+C0369,Dynamic Chemicals & Processing,A002,Metal Fabrication,Medium,68400000.0,Active,2021-07-01
+C0370,Siemens-Tier2 Metal Works,A002,Chemicals,Enterprise,655300000.0,Active,2021-01-23
+C0371,Force Forgings & Castings,A002,Pharmaceuticals,Small,19400000.0,Active,2024-09-06
+C0372,Sigma Automation Systems,A002,Chemicals,Enterprise,368400000.0,Active,2023-08-17
+C0373,Thermax-Vendor Automation Systems,A002,Food Processing,Enterprise,652200000.0,Active,2020-06-28
+C0374,Vanguard Metal Works,A002,Metal Fabrication,Large,255400000.0,Active,2022-02-22
+C0375,Matrix Automation Systems,A002,Engineering,Medium,48300000.0,Active,2019-06-23
+C0376,Matrix Industries,A002,Food Processing,Enterprise,657900000.0,Active,2022-07-14
+C0377,Kirloskar-Style Tech Solutions,A002,Textile,Medium,63300000.0,Active,2021-05-05
+C0378,Kirloskar-Style Automation Systems,A002,Electronics,Small,24600000.0,Active,2018-08-05
+C0379,Force Polymers,A002,Textile,Enterprise,545500000.0,Active,2021-07-23
+C0380,Vanguard Tech Solutions,A002,Metal Fabrication,Small,19200000.0,Active,2024-04-10
+C0381,Precision Fabricators,A002,Chemicals,Large,120300000.0,Active,2021-10-24
+C0382,Omni Industries,A002,Textile,Small,19300000.0,Active,2020-09-27
+C0383,Sigma Industries,A002,Automotive,Enterprise,627800000.0,Active,2021-02-24
+C0384,Thermax-Vendor Forgings & Castings,A002,Pharmaceuticals,Small,17100000.0,Active,2020-02-15
+C0385,Apex Forgings & Castings,A002,Chemicals,Large,245000000.0,Active,2022-11-14
+C0386,Kirloskar-Style Metal Works,A002,Metal Fabrication,Medium,78800000.0,Active,2024-01-19
+C0387,Sigma Industries,A002,Pharmaceuticals,Medium,49400000.0,Active,2023-05-10
+C0388,Shree Fabricators,A002,Textile,Small,11400000.0,Active,2024-07-02
+C0389,Deccan Chemicals & Processing,A002,Metal Fabrication,Medium,45000000.0,Active,2023-06-27
+C0390,Tata-Partner Chemicals & Processing,A002,Food Processing,Enterprise,385300000.0,Active,2023-05-21
+C0391,TechnoCraft Polymers,A002,Electronics,Small,20400000.0,Active,2024-02-13
+C0392,Pragati Packaging Solutions,A002,Pharmaceuticals,Large,171800000.0,Active,2021-06-19
+C0393,Bharat Packaging Solutions,A002,Engineering,Enterprise,680900000.0,Active,2023-06-28
+C0394,Synergy Industries,A002,Food Processing,Medium,88100000.0,Active,2024-04-16
+C0395,Deccan Automation Systems,A002,Pharmaceuticals,Large,188500000.0,Active,2019-10-28
+C0396,Omni Automation Systems,A002,Automotive,Small,10800000.0,Active,2024-08-01
+C0397,Apex Tools & Dies,A002,Electronics,Enterprise,300400000.0,Active,2021-04-23
+C0398,Matrix Chemicals & Processing,A002,Pharmaceuticals,Medium,82500000.0,Active,2020-02-21
+C0399,Sigma Fabricators,A002,Engineering,Large,209600000.0,Active,2023-03-02
+C0400,Dynamic Chemicals & Processing,A002,Pharmaceuticals,Medium,55800000.0,Active,2018-12-04
+C0401,Bharat Forgings & Castings,A002,Electronics,Small,11400000.0,Active,2019-09-22
+C0402,Vanguard Engineering Pvt Ltd,A002,Automotive,Large,237100000.0,Active,2024-07-23
+C0403,Matrix Tech Solutions,A002,Engineering,Medium,53000000.0,Active,2023-02-04
+C0404,Western Automation Systems,A002,Pharmaceuticals,Medium,53000000.0,Active,2024-03-21
+C0405,Atlas Tools & Dies,A002,Engineering,Small,20000000.0,Active,2019-08-12
+C0406,Siemens-Tier2 Forgings & Castings,A002,Metal Fabrication,Enterprise,669600000.0,Active,2021-04-03
+C0407,Apex Tools & Dies,A002,Engineering,Enterprise,510900000.0,Active,2021-06-26
+C0408,Matrix Forgings & Castings,A002,Pharmaceuticals,Small,13500000.0,Active,2022-10-24
+C0409,Kalyani Fabricators,A002,Automotive,Large,127000000.0,Active,2022-09-07
+C0410,Siemens-Tier2 Polymers,A002,Pharmaceuticals,Small,23100000.0,Active,2024-04-16
+C0411,Dynamic Auto Components,A002,Chemicals,Enterprise,682800000.0,Active,2018-09-01
+C0412,Sigma Automation Systems,A002,Metal Fabrication,Enterprise,816500000.0,Active,2022-07-12
+C0413,Sai Chemicals & Processing,A002,Metal Fabrication,Enterprise,872700000.0,Active,2024-02-01
+C0414,Shree Auto Components,A002,Automotive,Large,128800000.0,Active,2018-07-17
+C0415,Mahindra-Tier1 Chemicals & Processing,A002,Textile,Enterprise,554100000.0,Active,2021-02-21
+C0416,Sai Industries,A002,Metal Fabrication,Large,105000000.0,Active,2018-09-07
+C0417,Matrix Industries,A002,Packaging,Enterprise,651900000.0,Active,2024-11-22
+C0418,Thermax-Vendor Auto Components,A002,Pharmaceuticals,Enterprise,738000000.0,Active,2024-04-02
+C0419,Tata-Partner Auto Components,A002,Food Processing,Small,17200000.0,Active,2022-01-10
+C0420,Atlas Packaging Solutions,A002,Metal Fabrication,Small,9200000.0,Active,2019-12-01
+C0421,Kirloskar-Style Tech Solutions,A002,Packaging,Large,120100000.0,Active,2019-12-25
+C0422,Deccan Packaging Solutions,A002,Engineering,Small,15000000.0,Active,2021-05-17
+C0423,Synergy Fabricators,A002,Engineering,Enterprise,573100000.0,Active,2020-01-16
+C0424,Shree Tools & Dies,A002,Packaging,Medium,45300000.0,Active,2018-10-22
+C0425,Siemens-Tier2 Auto Components,A002,Chemicals,Small,9800000.0,Active,2024-01-08
+C0426,Precision Tech Solutions,A002,Packaging,Enterprise,852100000.0,Active,2019-01-18
+C0427,Schneider-Supplier Packaging Solutions,A002,Food Processing,Medium,49300000.0,Active,2021-12-11
+C0428,Deccan Auto Components,A002,Packaging,Small,18000000.0,Active,2018-03-08
+C0429,Pragati Engineering Pvt Ltd,A002,Food Processing,Small,24800000.0,Active,2024-05-25
+C0430,Mahindra-Tier1 Automation Systems,A002,Engineering,Enterprise,304800000.0,Active,2019-05-19
+C0431,Mahindra-Tier1 Packaging Solutions,A002,Chemicals,Enterprise,521000000.0,Active,2021-04-24
+C0432,Sai Forgings & Castings,A002,Metal Fabrication,Small,25800000.0,Active,2018-04-18
+C0433,Sigma Chemicals & Processing,A002,Automotive,Large,90300000.0,Active,2023-07-28
+C0434,Siemens-Tier2 Packaging Solutions,A002,Pharmaceuticals,Small,12700000.0,Active,2019-07-16
+C0435,Precision Tools & Dies,A002,Pharmaceuticals,Small,9800000.0,Active,2019-09-14
+C0436,Schneider-Supplier Automation Systems,A002,Electronics,Small,19500000.0,Active,2022-03-21
+C0437,Dynamic Auto Components,A002,Automotive,Enterprise,697500000.0,Active,2019-04-10
+C0438,Deccan Automation Systems,A002,Food Processing,Large,147300000.0,Active,2020-04-03
+C0439,Force Tools & Dies,A002,Engineering,Medium,36300000.0,Active,2021-08-11
+C0440,TechnoCraft Auto Components,A002,Textile,Large,263600000.0,Active,2019-08-10
+C0441,Vanguard Fabricators,A002,Engineering,Small,11800000.0,Active,2023-05-27
+C0442,Schneider-Supplier Packaging Solutions,A002,Automotive,Medium,80200000.0,Active,2020-03-03
+C0443,Schneider-Supplier Forgings & Castings,A002,Packaging,Enterprise,608100000.0,Active,2023-05-09
+C0444,Kirloskar-Style Engineering Pvt Ltd,A002,Food Processing,Enterprise,633600000.0,Active,2022-04-04
+C0445,Vanguard Auto Components,A002,Metal Fabrication,Small,9200000.0,Active,2024-04-05
+C0446,Force Polymers,A002,Packaging,Small,19500000.0,Active,2020-02-01
+C0447,Synergy Forgings & Castings,A002,Electronics,Medium,35500000.0,Active,2024-06-04
+C0448,Precision Tech Solutions,A002,Automotive,Medium,85400000.0,Active,2021-12-13
+C0449,Omni Engineering Pvt Ltd,A002,Food Processing,Enterprise,403700000.0,Active,2019-03-09
+C0450,Deccan Tech Solutions,A002,Metal Fabrication,Small,20100000.0,Active,2022-04-21
+C0451,Mahindra-Tier1 Tech Solutions,A002,Food Processing,Enterprise,336600000.0,Active,2020-07-05
+C0452,TechnoCraft Forgings & Castings,A002,Textile,Medium,67800000.0,Active,2024-09-26
+C0453,Bharat Polymers,A002,Packaging,Enterprise,626700000.0,Active,2021-06-19
+C0454,Pragati Automation Systems,A002,Food Processing,Large,122400000.0,Active,2020-10-08
+C0455,Bharat Fabricators,A002,Automotive,Enterprise,617700000.0,Active,2024-10-08
+C0456,Kirloskar-Style Auto Components,A002,Chemicals,Medium,46000000.0,Active,2024-12-02
+C0457,Tata-Partner Metal Works,A002,Food Processing,Large,258300000.0,Active,2024-03-06
+C0458,Tata-Partner Metal Works,A002,Packaging,Large,254500000.0,Active,2018-12-23
+C0459,Sigma Metal Works,A002,Metal Fabrication,Medium,80200000.0,Active,2024-08-18
+C0460,Mahindra-Tier1 Tools & Dies,A002,Electronics,Small,10600000.0,Active,2019-10-08
+C0461,Bharat Industries,A003,Electronics,Small,15000000.0,Active,2022-04-26
+C0462,Matrix Automation Systems,A003,Metal Fabrication,Large,100700000.0,Active,2019-10-23
+C0463,Matrix Auto Components,A003,Textile,Large,262900000.0,Active,2020-12-22
+C0464,Dynamic Metal Works,A003,Engineering,Large,144300000.0,Active,2019-03-24
+C0465,TechnoCraft Chemicals & Processing,A003,Electronics,Large,121400000.0,Active,2022-12-20
+C0466,Sigma Forgings & Castings,A003,Metal Fabrication,Enterprise,484100000.0,Active,2023-05-05
+C0467,Kirloskar-Style Packaging Solutions,A003,Automotive,Enterprise,810500000.0,Active,2024-10-02
+C0468,Kirloskar-Style Metal Works,A003,Packaging,Medium,68400000.0,Active,2018-08-05
+C0469,Western Packaging Solutions,A003,Engineering,Medium,50800000.0,Active,2020-03-21
+C0470,Synergy Packaging Solutions,A003,Packaging,Enterprise,306800000.0,Active,2019-04-23
+C0471,Synergy Automation Systems,A003,Pharmaceuticals,Small,22000000.0,Active,2018-07-15
+C0472,Siemens-Tier2 Polymers,A003,Metal Fabrication,Enterprise,595800000.0,Active,2021-06-18
+C0473,Dynamic Auto Components,A003,Electronics,Medium,39800000.0,Active,2018-01-10
+C0474,Bharat Automation Systems,A003,Pharmaceuticals,Small,10300000.0,Active,2019-07-06
+C0475,Siemens-Tier2 Auto Components,A003,Textile,Small,15100000.0,Active,2022-08-23
+C0476,Bharat Polymers,A003,Metal Fabrication,Enterprise,394300000.0,Active,2018-06-07
+C0477,Force Polymers,A003,Textile,Large,208900000.0,Active,2020-04-04
+C0478,Precision Polymers,A003,Textile,Enterprise,392200000.0,Active,2020-01-14
+C0479,Synergy Fabricators,A003,Electronics,Medium,35800000.0,Active,2019-03-21
+C0480,Mahindra-Tier1 Auto Components,A003,Electronics,Small,14600000.0,Active,2021-08-16
+C0481,Atlas Fabricators,A003,Engineering,Enterprise,410900000.0,Active,2021-06-06
+C0482,Vanguard Engineering Pvt Ltd,A003,Pharmaceuticals,Enterprise,579000000.0,Active,2019-05-19
+C0483,Precision Tools & Dies,A003,Engineering,Small,21000000.0,Active,2024-09-14
+C0484,Shree Forgings & Castings,A003,Textile,Small,24100000.0,Active,2024-09-14
+C0485,Sai Chemicals & Processing,A003,Electronics,Medium,58600000.0,Active,2018-07-28
+C0486,Schneider-Supplier Engineering Pvt Ltd,A003,Textile,Medium,37200000.0,Active,2024-08-06
+C0487,Kirloskar-Style Forgings & Castings,A003,Chemicals,Medium,32600000.0,Active,2018-11-14
+C0488,Force Chemicals & Processing,A003,Metal Fabrication,Large,147600000.0,Active,2023-02-03
+C0489,Dynamic Industries,A003,Food Processing,Large,244200000.0,Active,2022-08-28
+C0490,Bharat Packaging Solutions,A003,Textile,Enterprise,367500000.0,Active,2019-03-19
+C0491,Shree Metal Works,A003,Engineering,Small,19100000.0,Active,2018-05-28
+C0492,Sai Automation Systems,A003,Food Processing,Large,158900000.0,Active,2021-10-20
+C0493,Omni Engineering Pvt Ltd,A003,Metal Fabrication,Large,162500000.0,Active,2022-10-22
+C0494,Schneider-Supplier Polymers,A003,Automotive,Enterprise,833700000.0,Active,2020-12-08
+C0495,Precision Packaging Solutions,A003,Electronics,Large,251500000.0,Active,2018-06-27
+C0496,Mahindra-Tier1 Fabricators,A003,Pharmaceuticals,Enterprise,814900000.0,Active,2023-02-28
+C0497,Tata-Partner Tools & Dies,A003,Pharmaceuticals,Enterprise,764400000.0,Active,2020-05-24
+C0498,TechnoCraft Metal Works,A003,Engineering,Medium,56500000.0,Active,2024-07-24
+C0499,Omni Industries,A003,Packaging,Small,18300000.0,Active,2019-02-10
+C0500,Schneider-Supplier Industries,A003,Food Processing,Medium,76800000.0,Active,2022-10-01
+C0501,Kirloskar-Style Forgings & Castings,A003,Chemicals,Small,13500000.0,Active,2021-01-12
+C0502,Schneider-Supplier Forgings & Castings,A003,Pharmaceuticals,Large,238200000.0,Active,2022-07-21
+C0503,Apex Chemicals & Processing,A003,Automotive,Medium,52300000.0,Active,2022-08-06
+C0504,Omni Metal Works,A003,Textile,Large,152000000.0,Active,2024-05-24
+C0505,Schneider-Supplier Auto Components,A003,Pharmaceuticals,Small,16000000.0,Active,2019-10-25
+C0506,Force Forgings & Castings,A003,Chemicals,Medium,46100000.0,Active,2021-09-01
+C0507,Atlas Engineering Pvt Ltd,A003,Electronics,Medium,68800000.0,Active,2022-01-08
+C0508,Deccan Metal Works,A003,Pharmaceuticals,Large,166300000.0,Active,2021-06-15
+C0509,Deccan Forgings & Castings,A003,Electronics,Large,211900000.0,Active,2024-10-13
+C0510,Shree Auto Components,A003,Automotive,Large,191100000.0,Active,2022-10-10
+C0511,Mahindra-Tier1 Chemicals & Processing,A003,Engineering,Enterprise,338300000.0,Active,2020-11-11
+C0512,Deccan Fabricators,A003,Pharmaceuticals,Medium,39000000.0,Active,2024-04-02
+C0513,Kalyani Polymers,A003,Packaging,Medium,73300000.0,Active,2023-08-10
+C0514,Deccan Polymers,A003,Food Processing,Enterprise,742000000.0,Active,2022-12-19
+C0515,Force Automation Systems,A003,Chemicals,Enterprise,843900000.0,Active,2023-06-17
+C0516,Mahindra-Tier1 Tools & Dies,A003,Textile,Medium,47600000.0,Active,2021-03-24
+C0517,Deccan Packaging Solutions,A003,Textile,Medium,86800000.0,Active,2020-11-03
+C0518,Tata-Partner Automation Systems,A003,Chemicals,Large,165700000.0,Active,2020-06-09
+C0519,Shree Fabricators,A003,Electronics,Small,17500000.0,Active,2024-11-19
+C0520,Shree Metal Works,A003,Engineering,Enterprise,833700000.0,Active,2022-02-28
+C0521,Atlas Polymers,A003,Textile,Large,164400000.0,Active,2024-03-05
+C0522,Force Automation Systems,A003,Food Processing,Enterprise,385900000.0,Active,2024-12-06
+C0523,Synergy Tech Solutions,A003,Packaging,Medium,48800000.0,Active,2018-01-15
+C0524,Deccan Forgings & Castings,A003,Metal Fabrication,Medium,59400000.0,Active,2024-02-05
+C0525,Kalyani Polymers,A003,Food Processing,Enterprise,557400000.0,Active,2021-07-01
+C0526,Precision Industries,A003,Chemicals,Large,261000000.0,Active,2020-09-07
+C0527,Bharat Chemicals & Processing,A003,Automotive,Medium,43600000.0,Active,2020-05-05
+C0528,Apex Polymers,A003,Textile,Large,120100000.0,Active,2024-01-10
+C0529,Mahindra-Tier1 Tech Solutions,A003,Textile,Large,168100000.0,Active,2023-03-11
+C0530,Omni Automation Systems,A003,Chemicals,Medium,86900000.0,Active,2024-07-01
+C0531,Tata-Partner Forgings & Castings,A003,Metal Fabrication,Medium,74000000.0,Active,2022-09-06
+C0532,Apex Automation Systems,A003,Automotive,Enterprise,825900000.0,Active,2020-09-20
+C0533,Precision Metal Works,A003,Automotive,Small,20800000.0,Active,2018-01-23
+C0534,Apex Polymers,A003,Electronics,Enterprise,374200000.0,Active,2020-08-23
+C0535,Matrix Forgings & Castings,A003,Automotive,Large,165800000.0,Active,2018-11-17
+C0536,Deccan Metal Works,A003,Metal Fabrication,Enterprise,798400000.0,Active,2018-09-24
+C0537,Kalyani Auto Components,A003,Pharmaceuticals,Small,23100000.0,Active,2021-04-20
+C0538,Force Fabricators,A003,Textile,Medium,51500000.0,Active,2021-05-06
+C0539,Precision Industries,A003,Electronics,Medium,71300000.0,Active,2021-06-08
+C0540,Bharat Engineering Pvt Ltd,A003,Engineering,Small,24000000.0,Active,2023-08-05
+C0541,Synergy Industries,A003,Engineering,Small,25300000.0,Active,2023-04-15
+C0542,Mahindra-Tier1 Fabricators,A003,Electronics,Small,10800000.0,Active,2019-01-28
+C0543,Mahindra-Tier1 Automation Systems,A003,Packaging,Enterprise,743100000.0,Active,2018-01-01
+C0544,Matrix Chemicals & Processing,A003,Metal Fabrication,Large,154400000.0,Active,2021-10-09
+C0545,Siemens-Tier2 Auto Components,A003,Packaging,Large,122900000.0,Active,2021-07-15
+C0546,Deccan Polymers,A004,Electronics,Enterprise,689300000.0,Active,2024-03-04
+C0547,Matrix Packaging Solutions,A004,Automotive,Medium,36200000.0,Active,2022-08-26
+C0548,Shree Chemicals & Processing,A004,Electronics,Medium,66700000.0,Active,2024-06-20
+C0549,Bharat Chemicals & Processing,A004,Metal Fabrication,Enterprise,852200000.0,Active,2018-07-15
+C0550,Precision Auto Components,A004,Pharmaceuticals,Large,92200000.0,Active,2024-11-17
+C0551,Siemens-Tier2 Metal Works,A004,Chemicals,Large,183400000.0,Active,2023-12-20
+C0552,Apex Polymers,A004,Chemicals,Enterprise,507400000.0,Active,2023-11-13
+C0553,Matrix Industries,A004,Automotive,Small,20600000.0,Active,2019-09-28
+C0554,Omni Tech Solutions,A004,Metal Fabrication,Small,22500000.0,Active,2020-04-11
+C0555,Deccan Engineering Pvt Ltd,A004,Textile,Medium,63000000.0,Active,2021-07-27
+C0556,Tata-Partner Auto Components,A004,Electronics,Enterprise,780800000.0,Active,2021-02-28
+C0557,Omni Tech Solutions,A004,Packaging,Small,26700000.0,Active,2023-11-01
+C0558,Apex Polymers,A004,Food Processing,Small,19000000.0,Active,2018-02-26
+C0559,Kalyani Metal Works,A004,Pharmaceuticals,Medium,69300000.0,Active,2021-06-12
+C0560,Precision Forgings & Castings,A004,Electronics,Large,190800000.0,Active,2022-10-16
+C0561,Schneider-Supplier Chemicals & Processing,A004,Packaging,Enterprise,368400000.0,Active,2024-11-08
+C0562,Bharat Automation Systems,A004,Packaging,Large,188600000.0,Active,2020-12-04
+C0563,Precision Tools & Dies,A004,Electronics,Medium,79300000.0,Active,2023-12-14
+C0564,Apex Fabricators,A004,Chemicals,Medium,37200000.0,Active,2024-07-07
+C0565,Vanguard Forgings & Castings,A004,Packaging,Small,22600000.0,Active,2018-11-27
+C0566,Atlas Metal Works,A004,Engineering,Enterprise,574400000.0,Active,2022-09-05
+C0567,Omni Engineering Pvt Ltd,A004,Textile,Small,19000000.0,Active,2021-10-16
+C0568,Pragati Tools & Dies,A004,Metal Fabrication,Medium,36200000.0,Active,2023-10-20
+C0569,Western Industries,A004,Food Processing,Enterprise,887700000.0,Active,2023-04-09
+C0570,Dynamic Automation Systems,A004,Pharmaceuticals,Enterprise,782900000.0,Active,2019-07-20
+C0571,Schneider-Supplier Packaging Solutions,A004,Textile,Large,241800000.0,Active,2022-06-23
+C0572,Siemens-Tier2 Industries,A004,Chemicals,Medium,42600000.0,Active,2023-05-22
+C0573,Sigma Chemicals & Processing,A004,Metal Fabrication,Medium,60200000.0,Active,2023-11-11
+C0574,Schneider-Supplier Auto Components,A004,Packaging,Enterprise,649700000.0,Active,2023-12-14
+C0575,Atlas Packaging Solutions,A004,Textile,Large,247900000.0,Active,2021-01-17
+C0576,Apex Engineering Pvt Ltd,A004,Food Processing,Medium,33200000.0,Active,2018-04-09
+C0577,Kirloskar-Style Fabricators,A004,Pharmaceuticals,Medium,80400000.0,Active,2023-05-07
+C0578,Sai Engineering Pvt Ltd,A004,Packaging,Enterprise,361500000.0,Active,2024-11-24
+C0579,Sai Forgings & Castings,A004,Textile,Enterprise,442600000.0,Active,2024-12-10
+C0580,Schneider-Supplier Chemicals & Processing,A004,Automotive,Enterprise,532500000.0,Active,2024-11-11
+C0581,Sai Engineering Pvt Ltd,A004,Automotive,Large,126600000.0,Active,2024-08-27
+C0582,Tata-Partner Chemicals & Processing,A004,Packaging,Medium,76600000.0,Active,2019-05-15
+C0583,Kirloskar-Style Chemicals & Processing,A004,Engineering,Medium,87700000.0,Active,2023-09-04
+C0584,Dynamic Engineering Pvt Ltd,A004,Food Processing,Large,190200000.0,Active,2019-03-19
+C0585,Deccan Engineering Pvt Ltd,A004,Packaging,Enterprise,725800000.0,Active,2019-01-05
+C0586,Western Metal Works,A004,Automotive,Large,178300000.0,Active,2022-09-12
+C0587,Synergy Packaging Solutions,A004,Packaging,Medium,87400000.0,Active,2022-02-26
+C0588,Pragati Tools & Dies,A004,Food Processing,Enterprise,355200000.0,Active,2019-04-22
+C0589,Western Automation Systems,A004,Packaging,Large,129300000.0,Active,2024-10-17
+C0590,Omni Industries,A004,Automotive,Small,21000000.0,Active,2021-04-21
+C0591,Kalyani Metal Works,A004,Chemicals,Small,21300000.0,Active,2020-07-26
+C0592,Apex Polymers,A004,Pharmaceuticals,Large,94400000.0,Active,2022-06-17
+C0593,Pragati Tech Solutions,A004,Electronics,Small,14300000.0,Active,2023-04-11
+C0594,Pragati Auto Components,A004,Engineering,Medium,88300000.0,Active,2024-09-18
+C0595,Bharat Chemicals & Processing,A004,Engineering,Medium,70200000.0,Active,2024-04-28
+C0596,Atlas Polymers,A004,Engineering,Medium,62300000.0,Active,2023-12-25
+C0597,TechnoCraft Chemicals & Processing,A004,Engineering,Medium,31400000.0,Active,2023-06-02
+C0598,Synergy Auto Components,A004,Automotive,Medium,77700000.0,Active,2022-02-19
+C0599,Tata-Partner Fabricators,A004,Food Processing,Enterprise,570700000.0,Active,2021-07-11
+C0600,Bharat Polymers,A004,Engineering,Small,20500000.0,Active,2022-02-25
+C0601,Siemens-Tier2 Metal Works,A004,Automotive,Small,15400000.0,Active,2022-02-10
+C0602,Atlas Fabricators,A004,Engineering,Large,227700000.0,Active,2021-07-13
+C0603,Atlas Engineering Pvt Ltd,A004,Electronics,Medium,62000000.0,Active,2019-12-13
+C0604,Sai Fabricators,A004,Metal Fabrication,Large,211900000.0,Active,2024-12-21
+C0605,Sigma Engineering Pvt Ltd,A004,Textile,Medium,37400000.0,Active,2018-10-20
+C0606,Dynamic Industries,A004,Textile,Small,14500000.0,Active,2023-12-24
+C0607,Sigma Forgings & Castings,A004,Food Processing,Medium,39700000.0,Active,2019-10-27
+C0608,Deccan Forgings & Castings,A004,Engineering,Medium,70300000.0,Active,2022-01-28
+C0609,Sai Tech Solutions,A004,Textile,Small,14200000.0,Active,2018-05-04
+C0610,Force Packaging Solutions,A004,Electronics,Large,154300000.0,Active,2023-11-08
+C0611,Apex Fabricators,A004,Engineering,Medium,49100000.0,Active,2021-06-20
+C0612,Atlas Fabricators,A004,Metal Fabrication,Large,235400000.0,Active,2021-03-01
+C0613,Western Forgings & Castings,A004,Chemicals,Enterprise,466000000.0,Active,2020-03-22
+C0614,Siemens-Tier2 Automation Systems,A004,Electronics,Enterprise,567200000.0,Active,2024-05-16
+C0615,Sai Auto Components,A004,Metal Fabrication,Small,24200000.0,Active,2024-03-18
+C0616,Force Fabricators,A004,Engineering,Small,25100000.0,Active,2024-09-21
+C0617,Bharat Metal Works,A004,Food Processing,Medium,84400000.0,Active,2022-05-18
+C0618,Sai Tech Solutions,A004,Metal Fabrication,Large,160600000.0,Active,2024-10-24
+C0619,Mahindra-Tier1 Tools & Dies,A004,Electronics,Small,16100000.0,Active,2022-01-22
+C0620,Tata-Partner Metal Works,A004,Metal Fabrication,Medium,56800000.0,Active,2019-10-19
+C0621,Atlas Tools & Dies,A004,Electronics,Large,97300000.0,Active,2024-08-08
+C0622,Synergy Fabricators,A004,Packaging,Medium,32600000.0,Active,2019-09-26
+C0623,Sigma Polymers,A004,Electronics,Enterprise,828900000.0,Active,2018-11-11
+C0624,Apex Packaging Solutions,A004,Textile,Large,240300000.0,Active,2020-10-18
+C0625,Shree Tools & Dies,A004,Food Processing,Enterprise,519200000.0,Active,2023-02-17
+C0626,Deccan Polymers,A004,Chemicals,Enterprise,511700000.0,Active,2024-06-16
+C0627,Omni Metal Works,A004,Automotive,Medium,56400000.0,Active,2019-02-17
+C0628,Thermax-Vendor Fabricators,A004,Chemicals,Medium,41200000.0,Active,2020-10-23
+C0629,Apex Chemicals & Processing,A004,Chemicals,Enterprise,786700000.0,Active,2023-02-16
+C0630,Atlas Tech Solutions,A004,Electronics,Medium,65400000.0,Active,2023-07-01
+C0631,Tata-Partner Engineering Pvt Ltd,A004,Metal Fabrication,Medium,38100000.0,Active,2022-01-19
+C0632,Matrix Engineering Pvt Ltd,A004,Metal Fabrication,Large,256000000.0,Active,2022-07-20
+C0633,Shree Chemicals & Processing,A004,Automotive,Large,260500000.0,Active,2019-08-20
+C0634,Omni Tech Solutions,A004,Metal Fabrication,Medium,79800000.0,Active,2022-03-26
+C0635,Shree Tools & Dies,A004,Textile,Large,120200000.0,Active,2023-06-15
+C0636,Kalyani Metal Works,A004,Engineering,Medium,52700000.0,Active,2019-02-01
+C0637,Force Industries,A004,Textile,Enterprise,795900000.0,Active,2022-02-06
+C0638,Omni Metal Works,A004,Automotive,Small,10700000.0,Active,2023-03-20
+C0639,Sai Engineering Pvt Ltd,A004,Food Processing,Enterprise,522200000.0,Active,2018-12-17
+C0640,TechnoCraft Forgings & Castings,A004,Electronics,Enterprise,510300000.0,Active,2024-12-25
+C0641,Schneider-Supplier Metal Works,A004,Engineering,Enterprise,380300000.0,Active,2021-04-28
+C0642,Synergy Fabricators,A004,Textile,Enterprise,454700000.0,Active,2018-12-24
+C0643,Bharat Metal Works,A004,Textile,Small,18400000.0,Active,2021-11-07
+C0644,Schneider-Supplier Automation Systems,A004,Food Processing,Large,109200000.0,Active,2021-11-19
+C0645,Deccan Fabricators,A004,Textile,Enterprise,638800000.0,Active,2022-05-22
+C0646,Dynamic Forgings & Castings,A004,Food Processing,Enterprise,407200000.0,Active,2022-09-16
+C0647,Deccan Fabricators,A004,Packaging,Enterprise,741500000.0,Active,2024-11-04
+C0648,Siemens-Tier2 Forgings & Castings,A004,Electronics,Medium,36000000.0,Active,2022-07-26
+C0649,Western Industries,A004,Automotive,Medium,53300000.0,Active,2023-01-26
+C0650,Synergy Tools & Dies,A004,Electronics,Enterprise,352900000.0,Active,2020-04-12
+C0651,Synergy Metal Works,A004,Automotive,Enterprise,858400000.0,Active,2021-10-21
+C0652,Pragati Fabricators,A004,Automotive,Medium,68400000.0,Active,2021-01-07
+C0653,Atlas Industries,A004,Pharmaceuticals,Medium,32000000.0,Active,2022-09-17
+C0654,Schneider-Supplier Forgings & Castings,A004,Metal Fabrication,Small,15500000.0,Active,2023-01-06
+C0655,Synergy Fabricators,A004,Food Processing,Large,210500000.0,Active,2021-10-07
+C0656,Pragati Engineering Pvt Ltd,A004,Engineering,Small,18900000.0,Active,2023-09-19
+C0657,Sigma Automation Systems,A004,Pharmaceuticals,Medium,66400000.0,Active,2019-08-13
+C0658,Shree Engineering Pvt Ltd,A004,Pharmaceuticals,Medium,54400000.0,Active,2018-09-03
+C0659,Pragati Fabricators,A004,Packaging,Small,23500000.0,Active,2020-09-27
+C0660,Shree Fabricators,A004,Electronics,Enterprise,637900000.0,Active,2024-04-25
+C0661,Western Tech Solutions,A004,Electronics,Small,17700000.0,Active,2020-02-13
+C0662,Thermax-Vendor Forgings & Castings,A004,Chemicals,Large,164200000.0,Active,2020-09-18
+C0663,Bharat Packaging Solutions,A004,Pharmaceuticals,Medium,47200000.0,Active,2021-11-24
+C0664,Western Auto Components,A004,Textile,Medium,58600000.0,Active,2020-04-19
+C0665,Deccan Tools & Dies,A004,Chemicals,Enterprise,742300000.0,Active,2019-12-08
+C0666,Deccan Forgings & Castings,A004,Chemicals,Medium,80100000.0,Active,2024-10-12
+C0667,Matrix Auto Components,A004,Engineering,Small,21200000.0,Active,2023-08-20
+C0668,Bharat Industries,A004,Automotive,Enterprise,522700000.0,Active,2020-08-19
+C0669,Deccan Tech Solutions,A004,Metal Fabrication,Large,161600000.0,Active,2024-10-05
+C0670,Precision Industries,A004,Food Processing,Enterprise,863800000.0,Active,2018-09-12
+C0671,Dynamic Chemicals & Processing,A004,Metal Fabrication,Enterprise,885900000.0,Active,2023-09-15
+C0672,Western Packaging Solutions,A004,Automotive,Small,21100000.0,Active,2021-10-04
+C0673,Western Automation Systems,A004,Pharmaceuticals,Medium,62900000.0,Active,2019-05-16
+C0674,Kalyani Automation Systems,A004,Packaging,Medium,59900000.0,Active,2019-07-23
+C0675,Sigma Automation Systems,A004,Food Processing,Large,171100000.0,Active,2022-03-19
+C0676,Atlas Forgings & Castings,A004,Engineering,Large,234700000.0,Active,2022-07-28
+C0677,Dynamic Forgings & Castings,A004,Metal Fabrication,Medium,58400000.0,Active,2018-03-14
+C0678,Omni Tools & Dies,A004,Textile,Large,231400000.0,Active,2020-05-18
+C0679,Shree Engineering Pvt Ltd,A004,Food Processing,Small,21400000.0,Active,2018-04-27
+C0680,Deccan Tech Solutions,A004,Engineering,Enterprise,746800000.0,Active,2020-06-12
+C0681,Sai Industries,A004,Pharmaceuticals,Large,93600000.0,Active,2018-06-28
+C0682,Atlas Metal Works,A004,Chemicals,Medium,88800000.0,Active,2020-06-11
+C0683,Atlas Industries,A004,Electronics,Enterprise,833800000.0,Active,2021-10-10
+C0684,Vanguard Chemicals & Processing,A004,Metal Fabrication,Medium,68400000.0,Active,2020-07-21
+C0685,Kalyani Metal Works,A004,Food Processing,Small,10400000.0,Active,2020-04-11
+C0686,Western Chemicals & Processing,A004,Pharmaceuticals,Large,199000000.0,Active,2021-05-15
+C0687,Sigma Packaging Solutions,A004,Textile,Enterprise,548400000.0,Active,2019-01-05
+C0688,Siemens-Tier2 Forgings & Castings,A004,Pharmaceuticals,Small,12800000.0,Active,2021-02-04
+C0689,Synergy Tech Solutions,A004,Textile,Small,9500000.0,Active,2021-09-25
+C0690,Synergy Auto Components,A004,Pharmaceuticals,Medium,35100000.0,Active,2021-05-08
+C0691,Tata-Partner Packaging Solutions,A004,Pharmaceuticals,Enterprise,675900000.0,Active,2019-09-27
+C0692,Kirloskar-Style Engineering Pvt Ltd,A004,Automotive,Large,244900000.0,Active,2020-08-15
+C0693,Sai Fabricators,A004,Textile,Enterprise,381100000.0,Active,2023-09-06
+C0694,Shree Metal Works,A004,Electronics,Enterprise,614100000.0,Active,2023-09-10
+C0695,Sigma Tech Solutions,A004,Textile,Medium,78300000.0,Active,2021-05-12
+C0696,TechnoCraft Fabricators,A004,Metal Fabrication,Large,91900000.0,Active,2022-03-12
+C0697,Mahindra-Tier1 Tech Solutions,A004,Textile,Small,21400000.0,Active,2021-08-10
+C0698,Bharat Polymers,A004,Pharmaceuticals,Medium,77800000.0,Active,2022-06-07
+C0699,TechnoCraft Industries,A004,Food Processing,Enterprise,449900000.0,Active,2023-12-21
+C0700,Dynamic Polymers,A004,Chemicals,Large,104300000.0,Active,2023-04-17
+C0701,Kalyani Packaging Solutions,A004,Pharmaceuticals,Large,206700000.0,Active,2022-05-14
+C0702,Force Auto Components,A004,Metal Fabrication,Medium,47400000.0,Active,2023-08-20
+C0703,Vanguard Fabricators,A004,Electronics,Medium,49200000.0,Active,2019-01-18
+C0704,Bharat Tools & Dies,A004,Engineering,Large,138500000.0,Active,2023-08-24
+C0705,Bharat Forgings & Castings,A004,Engineering,Medium,30900000.0,Active,2019-06-14
+C0706,Mahindra-Tier1 Tech Solutions,A004,Packaging,Enterprise,718200000.0,Active,2018-06-03
+C0707,Matrix Engineering Pvt Ltd,A004,Pharmaceuticals,Enterprise,342800000.0,Active,2021-03-07
+C0708,Deccan Polymers,A004,Automotive,Small,26500000.0,Active,2023-04-13
+C0709,Vanguard Forgings & Castings,A004,Automotive,Medium,57700000.0,Active,2024-02-17
+C0710,Atlas Forgings & Castings,A004,Electronics,Enterprise,708900000.0,Active,2020-06-06
+C0711,Thermax-Vendor Packaging Solutions,A004,Automotive,Small,13600000.0,Active,2023-05-07
+C0712,Sigma Engineering Pvt Ltd,A004,Chemicals,Small,13200000.0,Active,2021-06-01
+C0713,Kirloskar-Style Fabricators,A004,Engineering,Enterprise,773500000.0,Active,2018-01-19
+C0714,Schneider-Supplier Tech Solutions,A004,Metal Fabrication,Large,228700000.0,Active,2019-03-16
+C0715,Synergy Chemicals & Processing,A004,Packaging,Small,10100000.0,Active,2023-03-23
+C0716,Sai Auto Components,A004,Metal Fabrication,Enterprise,439600000.0,Active,2022-11-25
+C0717,Sigma Tech Solutions,A004,Chemicals,Small,21400000.0,Active,2020-12-05
+C0718,Deccan Engineering Pvt Ltd,A004,Electronics,Enterprise,635400000.0,Active,2022-12-16
+C0719,Force Metal Works,A004,Metal Fabrication,Large,148300000.0,Active,2021-05-28
+C0720,Kalyani Industries,A004,Metal Fabrication,Small,18600000.0,Active,2021-05-27
+C0721,Deccan Industries,A004,Packaging,Enterprise,300400000.0,Active,2023-09-13
+C0722,Siemens-Tier2 Tools & Dies,A004,Automotive,Large,229700000.0,Active,2019-06-24
+C0723,Synergy Chemicals & Processing,A004,Textile,Enterprise,413900000.0,Active,2023-08-25
+C0724,Sai Tools & Dies,A004,Pharmaceuticals,Large,163800000.0,Active,2020-02-04
+C0725,Pragati Chemicals & Processing,A004,Engineering,Small,24000000.0,Active,2019-03-28
+C0726,Precision Forgings & Castings,A004,Engineering,Enterprise,415000000.0,Active,2018-10-21
+C0727,Dynamic Chemicals & Processing,A004,Electronics,Large,98800000.0,Active,2019-10-23
+C0728,Synergy Engineering Pvt Ltd,A004,Chemicals,Enterprise,857000000.0,Active,2024-02-15
+C0729,Thermax-Vendor Engineering Pvt Ltd,A004,Packaging,Enterprise,793200000.0,Active,2024-12-02
+C0730,Kalyani Fabricators,A004,Textile,Small,22200000.0,Active,2024-05-03
+C0731,Force Industries,A004,Engineering,Small,22100000.0,Active,2022-07-07
+C0732,Force Industries,A004,Chemicals,Medium,63500000.0,Active,2022-07-24
+C0733,Apex Chemicals & Processing,A004,Packaging,Enterprise,721500000.0,Active,2021-02-06
+C0734,Kirloskar-Style Industries,A004,Food Processing,Large,208400000.0,Active,2022-10-15
+C0735,Sigma Automation Systems,A004,Textile,Large,242100000.0,Active,2021-11-14
+C0736,Siemens-Tier2 Automation Systems,A004,Chemicals,Medium,52500000.0,Active,2022-12-09
+C0737,Sigma Tech Solutions,A004,Electronics,Enterprise,300100000.0,Active,2018-05-20
+C0738,Bharat Industries,A004,Metal Fabrication,Large,91200000.0,Active,2019-04-28
+C0739,Western Engineering Pvt Ltd,A004,Pharmaceuticals,Medium,35700000.0,Active,2021-06-05
+C0740,Matrix Fabricators,A004,Packaging,Medium,44000000.0,Active,2024-05-03
+C0741,Shree Polymers,A004,Chemicals,Small,22000000.0,Active,2024-08-06
+C0742,Omni Packaging Solutions,A004,Engineering,Large,96700000.0,Active,2024-10-13
+C0743,Synergy Engineering Pvt Ltd,A004,Packaging,Large,248400000.0,Active,2021-07-28
+C0744,Apex Forgings & Castings,A004,Automotive,Enterprise,332500000.0,Active,2022-01-11
+C0745,Sai Metal Works,A004,Metal Fabrication,Large,180400000.0,Active,2019-03-02
+C0746,Atlas Packaging Solutions,A004,Food Processing,Enterprise,751700000.0,Active,2022-09-03
+C0747,Tata-Partner Polymers,A004,Pharmaceuticals,Enterprise,388800000.0,Active,2020-02-16
+C0748,Shree Packaging Solutions,A004,Automotive,Enterprise,457500000.0,Active,2021-09-14
+C0749,Schneider-Supplier Tools & Dies,A004,Metal Fabrication,Enterprise,635600000.0,Active,2021-07-21
+C0750,Shree Forgings & Castings,A004,Textile,Medium,44500000.0,Active,2020-07-11
+C0751,Atlas Metal Works,A004,Engineering,Small,21100000.0,Active,2021-06-12
+C0752,Force Automation Systems,A004,Packaging,Small,22900000.0,Active,2019-06-20
+C0753,Vanguard Metal Works,A004,Metal Fabrication,Enterprise,326900000.0,Active,2024-04-07
+C0754,Atlas Automation Systems,A004,Metal Fabrication,Small,11000000.0,Active,2018-04-20
+C0755,Matrix Fabricators,A004,Automotive,Large,214900000.0,Active,2018-05-15
+C0756,Omni Engineering Pvt Ltd,A004,Packaging,Medium,74400000.0,Active,2019-04-18
+C0757,Pragati Fabricators,A004,Textile,Enterprise,673800000.0,Active,2019-12-23
+C0758,Atlas Engineering Pvt Ltd,A004,Food Processing,Small,13600000.0,Active,2018-05-07
+C0759,Schneider-Supplier Metal Works,A004,Pharmaceuticals,Small,17400000.0,Active,2018-02-13
+C0760,Atlas Fabricators,A004,Packaging,Small,9300000.0,Active,2024-11-13
+C0761,Tata-Partner Polymers,A004,Textile,Small,25300000.0,Active,2021-10-18
+C0762,Synergy Tools & Dies,A004,Chemicals,Enterprise,636400000.0,Active,2023-01-02
+C0763,Tata-Partner Industries,A004,Pharmaceuticals,Large,178200000.0,Active,2023-03-01
+C0764,Sigma Chemicals & Processing,A004,Packaging,Large,202500000.0,Active,2019-09-09
+C0765,Precision Chemicals & Processing,A004,Pharmaceuticals,Enterprise,834200000.0,Active,2024-01-18
+C0766,Deccan Forgings & Castings,A004,Metal Fabrication,Large,251500000.0,Active,2023-03-03
+C0767,Siemens-Tier2 Polymers,A004,Textile,Medium,55000000.0,Active,2022-03-14
+C0768,Mahindra-Tier1 Metal Works,A004,Packaging,Enterprise,625300000.0,Active,2019-11-05
+C0769,Shree Industries,A004,Chemicals,Medium,48500000.0,Active,2023-09-05
+C0770,TechnoCraft Tools & Dies,A004,Metal Fabrication,Large,102200000.0,Active,2022-12-04
+C0771,Kirloskar-Style Automation Systems,A004,Metal Fabrication,Small,22800000.0,Active,2021-07-10
+C0772,Vanguard Packaging Solutions,A004,Pharmaceuticals,Medium,76700000.0,Active,2018-03-06
+C0773,Bharat Metal Works,A004,Pharmaceuticals,Medium,65800000.0,Active,2019-11-01
+C0774,Sigma Auto Components,A004,Electronics,Medium,60100000.0,Active,2022-08-23
+C0775,Thermax-Vendor Automation Systems,A004,Metal Fabrication,Enterprise,594900000.0,Active,2019-03-07
+C0776,Tata-Partner Engineering Pvt Ltd,A004,Food Processing,Small,25700000.0,Active,2021-04-24
+C0777,Atlas Forgings & Castings,A004,Chemicals,Small,12200000.0,Active,2021-10-16
+C0778,Schneider-Supplier Automation Systems,A004,Electronics,Medium,55700000.0,Active,2024-01-20
+C0779,Siemens-Tier2 Polymers,A004,Packaging,Enterprise,666900000.0,Active,2023-10-20
+C0780,Sai Industries,A004,Automotive,Small,17100000.0,Active,2024-01-08
+C0781,Pragati Industries,A004,Food Processing,Small,19000000.0,Active,2022-11-02
+C0782,Force Fabricators,A004,Electronics,Enterprise,830600000.0,Active,2024-05-15
+C0783,Kirloskar-Style Polymers,A004,Pharmaceuticals,Small,21400000.0,Active,2019-08-27
+C0784,Thermax-Vendor Tech Solutions,A004,Engineering,Small,12200000.0,Active,2022-12-18
+C0785,Matrix Polymers,A004,Food Processing,Large,171200000.0,Active,2019-08-19
+C0786,Schneider-Supplier Forgings & Castings,A004,Electronics,Small,13500000.0,Active,2023-11-23
+C0787,Kirloskar-Style Packaging Solutions,A004,Engineering,Small,11100000.0,Active,2021-11-12
+C0788,Synergy Industries,A004,Food Processing,Medium,52700000.0,Active,2021-01-25
+C0789,Kirloskar-Style Automation Systems,A004,Metal Fabrication,Medium,82100000.0,Active,2019-12-02
+C0790,TechnoCraft Fabricators,A004,Pharmaceuticals,Enterprise,473300000.0,Active,2019-02-05
+C0791,Force Engineering Pvt Ltd,A004,Pharmaceuticals,Small,17300000.0,Active,2024-08-18
+C0792,Bharat Metal Works,A004,Electronics,Medium,43000000.0,Active,2023-08-15
+C0793,TechnoCraft Tech Solutions,A004,Engineering,Small,13400000.0,Active,2022-05-20
+C0794,Thermax-Vendor Industries,A004,Chemicals,Small,12300000.0,Active,2018-11-12
+C0795,Precision Tools & Dies,A004,Automotive,Large,149600000.0,Active,2018-01-04
+C0796,TechnoCraft Tools & Dies,A004,Metal Fabrication,Large,200000000.0,Active,2023-12-20
+C0797,Shree Industries,A004,Metal Fabrication,Enterprise,749600000.0,Active,2020-01-03
+C0798,Mahindra-Tier1 Automation Systems,A004,Packaging,Enterprise,792200000.0,Active,2024-07-27
+C0799,Sai Auto Components,A004,Pharmaceuticals,Enterprise,380700000.0,Active,2023-05-11
+C0800,Pragati Polymers,A004,Textile,Medium,71700000.0,Active,2022-01-04
+C0801,Shree Packaging Solutions,A004,Textile,Small,17700000.0,Active,2023-10-26
+C0802,Schneider-Supplier Fabricators,A004,Food Processing,Large,136700000.0,Active,2022-10-12
+C0803,Matrix Metal Works,A004,Electronics,Enterprise,595500000.0,Active,2019-10-08
+C0804,Schneider-Supplier Fabricators,A004,Chemicals,Small,11100000.0,Active,2021-11-26
+C0805,Apex Packaging Solutions,A004,Chemicals,Enterprise,548400000.0,Active,2020-06-18
+C0806,Thermax-Vendor Forgings & Castings,A004,Automotive,Medium,71400000.0,Active,2020-02-10
+C0807,Mahindra-Tier1 Industries,A004,Textile,Large,228100000.0,Active,2018-11-11
+C0808,Western Polymers,A004,Automotive,Medium,41600000.0,Active,2024-06-22
+C0809,Omni Tech Solutions,A004,Automotive,Medium,58900000.0,Active,2023-08-28
+C0810,Sai Automation Systems,A004,Electronics,Enterprise,856700000.0,Active,2018-09-10
+C0811,Shree Packaging Solutions,A004,Packaging,Small,12700000.0,Active,2023-06-26
+C0812,Sigma Auto Components,A004,Metal Fabrication,Large,241300000.0,Active,2020-07-21
+C0813,Sai Tools & Dies,A004,Food Processing,Medium,65700000.0,Active,2024-05-23
+C0814,Western Packaging Solutions,A004,Automotive,Large,164500000.0,Active,2021-04-12
+C0815,Vanguard Fabricators,A004,Chemicals,Large,121500000.0,Active,2020-01-25
+C0816,Force Auto Components,A004,Electronics,Small,23400000.0,Active,2022-03-07
+C0817,Western Tech Solutions,A004,Textile,Large,229600000.0,Active,2019-02-27
+C0818,Pragati Chemicals & Processing,A004,Metal Fabrication,Medium,73500000.0,Active,2021-07-23
+C0819,Pragati Auto Components,A004,Automotive,Large,257800000.0,Active,2023-10-28
+C0820,Synergy Automation Systems,A004,Electronics,Small,10900000.0,Active,2024-11-24
+C0821,Mahindra-Tier1 Engineering Pvt Ltd,A004,Pharmaceuticals,Medium,49300000.0,Active,2019-05-09
+C0822,Sai Automation Systems,A004,Electronics,Small,13900000.0,Active,2019-05-04
+C0823,Bharat Metal Works,A004,Textile,Small,12700000.0,Active,2020-09-11
+C0824,Deccan Tools & Dies,A004,Pharmaceuticals,Medium,40300000.0,Active,2020-10-11
+C0825,Sai Tech Solutions,A004,Automotive,Medium,31700000.0,Active,2023-01-04
+C0826,Dynamic Engineering Pvt Ltd,A004,Engineering,Enterprise,535200000.0,Active,2023-10-19
+C0827,Thermax-Vendor Packaging Solutions,A004,Electronics,Large,146200000.0,Active,2024-04-23
+C0828,Atlas Industries,A004,Engineering,Enterprise,640700000.0,Active,2018-12-15
+C0829,Apex Tech Solutions,A004,Pharmaceuticals,Enterprise,582300000.0,Active,2019-03-28
+C0830,Kalyani Fabricators,A004,Packaging,Enterprise,410000000.0,Active,2023-06-26
+C0831,Western Tech Solutions,A004,Electronics,Small,10200000.0,Active,2018-06-16
+C0832,Vanguard Tools & Dies,A004,Pharmaceuticals,Large,198800000.0,Active,2019-09-04
+C0833,Dynamic Packaging Solutions,A004,Engineering,Large,190100000.0,Active,2018-05-18
+C0834,Vanguard Polymers,A004,Food Processing,Medium,67300000.0,Active,2022-03-16
+C0835,Dynamic Auto Components,A004,Packaging,Medium,78800000.0,Active,2022-07-26
+C0836,TechnoCraft Metal Works,A004,Packaging,Medium,40400000.0,Active,2023-02-24
+C0837,Schneider-Supplier Metal Works,A004,Electronics,Small,19700000.0,Active,2021-06-18
+C0838,Apex Tech Solutions,A004,Metal Fabrication,Large,262100000.0,Active,2018-10-04
+C0839,Atlas Metal Works,A004,Food Processing,Large,179000000.0,Active,2023-01-03
+C0840,Force Tools & Dies,A004,Automotive,Medium,69700000.0,Active,2021-09-10
+C0841,Dynamic Metal Works,A004,Electronics,Medium,42300000.0,Active,2020-05-19
+C0842,Atlas Fabricators,A004,Food Processing,Large,268300000.0,Active,2022-01-20
+C0843,Pragati Polymers,A004,Metal Fabrication,Large,101200000.0,Active,2022-01-01
+C0844,Schneider-Supplier Industries,A004,Packaging,Small,24500000.0,Active,2024-01-08
+C0845,TechnoCraft Packaging Solutions,A004,Food Processing,Large,218100000.0,Active,2021-07-14
+C0846,Sai Forgings & Castings,A004,Metal Fabrication,Enterprise,383400000.0,Active,2022-07-27
+C0847,Sigma Polymers,A004,Metal Fabrication,Large,269500000.0,Active,2023-03-05
+C0848,Bharat Auto Components,A004,Automotive,Medium,73300000.0,Active,2021-11-14
+C0849,Matrix Auto Components,A004,Metal Fabrication,Enterprise,816100000.0,Active,2024-12-20
+C0850,TechnoCraft Metal Works,A004,Metal Fabrication,Enterprise,605600000.0,Active,2022-08-13
+C0851,Sigma Forgings & Castings,A004,Metal Fabrication,Enterprise,662700000.0,Active,2022-08-28
+C0852,Siemens-Tier2 Forgings & Castings,A004,Textile,Large,164000000.0,Active,2022-10-12
+C0853,Precision Engineering Pvt Ltd,A004,Electronics,Large,110400000.0,Active,2021-12-03
+C0854,Matrix Packaging Solutions,A004,Textile,Large,173700000.0,Active,2018-09-20
+C0855,Synergy Forgings & Castings,A004,Electronics,Small,21300000.0,Active,2022-10-10
+C0856,Kalyani Engineering Pvt Ltd,A004,Packaging,Small,17400000.0,Active,2022-08-19
+C0857,Siemens-Tier2 Automation Systems,A004,Food Processing,Large,262900000.0,Active,2024-05-10
+C0858,Kirloskar-Style Engineering Pvt Ltd,A004,Pharmaceuticals,Large,101100000.0,Active,2021-10-06
+C0859,Shree Engineering Pvt Ltd,A004,Pharmaceuticals,Small,14200000.0,Active,2018-03-17
+C0860,Synergy Fabricators,A004,Pharmaceuticals,Medium,66900000.0,Active,2020-05-01
+C0861,Siemens-Tier2 Auto Components,A004,Metal Fabrication,Medium,69500000.0,Active,2020-03-09
+C0862,Schneider-Supplier Forgings & Castings,A004,Electronics,Medium,78000000.0,Active,2024-01-11
+C0863,Synergy Tools & Dies,A004,Metal Fabrication,Enterprise,751700000.0,Active,2021-07-08
+C0864,Atlas Tech Solutions,A004,Metal Fabrication,Medium,64700000.0,Active,2024-06-02
+C0865,Thermax-Vendor Fabricators,A004,Engineering,Small,12000000.0,Active,2021-08-10
+C0866,Omni Packaging Solutions,A004,Textile,Medium,52800000.0,Active,2023-07-16
+C0867,Deccan Tools & Dies,A004,Textile,Enterprise,307100000.0,Active,2024-08-13
+C0868,Atlas Automation Systems,A004,Textile,Small,10800000.0,Active,2022-11-12
+C0869,TechnoCraft Metal Works,A004,Pharmaceuticals,Large,138700000.0,Active,2024-02-09
+C0870,Thermax-Vendor Metal Works,A004,Food Processing,Enterprise,763900000.0,Active,2023-04-24
+C0871,Atlas Metal Works,A004,Chemicals,Large,212000000.0,Active,2019-06-18
+C0872,Bharat Chemicals & Processing,A004,Automotive,Small,9200000.0,Active,2018-09-04
+C0873,Atlas Tech Solutions,A004,Packaging,Medium,73500000.0,Active,2020-04-02
+C0874,Bharat Metal Works,A004,Engineering,Small,25900000.0,Active,2023-04-20
+C0875,Thermax-Vendor Auto Components,A004,Engineering,Small,24400000.0,Active,2019-07-22
+C0876,Thermax-Vendor Metal Works,A004,Metal Fabrication,Small,21500000.0,Active,2020-05-15
+C0877,Atlas Auto Components,A004,Electronics,Large,228500000.0,Active,2023-11-25
+C0878,Western Fabricators,A004,Metal Fabrication,Small,14000000.0,Active,2018-07-13
+C0879,Western Engineering Pvt Ltd,A004,Pharmaceuticals,Large,122000000.0,Active,2018-08-07
+C0880,Kalyani Polymers,A004,Metal Fabrication,Enterprise,365100000.0,Active,2022-07-07
+C0881,Kalyani Chemicals & Processing,A004,Engineering,Enterprise,729200000.0,Active,2018-01-03
+C0882,Synergy Metal Works,A004,Pharmaceuticals,Enterprise,311300000.0,Active,2021-03-21
+C0883,Thermax-Vendor Engineering Pvt Ltd,A004,Automotive,Enterprise,459900000.0,Active,2023-06-13
+C0884,Shree Engineering Pvt Ltd,A004,Textile,Enterprise,586900000.0,Active,2021-12-25
+C0885,Synergy Industries,A004,Chemicals,Small,15900000.0,Active,2023-08-04
+C0886,Shree Industries,A004,Packaging,Large,212700000.0,Active,2021-01-21
+C0887,Thermax-Vendor Auto Components,A004,Packaging,Large,104500000.0,Active,2021-05-21
+C0888,Force Tools & Dies,A004,Textile,Small,26400000.0,Active,2023-04-10
+C0889,Schneider-Supplier Polymers,A004,Engineering,Large,177600000.0,Active,2023-08-24
+C0890,Force Tools & Dies,A004,Automotive,Medium,31500000.0,Active,2022-04-16
+C0891,Dynamic Auto Components,A004,Textile,Large,179900000.0,Active,2024-08-01
+C0892,Precision Automation Systems,A004,Automotive,Large,231800000.0,Active,2018-07-04
+C0893,Force Chemicals & Processing,A004,Textile,Enterprise,864100000.0,Active,2024-09-05
+C0894,Siemens-Tier2 Metal Works,A004,Chemicals,Small,9700000.0,Active,2019-08-21
+C0895,Bharat Tech Solutions,A004,Automotive,Medium,72100000.0,Active,2019-01-06
+C0896,Thermax-Vendor Engineering Pvt Ltd,A004,Pharmaceuticals,Small,17200000.0,Active,2019-10-03
+C0897,Apex Auto Components,A004,Electronics,Medium,33800000.0,Active,2019-07-11
+C0898,Siemens-Tier2 Chemicals & Processing,A004,Food Processing,Large,111700000.0,Active,2023-10-18
+C0899,Matrix Automation Systems,A004,Chemicals,Small,19700000.0,Active,2020-02-04
+C0900,Deccan Tools & Dies,A004,Food Processing,Medium,71800000.0,Active,2022-03-15
+C0901,Tata-Partner Metal Works,A004,Automotive,Medium,36000000.0,Active,2024-11-20
+C0902,Dynamic Tools & Dies,A004,Automotive,Enterprise,348400000.0,Active,2018-03-03
+C0903,Schneider-Supplier Chemicals & Processing,A004,Pharmaceuticals,Enterprise,716100000.0,Active,2024-08-23
+C0904,Matrix Forgings & Castings,A004,Metal Fabrication,Large,184200000.0,Active,2021-04-06
+C0905,Kalyani Packaging Solutions,A004,Automotive,Medium,73000000.0,Active,2022-02-21
+C0906,Mahindra-Tier1 Automation Systems,A004,Food Processing,Small,19000000.0,Active,2019-02-17
+C0907,Apex Metal Works,A004,Packaging,Medium,57900000.0,Active,2023-11-07
+C0908,Deccan Engineering Pvt Ltd,A004,Chemicals,Small,23300000.0,Active,2023-08-16
+C0909,Kirloskar-Style Tools & Dies,A004,Automotive,Small,20600000.0,Active,2020-04-14
+C0910,Deccan Automation Systems,A004,Electronics,Small,10900000.0,Active,2018-09-06
+C0911,Kirloskar-Style Engineering Pvt Ltd,A004,Electronics,Small,10300000.0,Active,2019-12-15
+C0912,Shree Metal Works,A004,Packaging,Enterprise,419300000.0,Active,2023-06-08
+C0913,Apex Automation Systems,A004,Chemicals,Small,13300000.0,Active,2021-04-13
+C0914,Tata-Partner Auto Components,A004,Electronics,Enterprise,332600000.0,Active,2021-03-07
+C0915,Kalyani Tech Solutions,A004,Metal Fabrication,Enterprise,524100000.0,Active,2021-12-07
+C0916,Thermax-Vendor Automation Systems,A004,Pharmaceuticals,Medium,50200000.0,Active,2018-12-19
+C0917,Precision Fabricators,A004,Metal Fabrication,Small,24300000.0,Active,2021-07-06
+C0918,Western Forgings & Castings,A004,Pharmaceuticals,Medium,77400000.0,Active,2023-10-06
+C0919,Shree Industries,A004,Chemicals,Small,16400000.0,Active,2022-08-28
+C0920,Force Metal Works,A004,Electronics,Enterprise,467500000.0,Active,2023-07-24
+C0921,Tata-Partner Forgings & Castings,A004,Packaging,Enterprise,647700000.0,Active,2022-03-19
+C0922,Bharat Polymers,A004,Automotive,Small,26800000.0,Active,2023-09-02
+C0923,TechnoCraft Industries,A004,Food Processing,Enterprise,785800000.0,Active,2023-02-15
+C0924,Omni Forgings & Castings,A004,Engineering,Small,21500000.0,Active,2021-04-05
+C0925,Sigma Fabricators,A004,Chemicals,Small,9300000.0,Active,2023-05-06
+C0926,Schneider-Supplier Tech Solutions,A004,Automotive,Enterprise,578300000.0,Active,2019-12-13
+C0927,Kirloskar-Style Automation Systems,A004,Electronics,Small,24500000.0,Active,2018-07-23
+C0928,Western Industries,A004,Automotive,Large,166700000.0,Active,2020-12-20
+C0929,Sai Metal Works,A004,Chemicals,Small,20200000.0,Active,2020-12-02
+C0930,Pragati Chemicals & Processing,A004,Packaging,Small,11000000.0,Active,2020-08-20
+C0931,Precision Automation Systems,A004,Packaging,Medium,68900000.0,Active,2023-02-18
+C0932,Schneider-Supplier Forgings & Castings,A004,Metal Fabrication,Large,133000000.0,Active,2018-11-16
+C0933,Siemens-Tier2 Metal Works,A004,Chemicals,Medium,49200000.0,Active,2020-09-22
+C0934,TechnoCraft Fabricators,A004,Automotive,Small,15700000.0,Active,2021-08-17
+C0935,Pragati Auto Components,A004,Electronics,Large,171400000.0,Active,2020-11-23
+C0936,Synergy Forgings & Castings,A004,Electronics,Small,10400000.0,Active,2019-05-03
+C0937,Apex Tools & Dies,A004,Pharmaceuticals,Small,21500000.0,Active,2021-03-28
+C0938,Force Industries,A004,Automotive,Large,165000000.0,Active,2023-09-05
+C0939,Omni Automation Systems,A004,Food Processing,Enterprise,742600000.0,Active,2018-05-07
+C0940,Synergy Engineering Pvt Ltd,A004,Chemicals,Large,164100000.0,Active,2020-11-21
+C0941,Western Tech Solutions,A004,Textile,Enterprise,574800000.0,Active,2022-03-26
+C0942,Mahindra-Tier1 Tools & Dies,A004,Pharmaceuticals,Medium,59100000.0,Active,2020-01-05
+C0943,Sigma Fabricators,A004,Electronics,Medium,67100000.0,Active,2019-12-18
+C0944,Mahindra-Tier1 Tools & Dies,A004,Metal Fabrication,Medium,39700000.0,Active,2018-01-11
+C0945,Shree Tools & Dies,A004,Electronics,Large,156500000.0,Active,2019-09-23
+C0946,Precision Chemicals & Processing,A004,Packaging,Large,116600000.0,Active,2021-09-06
+C0947,Sai Fabricators,A004,Engineering,Small,16300000.0,Active,2021-03-15
+C0948,Western Tools & Dies,A004,Automotive,Large,206500000.0,Active,2020-08-10
+C0949,Shree Chemicals & Processing,A004,Metal Fabrication,Enterprise,503200000.0,Active,2018-12-16
+C0950,Precision Tools & Dies,A004,Textile,Small,14500000.0,Active,2021-10-27
+C0951,Tata-Partner Tech Solutions,A004,Packaging,Small,14900000.0,Active,2022-11-07
+C0952,Shree Industries,A004,Chemicals,Large,125200000.0,Active,2018-09-28
+C0953,Vanguard Chemicals & Processing,A004,Engineering,Enterprise,416700000.0,Active,2020-10-20
+C0954,Pragati Engineering Pvt Ltd,A004,Packaging,Enterprise,388800000.0,Active,2024-07-12
+C0955,Dynamic Automation Systems,A004,Automotive,Large,152100000.0,Active,2020-08-28
+C0956,Sai Auto Components,A004,Chemicals,Enterprise,744900000.0,Active,2021-08-10
+C0957,Kirloskar-Style Packaging Solutions,A004,Food Processing,Enterprise,383700000.0,Active,2022-10-03
+C0958,Matrix Forgings & Castings,A004,Pharmaceuticals,Enterprise,893000000.0,Active,2022-06-03
+C0959,Shree Polymers,A004,Engineering,Small,16400000.0,Active,2020-07-06
+C0960,Sai Tech Solutions,A004,Metal Fabrication,Medium,41200000.0,Active,2021-05-18
+C0961,Omni Engineering Pvt Ltd,A004,Pharmaceuticals,Large,178900000.0,Active,2023-08-08
+C0962,Bharat Engineering Pvt Ltd,A004,Metal Fabrication,Large,144000000.0,Active,2023-11-16
+C0963,Apex Chemicals & Processing,A004,Pharmaceuticals,Enterprise,407600000.0,Active,2023-11-08
+C0964,Bharat Auto Components,A004,Pharmaceuticals,Enterprise,896600000.0,Active,2018-10-24
+C0965,Sigma Metal Works,A004,Electronics,Enterprise,821000000.0,Active,2023-11-16
+C0966,Schneider-Supplier Auto Components,A005,Packaging,Small,24200000.0,Active,2019-10-02
+C0967,Matrix Automation Systems,A005,Electronics,Medium,51400000.0,Active,2018-05-12
+C0968,TechnoCraft Chemicals & Processing,A005,Packaging,Small,14200000.0,Active,2022-11-03
+C0969,Pragati Forgings & Castings,A005,Metal Fabrication,Small,19800000.0,Active,2019-09-11
+C0970,Western Chemicals & Processing,A005,Pharmaceuticals,Large,213400000.0,Active,2023-06-04
+C0971,Sai Metal Works,A005,Packaging,Medium,30800000.0,Active,2022-05-12
+C0972,Omni Polymers,A005,Packaging,Medium,36100000.0,Active,2019-09-08
+C0973,Force Industries,A005,Textile,Small,16500000.0,Active,2018-02-27
+C0974,Matrix Engineering Pvt Ltd,A005,Electronics,Large,146100000.0,Active,2020-03-27
+C0975,Vanguard Metal Works,A005,Textile,Large,121000000.0,Active,2020-01-24
+C0976,Apex Forgings & Castings,A005,Metal Fabrication,Medium,71300000.0,Active,2020-03-07
+C0977,Matrix Auto Components,A005,Food Processing,Small,10400000.0,Active,2024-08-25
+C0978,TechnoCraft Engineering Pvt Ltd,A005,Chemicals,Small,9600000.0,Active,2023-09-19
+C0979,Precision Tech Solutions,A005,Engineering,Large,97800000.0,Active,2020-11-01
+C0980,Apex Auto Components,A005,Chemicals,Medium,41100000.0,Active,2020-01-03
+C0981,Matrix Packaging Solutions,A005,Pharmaceuticals,Large,153400000.0,Active,2024-09-25
+C0982,Siemens-Tier2 Metal Works,A005,Chemicals,Small,10800000.0,Active,2022-01-17
+C0983,Force Packaging Solutions,A005,Chemicals,Large,120900000.0,Active,2024-09-01
+C0984,Siemens-Tier2 Auto Components,A005,Chemicals,Enterprise,519900000.0,Active,2022-03-15
+C0985,Atlas Auto Components,A005,Metal Fabrication,Large,266600000.0,Active,2021-04-17
+C0986,Tata-Partner Polymers,A005,Engineering,Large,112300000.0,Active,2018-09-05
+C0987,Omni Automation Systems,A005,Pharmaceuticals,Small,10500000.0,Active,2021-02-13
+C0988,Mahindra-Tier1 Tech Solutions,A005,Pharmaceuticals,Enterprise,435500000.0,Active,2021-05-28
+C0989,TechnoCraft Forgings & Castings,A005,Engineering,Enterprise,863400000.0,Active,2020-03-01
+C0990,Atlas Tech Solutions,A005,Engineering,Enterprise,562800000.0,Active,2023-11-03
+C0991,Apex Tools & Dies,A005,Food Processing,Enterprise,717000000.0,Active,2018-12-06
+C0992,Synergy Automation Systems,A005,Chemicals,Large,126000000.0,Active,2024-07-04
+C0993,Tata-Partner Polymers,A005,Electronics,Large,227700000.0,Active,2024-10-19
+C0994,Deccan Chemicals & Processing,A005,Food Processing,Large,175600000.0,Active,2022-07-16
+C0995,Pragati Fabricators,A005,Metal Fabrication,Enterprise,364800000.0,Active,2020-08-16
+C0996,Tata-Partner Chemicals & Processing,A005,Metal Fabrication,Small,10800000.0,Active,2018-02-16
+C0997,Atlas Engineering Pvt Ltd,A005,Metal Fabrication,Enterprise,662800000.0,Active,2020-03-10
+C0998,Kalyani Metal Works,A005,Engineering,Small,20900000.0,Active,2022-08-26
+C0999,Vanguard Forgings & Castings,A005,Pharmaceuticals,Enterprise,594200000.0,Active,2020-09-11
+C1000,Sai Industries,A005,Automotive,Small,26800000.0,Active,2018-07-15
+C1001,Western Polymers,A005,Electronics,Enterprise,321600000.0,Active,2019-09-22
+C1002,Mahindra-Tier1 Packaging Solutions,A005,Metal Fabrication,Enterprise,558400000.0,Active,2020-12-13
+C1003,Omni Auto Components,A005,Electronics,Enterprise,585500000.0,Active,2024-03-17
+C1004,Precision Polymers,A005,Pharmaceuticals,Enterprise,654600000.0,Active,2021-10-22
+C1005,Sigma Fabricators,A005,Packaging,Small,9500000.0,Active,2018-03-27
+C1006,Sigma Automation Systems,A005,Automotive,Large,158500000.0,Active,2021-06-12
+C1007,TechnoCraft Automation Systems,A005,Automotive,Medium,44900000.0,Active,2023-05-19
+C1008,Synergy Packaging Solutions,A005,Engineering,Large,110600000.0,Active,2019-01-18
+C1009,Western Engineering Pvt Ltd,A005,Electronics,Enterprise,640800000.0,Active,2021-05-01
+C1010,Schneider-Supplier Tech Solutions,A005,Automotive,Large,158000000.0,Active,2021-06-19
+C1011,Apex Tech Solutions,A005,Engineering,Medium,50200000.0,Active,2022-11-11
+C1012,Kirloskar-Style Metal Works,A005,Pharmaceuticals,Large,264500000.0,Active,2019-08-21
+C1013,Synergy Industries,A005,Chemicals,Large,137700000.0,Active,2020-10-13
+C1014,Tata-Partner Metal Works,A005,Engineering,Small,19700000.0,Active,2020-02-19
+C1015,Pragati Tech Solutions,A005,Food Processing,Medium,50800000.0,Active,2018-11-27
+C1016,Mahindra-Tier1 Industries,A005,Pharmaceuticals,Enterprise,698100000.0,Active,2020-04-14
+C1017,Dynamic Fabricators,A005,Textile,Enterprise,702900000.0,Active,2022-03-01
+C1018,Thermax-Vendor Packaging Solutions,A005,Textile,Medium,64600000.0,Active,2019-11-27
+C1019,Siemens-Tier2 Tech Solutions,A005,Pharmaceuticals,Enterprise,860800000.0,Active,2023-11-02
+C1020,Pragati Forgings & Castings,A005,Packaging,Enterprise,388600000.0,Active,2019-12-22
+C1021,Mahindra-Tier1 Polymers,A005,Food Processing,Large,244800000.0,Active,2018-11-07
+C1022,TechnoCraft Fabricators,A005,Pharmaceuticals,Medium,45400000.0,Active,2022-04-13
+C1023,Tata-Partner Auto Components,A005,Metal Fabrication,Medium,31700000.0,Active,2024-05-15
+C1024,Omni Industries,A005,Food Processing,Enterprise,688200000.0,Active,2018-04-06
+C1025,Deccan Tools & Dies,A005,Automotive,Large,232100000.0,Active,2020-11-18
+C1026,Kirloskar-Style Chemicals & Processing,A005,Automotive,Enterprise,769300000.0,Active,2018-02-11
+C1027,Kalyani Fabricators,A005,Engineering,Enterprise,838100000.0,Active,2023-11-03
+C1028,Dynamic Packaging Solutions,A005,Metal Fabrication,Medium,36700000.0,Active,2023-09-04
+C1029,Pragati Chemicals & Processing,A005,Textile,Large,179400000.0,Active,2018-04-20
+C1030,Apex Automation Systems,A005,Packaging,Enterprise,783500000.0,Active,2023-04-14
+C1031,Force Tools & Dies,A005,Engineering,Medium,42800000.0,Active,2020-08-14
+C1032,Deccan Metal Works,A005,Automotive,Enterprise,620100000.0,Active,2023-02-11
+C1033,Sai Polymers,A005,Electronics,Medium,87800000.0,Active,2024-03-12
+C1034,Omni Packaging Solutions,A005,Packaging,Large,93800000.0,Active,2022-01-27
+C1035,Siemens-Tier2 Chemicals & Processing,A005,Automotive,Medium,45200000.0,Active,2021-05-21
+C1036,Schneider-Supplier Automation Systems,A005,Engineering,Medium,81500000.0,Active,2021-01-13
+C1037,Deccan Fabricators,A005,Engineering,Medium,47800000.0,Active,2024-03-15
+C1038,Thermax-Vendor Automation Systems,A005,Food Processing,Small,13900000.0,Active,2018-08-16
+C1039,Siemens-Tier2 Polymers,A005,Packaging,Enterprise,826100000.0,Active,2024-02-27
+C1040,Kirloskar-Style Packaging Solutions,A005,Pharmaceuticals,Small,15300000.0,Active,2022-12-27
+C1041,Sai Packaging Solutions,A005,Packaging,Enterprise,717100000.0,Active,2024-01-21
+C1042,Thermax-Vendor Tools & Dies,A005,Electronics,Medium,30200000.0,Active,2019-11-10
+C1043,Western Metal Works,A005,Engineering,Small,11800000.0,Active,2022-12-25
+C1044,Thermax-Vendor Tools & Dies,A005,Food Processing,Large,171300000.0,Active,2024-12-05
+C1045,Deccan Tools & Dies,A005,Packaging,Large,125800000.0,Active,2021-06-06
+C1046,Dynamic Polymers,A005,Chemicals,Small,26100000.0,Active,2022-11-20
+C1047,Thermax-Vendor Forgings & Castings,A005,Engineering,Enterprise,419000000.0,Active,2023-03-02
+C1048,Dynamic Metal Works,A005,Food Processing,Large,116900000.0,Active,2020-03-19
+C1049,Apex Engineering Pvt Ltd,A005,Textile,Enterprise,764000000.0,Active,2021-11-16
+C1050,Apex Forgings & Castings,A005,Chemicals,Medium,86800000.0,Active,2024-05-10
+C1051,Siemens-Tier2 Tech Solutions,A005,Food Processing,Medium,55900000.0,Active,2019-10-07
+C1052,Mahindra-Tier1 Packaging Solutions,A005,Chemicals,Enterprise,408200000.0,Active,2024-03-01
+C1053,Mahindra-Tier1 Fabricators,A005,Chemicals,Enterprise,844400000.0,Active,2020-10-22
+C1054,Thermax-Vendor Tech Solutions,A005,Engineering,Small,17400000.0,Active,2024-06-23
+C1055,Dynamic Chemicals & Processing,A005,Chemicals,Enterprise,725100000.0,Active,2023-10-09
+C1056,Synergy Auto Components,A005,Textile,Small,9900000.0,Active,2019-08-12
+C1057,Kalyani Chemicals & Processing,A005,Automotive,Small,13600000.0,Active,2022-07-10
+C1058,Dynamic Chemicals & Processing,A005,Packaging,Medium,88100000.0,Active,2022-01-19
+C1059,Kirloskar-Style Fabricators,A005,Metal Fabrication,Enterprise,858200000.0,Active,2021-03-03
+C1060,Western Packaging Solutions,A005,Textile,Enterprise,385100000.0,Active,2018-06-02
+C1061,Matrix Tech Solutions,A005,Pharmaceuticals,Large,256700000.0,Active,2020-05-20
+C1062,Deccan Industries,A005,Packaging,Enterprise,835600000.0,Active,2020-12-16
+C1063,Matrix Industries,A005,Electronics,Small,12400000.0,Active,2018-04-06
+C1064,Precision Tech Solutions,A005,Pharmaceuticals,Medium,72400000.0,Active,2021-02-16
+C1065,Precision Tech Solutions,A005,Packaging,Enterprise,574700000.0,Active,2018-12-28
+C1066,Matrix Auto Components,A005,Packaging,Small,12700000.0,Active,2020-03-27
+C1067,Kirloskar-Style Packaging Solutions,A005,Textile,Large,191400000.0,Active,2023-10-07
+C1068,Shree Engineering Pvt Ltd,A005,Textile,Medium,55000000.0,Active,2018-04-25
+C1069,Omni Chemicals & Processing,A005,Engineering,Large,94700000.0,Active,2023-11-04
+C1070,Dynamic Automation Systems,A005,Engineering,Large,117700000.0,Active,2018-08-27
+C1071,Schneider-Supplier Chemicals & Processing,A005,Electronics,Enterprise,677000000.0,Active,2020-10-22
+C1072,Bharat Automation Systems,A005,Automotive,Enterprise,494900000.0,Active,2023-12-26
+C1073,Shree Tools & Dies,A005,Chemicals,Small,23400000.0,Active,2020-06-26
+C1074,Precision Packaging Solutions,A005,Engineering,Enterprise,355500000.0,Active,2020-03-08
+C1075,Dynamic Auto Components,A005,Automotive,Medium,39800000.0,Active,2024-07-10
+C1076,Thermax-Vendor Chemicals & Processing,A005,Metal Fabrication,Small,14400000.0,Active,2024-07-24
+C1077,Mahindra-Tier1 Chemicals & Processing,A005,Metal Fabrication,Large,209800000.0,Active,2024-06-17
+C1078,Force Tech Solutions,A005,Electronics,Enterprise,585900000.0,Active,2022-10-14
+C1079,Synergy Polymers,A005,Packaging,Medium,56000000.0,Active,2021-02-02
+C1080,Pragati Automation Systems,A005,Electronics,Medium,68900000.0,Active,2023-03-16
+C1081,Pragati Chemicals & Processing,A005,Textile,Small,14200000.0,Active,2021-02-26
+C1082,Omni Fabricators,A005,Metal Fabrication,Medium,71100000.0,Active,2020-04-17
+C1083,TechnoCraft Fabricators,A005,Automotive,Small,25500000.0,Active,2022-02-17
+C1084,TechnoCraft Polymers,A005,Engineering,Enterprise,696500000.0,Active,2022-05-12
+C1085,Deccan Metal Works,A005,Engineering,Small,11100000.0,Active,2023-08-06
+C1086,Kirloskar-Style Polymers,A005,Automotive,Small,16500000.0,Active,2023-05-11
+C1087,Shree Packaging Solutions,A005,Electronics,Enterprise,674300000.0,Active,2020-06-28
+C1088,Kirloskar-Style Forgings & Castings,A005,Metal Fabrication,Small,22400000.0,Active,2022-05-28
+C1089,Atlas Auto Components,A005,Food Processing,Small,9100000.0,Active,2018-01-06
+C1090,Thermax-Vendor Tech Solutions,A005,Electronics,Enterprise,821300000.0,Active,2023-10-24
+C1091,Omni Fabricators,A005,Packaging,Enterprise,782800000.0,Active,2018-03-05
+C1092,Bharat Forgings & Castings,A005,Engineering,Small,21500000.0,Active,2019-01-07
+C1093,Omni Chemicals & Processing,A005,Metal Fabrication,Medium,56100000.0,Active,2023-09-07
+C1094,Synergy Fabricators,A005,Electronics,Medium,58400000.0,Active,2018-02-06
+C1095,Matrix Packaging Solutions,A005,Electronics,Enterprise,582900000.0,Active,2024-08-19
+C1096,Tata-Partner Forgings & Castings,A005,Pharmaceuticals,Enterprise,330600000.0,Active,2018-02-21
+C1097,Schneider-Supplier Polymers,A005,Food Processing,Enterprise,742200000.0,Active,2022-12-18
+C1098,Mahindra-Tier1 Engineering Pvt Ltd,A005,Electronics,Enterprise,591700000.0,Active,2022-12-20
+C1099,Atlas Tech Solutions,A005,Chemicals,Small,18500000.0,Active,2021-10-11
+C1100,Sai Auto Components,A005,Pharmaceuticals,Enterprise,833500000.0,Active,2018-08-20
+C1101,Thermax-Vendor Automation Systems,A005,Electronics,Enterprise,312500000.0,Active,2020-12-07
+C1102,Omni Automation Systems,A005,Electronics,Medium,60500000.0,Active,2022-11-11
+C1103,Kalyani Packaging Solutions,A005,Electronics,Medium,83000000.0,Active,2023-12-13
+C1104,TechnoCraft Chemicals & Processing,A005,Packaging,Enterprise,779900000.0,Active,2024-03-20
+C1105,Force Fabricators,A005,Engineering,Enterprise,377500000.0,Active,2019-03-20
+C1106,Omni Auto Components,A005,Food Processing,Enterprise,482200000.0,Active,2019-09-02
+C1107,Bharat Automation Systems,A005,Pharmaceuticals,Large,211800000.0,Active,2019-09-02
+C1108,Synergy Automation Systems,A005,Food Processing,Small,20100000.0,Active,2018-09-08
+C1109,Omni Fabricators,A005,Packaging,Large,228500000.0,Active,2024-09-09
+C1110,Matrix Packaging Solutions,A005,Textile,Small,21700000.0,Active,2021-08-27
+C1111,Apex Auto Components,A005,Engineering,Small,18100000.0,Active,2019-11-04
+C1112,Force Automation Systems,A005,Metal Fabrication,Large,217500000.0,Active,2024-09-16
+C1113,Siemens-Tier2 Auto Components,A005,Metal Fabrication,Large,150200000.0,Active,2019-02-28
+C1114,Force Tech Solutions,A005,Food Processing,Small,13400000.0,Active,2024-08-11
+C1115,Mahindra-Tier1 Industries,A005,Metal Fabrication,Small,13800000.0,Active,2023-07-12
+C1116,Thermax-Vendor Chemicals & Processing,A005,Chemicals,Medium,75200000.0,Active,2022-07-26
+C1117,Tata-Partner Tools & Dies,A005,Food Processing,Enterprise,850800000.0,Active,2021-09-26
+C1118,Atlas Automation Systems,A005,Automotive,Enterprise,387400000.0,Active,2018-12-26
+C1119,Pragati Auto Components,A005,Engineering,Large,146700000.0,Active,2024-03-14
+C1120,Precision Polymers,A005,Automotive,Medium,84200000.0,Active,2018-11-23
+C1121,Atlas Industries,A005,Pharmaceuticals,Enterprise,541200000.0,Active,2023-12-18
+C1122,Mahindra-Tier1 Packaging Solutions,A005,Packaging,Large,91400000.0,Active,2020-09-20
+C1123,Matrix Packaging Solutions,A005,Food Processing,Enterprise,686300000.0,Active,2022-10-26
+C1124,Kalyani Chemicals & Processing,A005,Electronics,Large,249800000.0,Active,2024-11-13
+C1125,Force Fabricators,A005,Engineering,Small,18700000.0,Active,2021-12-24
+C1126,Siemens-Tier2 Tools & Dies,A005,Textile,Large,128500000.0,Active,2022-09-10
+C1127,Pragati Automation Systems,A005,Metal Fabrication,Small,9500000.0,Active,2024-09-19
+C1128,Deccan Forgings & Castings,A005,Pharmaceuticals,Enterprise,892200000.0,Active,2018-12-02
+C1129,Sigma Fabricators,A005,Textile,Large,112300000.0,Active,2024-11-04
+C1130,Vanguard Fabricators,A005,Automotive,Enterprise,503400000.0,Active,2019-12-19
+C1131,Shree Packaging Solutions,A005,Textile,Medium,51000000.0,Active,2020-11-26
+C1132,Schneider-Supplier Metal Works,A005,Metal Fabrication,Enterprise,611800000.0,Active,2019-02-11
+C1133,Pragati Metal Works,A005,Chemicals,Large,171800000.0,Active,2019-12-14
+C1134,TechnoCraft Auto Components,A005,Engineering,Small,16600000.0,Active,2019-08-07
+C1135,Vanguard Auto Components,A005,Packaging,Enterprise,652900000.0,Active,2022-07-28
+C1136,Deccan Metal Works,A005,Electronics,Enterprise,897900000.0,Active,2023-08-24
+C1137,TechnoCraft Tools & Dies,A005,Metal Fabrication,Medium,59100000.0,Active,2021-03-23
+C1138,Pragati Industries,A005,Engineering,Medium,57300000.0,Active,2018-12-06
+C1139,Sai Automation Systems,A005,Engineering,Enterprise,366200000.0,Active,2020-10-10
+C1140,Precision Industries,A005,Metal Fabrication,Small,15700000.0,Active,2020-05-10
+C1141,Omni Engineering Pvt Ltd,A005,Metal Fabrication,Medium,77000000.0,Active,2021-01-10
+C1142,Mahindra-Tier1 Forgings & Castings,A005,Metal Fabrication,Enterprise,301300000.0,Active,2022-06-03
+C1143,Precision Polymers,A005,Electronics,Large,191800000.0,Active,2020-07-16
+C1144,Siemens-Tier2 Metal Works,A005,Metal Fabrication,Medium,60300000.0,Active,2021-08-22
+C1145,Vanguard Tools & Dies,A005,Packaging,Small,23400000.0,Active,2023-10-14
+C1146,Dynamic Forgings & Castings,A005,Food Processing,Large,187400000.0,Active,2023-08-24
+C1147,Deccan Chemicals & Processing,A005,Engineering,Medium,72400000.0,Active,2022-11-26
+C1148,Schneider-Supplier Fabricators,A005,Textile,Small,20600000.0,Active,2018-04-20
+C1149,Sai Metal Works,A005,Automotive,Medium,75000000.0,Active,2022-01-04
+C1150,Atlas Industries,A005,Metal Fabrication,Small,13900000.0,Active,2019-04-27
+C1151,Schneider-Supplier Metal Works,A005,Electronics,Small,23500000.0,Active,2022-06-13
+C1152,Shree Engineering Pvt Ltd,A005,Electronics,Small,15100000.0,Active,2019-07-01
+C1153,Pragati Automation Systems,A005,Food Processing,Large,106400000.0,Active,2018-09-06
+C1154,Mahindra-Tier1 Tools & Dies,A005,Metal Fabrication,Large,228300000.0,Active,2019-05-14
+C1155,Atlas Tools & Dies,A005,Automotive,Large,122700000.0,Active,2023-01-10
+C1156,Dynamic Auto Components,A005,Packaging,Medium,54800000.0,Active,2020-05-13
+C1157,Apex Engineering Pvt Ltd,A005,Chemicals,Medium,75100000.0,Active,2022-04-16
+C1158,Pragati Industries,A005,Food Processing,Small,13800000.0,Active,2020-08-18
+C1159,TechnoCraft Auto Components,A005,Electronics,Small,16300000.0,Active,2019-01-09
+C1160,Sai Metal Works,A005,Engineering,Medium,75800000.0,Active,2023-03-10
+C1161,Shree Polymers,A005,Electronics,Small,24200000.0,Active,2022-04-26
+C1162,Matrix Automation Systems,A005,Textile,Medium,76900000.0,Active,2022-07-18
+C1163,Vanguard Engineering Pvt Ltd,A005,Automotive,Enterprise,876700000.0,Active,2022-05-21
+C1164,Kirloskar-Style Engineering Pvt Ltd,A005,Automotive,Enterprise,464000000.0,Active,2020-11-13
+C1165,Sigma Chemicals & Processing,A005,Chemicals,Large,98200000.0,Active,2023-09-19
+C1166,Synergy Fabricators,A005,Engineering,Enterprise,719100000.0,Active,2024-03-24
+C1167,Sai Fabricators,A005,Food Processing,Medium,66600000.0,Active,2024-06-22
+C1168,Western Chemicals & Processing,A005,Pharmaceuticals,Enterprise,463800000.0,Active,2023-06-11
+C1169,Force Tech Solutions,A005,Packaging,Small,25500000.0,Active,2019-11-01
+C1170,Kalyani Tech Solutions,A005,Automotive,Small,21100000.0,Active,2021-09-23
+C1171,Schneider-Supplier Tech Solutions,A005,Food Processing,Small,23200000.0,Active,2023-11-03
+C1172,Sai Engineering Pvt Ltd,A005,Electronics,Small,15400000.0,Active,2024-07-27
+C1173,Kalyani Automation Systems,A005,Food Processing,Medium,80300000.0,Active,2024-12-01
+C1174,Apex Tech Solutions,A005,Packaging,Medium,56700000.0,Active,2019-12-01
+C1175,Deccan Chemicals & Processing,A005,Packaging,Medium,35400000.0,Active,2022-11-10
+C1176,Schneider-Supplier Forgings & Castings,A005,Chemicals,Enterprise,880400000.0,Active,2018-05-16
+C1177,Schneider-Supplier Packaging Solutions,A005,Chemicals,Small,12500000.0,Active,2024-11-13
+C1178,Apex Fabricators,A005,Textile,Enterprise,402300000.0,Active,2019-11-24
+C1179,Shree Chemicals & Processing,A005,Metal Fabrication,Small,19600000.0,Active,2023-02-05
+C1180,Deccan Metal Works,A005,Chemicals,Large,124500000.0,Active,2023-01-23
+C1181,Atlas Industries,A005,Pharmaceuticals,Enterprise,301200000.0,Active,2021-11-22
+C1182,Thermax-Vendor Engineering Pvt Ltd,A005,Packaging,Enterprise,806600000.0,Active,2021-05-04
+C1183,Atlas Industries,A005,Electronics,Enterprise,516900000.0,Active,2024-01-24
+C1184,Tata-Partner Engineering Pvt Ltd,A005,Pharmaceuticals,Enterprise,619400000.0,Active,2020-01-13
+C1185,Force Automation Systems,A005,Engineering,Small,26800000.0,Active,2019-12-14
+C1186,Synergy Forgings & Castings,A005,Chemicals,Medium,49800000.0,Active,2018-11-21
+C1187,Apex Engineering Pvt Ltd,A005,Electronics,Enterprise,784800000.0,Active,2022-11-11
+C1188,Deccan Forgings & Castings,A005,Engineering,Enterprise,443000000.0,Active,2020-01-27
+C1189,Western Industries,A005,Chemicals,Small,23000000.0,Active,2022-08-25
+C1190,Apex Chemicals & Processing,A005,Electronics,Small,10500000.0,Active,2018-01-13
+C1191,Western Packaging Solutions,A005,Engineering,Medium,33700000.0,Active,2024-08-02
+C1192,Mahindra-Tier1 Metal Works,A005,Food Processing,Small,10800000.0,Active,2018-09-02
+C1193,Mahindra-Tier1 Polymers,A005,Food Processing,Small,20100000.0,Active,2021-04-28
+C1194,Kalyani Chemicals & Processing,A005,Automotive,Enterprise,530400000.0,Active,2024-07-20
+C1195,Kalyani Auto Components,A005,Packaging,Small,17200000.0,Active,2020-10-07
+C1196,Apex Auto Components,A005,Automotive,Small,19700000.0,Active,2024-04-19
+C1197,Matrix Chemicals & Processing,A005,Textile,Large,154000000.0,Active,2021-12-20
+C1198,Vanguard Tools & Dies,A005,Chemicals,Medium,77800000.0,Active,2018-03-10
+C1199,Shree Polymers,A005,Textile,Large,146000000.0,Active,2022-03-05
+C1200,Omni Fabricators,A005,Packaging,Large,156400000.0,Active,2018-09-19
+C1201,Atlas Chemicals & Processing,A005,Metal Fabrication,Small,13300000.0,Active,2024-09-28
+C1202,Precision Polymers,A005,Packaging,Medium,88600000.0,Active,2023-04-26
+C1203,Synergy Automation Systems,A005,Chemicals,Enterprise,716900000.0,Active,2021-10-23
+C1204,Western Metal Works,A005,Packaging,Large,165400000.0,Active,2019-02-15
+C1205,Precision Tech Solutions,A005,Chemicals,Small,20500000.0,Active,2023-04-15
+C1206,Kalyani Forgings & Castings,A005,Chemicals,Enterprise,740800000.0,Active,2024-06-26
+C1207,Siemens-Tier2 Polymers,A005,Chemicals,Enterprise,410500000.0,Active,2018-06-01
+C1208,Synergy Automation Systems,A005,Automotive,Small,11600000.0,Active,2021-04-21
+C1209,Shree Automation Systems,A005,Automotive,Small,12600000.0,Active,2020-03-08
+C1210,Deccan Packaging Solutions,A005,Metal Fabrication,Large,242600000.0,Active,2019-03-07
+C1211,Bharat Tools & Dies,A005,Pharmaceuticals,Small,9400000.0,Active,2023-03-13
+C1212,Thermax-Vendor Auto Components,A005,Packaging,Medium,48300000.0,Active,2019-06-26
+C1213,Sigma Chemicals & Processing,A005,Metal Fabrication,Enterprise,827000000.0,Active,2018-02-05
+C1214,Matrix Forgings & Castings,A005,Chemicals,Enterprise,716600000.0,Active,2020-10-14
+C1215,Thermax-Vendor Forgings & Castings,A005,Automotive,Medium,81300000.0,Active,2020-03-11
+C1216,Tata-Partner Engineering Pvt Ltd,A005,Pharmaceuticals,Medium,81100000.0,Active,2022-08-07
+C1217,Siemens-Tier2 Auto Components,A005,Electronics,Small,12000000.0,Active,2021-11-25
+C1218,Pragati Automation Systems,A005,Electronics,Enterprise,407400000.0,Active,2023-06-17
+C1219,Schneider-Supplier Tech Solutions,A005,Electronics,Enterprise,461000000.0,Active,2021-11-26
+C1220,Shree Chemicals & Processing,A005,Automotive,Medium,43200000.0,Active,2019-08-28
+C1221,Tata-Partner Polymers,A005,Chemicals,Large,166500000.0,Active,2021-10-06
+C1222,Sigma Fabricators,A005,Textile,Small,11400000.0,Active,2018-05-15
+C1223,Pragati Automation Systems,A005,Chemicals,Small,17400000.0,Active,2022-06-14
+C1224,Vanguard Tech Solutions,A005,Food Processing,Enterprise,520500000.0,Active,2021-06-09
+C1225,Dynamic Engineering Pvt Ltd,A005,Metal Fabrication,Enterprise,440300000.0,Active,2023-02-12
+C1226,Synergy Fabricators,A005,Textile,Small,23100000.0,Active,2019-02-04
+C1227,Synergy Automation Systems,A005,Automotive,Medium,50000000.0,Active,2023-06-09
+C1228,Mahindra-Tier1 Packaging Solutions,A005,Pharmaceuticals,Medium,72300000.0,Active,2019-12-24
+C1229,Sai Fabricators,A005,Automotive,Large,140700000.0,Active,2020-07-13
+C1230,Shree Chemicals & Processing,A005,Automotive,Enterprise,692500000.0,Active,2024-03-28
+C1231,Dynamic Forgings & Castings,A005,Chemicals,Medium,58500000.0,Active,2022-10-26
+C1232,Sai Tech Solutions,A005,Electronics,Large,232500000.0,Active,2020-04-14
+C1233,Schneider-Supplier Polymers,A005,Chemicals,Enterprise,570000000.0,Active,2022-01-12
+C1234,Matrix Metal Works,A005,Metal Fabrication,Large,259800000.0,Active,2018-08-26
+C1235,Atlas Automation Systems,A005,Packaging,Medium,55100000.0,Active,2023-07-25
+C1236,Schneider-Supplier Industries,A005,Pharmaceuticals,Large,195700000.0,Active,2022-01-05
+C1237,Matrix Automation Systems,A005,Food Processing,Enterprise,422500000.0,Active,2021-02-18
+C1238,Dynamic Forgings & Castings,A005,Electronics,Small,14900000.0,Active,2021-11-10
+C1239,Synergy Tools & Dies,A005,Engineering,Medium,31900000.0,Active,2023-10-16
+C1240,Bharat Tools & Dies,A005,Chemicals,Small,25400000.0,Active,2021-05-07
+C1241,Tata-Partner Fabricators,A005,Textile,Small,17200000.0,Active,2020-09-01
+C1242,Kirloskar-Style Automation Systems,A005,Food Processing,Enterprise,394200000.0,Active,2018-03-18
+C1243,TechnoCraft Tech Solutions,A005,Engineering,Enterprise,873100000.0,Active,2024-04-05
+C1244,Force Fabricators,A005,Food Processing,Enterprise,395300000.0,Active,2022-05-19
+C1245,Force Industries,A005,Electronics,Large,126300000.0,Active,2019-08-03
+C1246,Dynamic Metal Works,A006,Chemicals,Large,253900000.0,Active,2021-08-15
+C1247,Shree Engineering Pvt Ltd,A006,Engineering,Large,206300000.0,Active,2021-06-23
+C1248,Schneider-Supplier Fabricators,A006,Food Processing,Medium,54900000.0,Active,2019-10-24
+C1249,TechnoCraft Tech Solutions,A006,Food Processing,Medium,71900000.0,Active,2018-07-23
+C1250,Precision Forgings & Castings,A006,Metal Fabrication,Large,248900000.0,Active,2022-05-22
+C1251,Synergy Packaging Solutions,A006,Chemicals,Enterprise,546800000.0,Active,2024-09-04
+C1252,Sigma Auto Components,A006,Engineering,Large,163800000.0,Active,2019-05-07
+C1253,Pragati Engineering Pvt Ltd,A006,Electronics,Small,10300000.0,Active,2023-11-24
+C1254,Vanguard Polymers,A006,Packaging,Enterprise,813500000.0,Active,2021-01-01
+C1255,Deccan Auto Components,A006,Metal Fabrication,Large,210700000.0,Active,2021-08-15
+C1256,Synergy Auto Components,A006,Textile,Medium,72800000.0,Active,2021-03-16
+C1257,Deccan Tools & Dies,A006,Metal Fabrication,Small,19900000.0,Active,2019-05-04
+C1258,Sai Packaging Solutions,A006,Food Processing,Medium,34700000.0,Active,2024-01-22
+C1259,Deccan Tools & Dies,A006,Electronics,Large,122000000.0,Active,2023-01-22
+C1260,Sai Forgings & Castings,A006,Electronics,Small,24100000.0,Active,2024-09-21
+C1261,Atlas Packaging Solutions,A006,Engineering,Enterprise,714200000.0,Active,2021-01-20
+C1262,Bharat Engineering Pvt Ltd,A006,Food Processing,Medium,85700000.0,Active,2020-04-07
+C1263,Synergy Engineering Pvt Ltd,A006,Food Processing,Small,26800000.0,Active,2020-04-22
+C1264,Atlas Auto Components,A006,Chemicals,Small,23300000.0,Active,2024-11-06
+C1265,Siemens-Tier2 Tools & Dies,A006,Automotive,Enterprise,607500000.0,Active,2024-06-11
+C1266,Sai Chemicals & Processing,A006,Chemicals,Medium,86100000.0,Active,2021-07-04
+C1267,Tata-Partner Forgings & Castings,A006,Engineering,Large,148200000.0,Active,2018-07-21
+C1268,Western Engineering Pvt Ltd,A006,Food Processing,Medium,57500000.0,Active,2018-11-27
+C1269,Deccan Chemicals & Processing,A006,Packaging,Small,10200000.0,Active,2019-07-10
+C1270,Kalyani Tech Solutions,A006,Engineering,Medium,45100000.0,Active,2018-10-11
+C1271,Thermax-Vendor Packaging Solutions,A006,Food Processing,Medium,49900000.0,Active,2023-12-11
+C1272,Atlas Tech Solutions,A006,Engineering,Large,93200000.0,Active,2022-08-13
+C1273,Pragati Chemicals & Processing,A006,Chemicals,Small,13200000.0,Active,2022-02-10
+C1274,Tata-Partner Packaging Solutions,A006,Food Processing,Medium,67200000.0,Active,2018-03-12
+C1275,Omni Fabricators,A006,Chemicals,Medium,52500000.0,Active,2023-01-08
+C1276,Siemens-Tier2 Metal Works,A006,Electronics,Large,114200000.0,Active,2020-11-26
+C1277,Precision Industries,A006,Food Processing,Large,225100000.0,Active,2019-12-11
+C1278,Western Forgings & Castings,A006,Chemicals,Small,25300000.0,Active,2023-04-26
+C1279,Atlas Packaging Solutions,A006,Chemicals,Enterprise,612900000.0,Active,2019-08-21
+C1280,Bharat Auto Components,A006,Electronics,Small,26200000.0,Active,2018-11-05
+C1281,Force Tools & Dies,A006,Engineering,Medium,65600000.0,Active,2024-04-08
+C1282,Pragati Auto Components,A006,Food Processing,Enterprise,486900000.0,Active,2023-04-08
+C1283,TechnoCraft Tools & Dies,A006,Chemicals,Large,141400000.0,Active,2021-11-07
+C1284,Deccan Tech Solutions,A006,Engineering,Large,161700000.0,Active,2019-08-15
+C1285,TechnoCraft Industries,A006,Food Processing,Medium,79200000.0,Active,2024-08-01
+C1286,Dynamic Polymers,A006,Engineering,Large,197100000.0,Active,2019-09-24
+C1287,Kirloskar-Style Fabricators,A006,Food Processing,Enterprise,483500000.0,Active,2020-07-18
+C1288,Kalyani Tech Solutions,A006,Engineering,Large,114600000.0,Active,2021-04-05
+C1289,Force Engineering Pvt Ltd,A006,Automotive,Large,178500000.0,Active,2021-07-24
+C1290,Sigma Polymers,A006,Electronics,Large,205400000.0,Active,2022-02-14
+C1291,Precision Auto Components,A006,Food Processing,Medium,41700000.0,Active,2021-05-25
+C1292,Siemens-Tier2 Automation Systems,A006,Textile,Enterprise,681000000.0,Active,2020-12-02
+C1293,Thermax-Vendor Polymers,A006,Food Processing,Medium,44500000.0,Active,2018-06-21
+C1294,Schneider-Supplier Chemicals & Processing,A006,Automotive,Medium,45700000.0,Active,2021-11-05
+C1295,Deccan Forgings & Castings,A006,Metal Fabrication,Small,11100000.0,Active,2018-11-23
+C1296,Dynamic Polymers,A006,Engineering,Medium,82600000.0,Active,2019-07-09
+C1297,Schneider-Supplier Fabricators,A006,Textile,Enterprise,651600000.0,Active,2023-07-25
+C1298,Siemens-Tier2 Auto Components,A006,Engineering,Large,236600000.0,Active,2020-12-07
+C1299,Siemens-Tier2 Polymers,A006,Pharmaceuticals,Small,26800000.0,Active,2024-08-01
+C1300,Apex Auto Components,A006,Food Processing,Enterprise,692700000.0,Active,2023-07-06
+C1301,Kirloskar-Style Automation Systems,A006,Metal Fabrication,Medium,41900000.0,Active,2019-09-04
+C1302,Vanguard Metal Works,A006,Chemicals,Medium,42100000.0,Active,2023-03-26
+C1303,Force Fabricators,A006,Food Processing,Enterprise,676100000.0,Active,2022-02-28
+C1304,Thermax-Vendor Tools & Dies,A006,Engineering,Large,105400000.0,Active,2018-05-03
+C1305,Western Engineering Pvt Ltd,A006,Chemicals,Enterprise,591100000.0,Active,2024-02-01
+C1306,Precision Fabricators,A006,Automotive,Small,10700000.0,Active,2022-01-13
+C1307,Kalyani Industries,A006,Pharmaceuticals,Enterprise,583900000.0,Active,2020-10-14
+C1308,Western Automation Systems,A006,Packaging,Large,237000000.0,Active,2020-11-13
+C1309,Dynamic Metal Works,A006,Automotive,Large,247200000.0,Active,2024-02-01
+C1310,Vanguard Packaging Solutions,A006,Food Processing,Medium,31500000.0,Active,2018-09-09
+C1311,Schneider-Supplier Forgings & Castings,A007,Packaging,Enterprise,671000000.0,Active,2023-08-17
+C1312,TechnoCraft Chemicals & Processing,A007,Chemicals,Small,26800000.0,Active,2024-06-01
+C1313,Thermax-Vendor Automation Systems,A007,Automotive,Large,212000000.0,Active,2019-10-16
+C1314,Dynamic Packaging Solutions,A007,Engineering,Large,167000000.0,Active,2021-11-28
+C1315,Schneider-Supplier Auto Components,A007,Food Processing,Large,199300000.0,Active,2023-03-28
+C1316,Pragati Metal Works,A007,Textile,Small,11300000.0,Active,2024-02-10
+C1317,Atlas Industries,A007,Electronics,Medium,83800000.0,Active,2018-08-22
+C1318,Sai Forgings & Castings,A007,Chemicals,Medium,40200000.0,Active,2023-12-03
+C1319,Apex Polymers,A007,Automotive,Medium,85700000.0,Active,2020-07-25
+C1320,Deccan Forgings & Castings,A007,Pharmaceuticals,Enterprise,870900000.0,Active,2023-02-22
+C1321,Matrix Industries,A007,Electronics,Small,23300000.0,Active,2020-04-19
+C1322,Kalyani Auto Components,A007,Packaging,Enterprise,846100000.0,Active,2023-12-24
+C1323,Dynamic Chemicals & Processing,A007,Textile,Enterprise,785100000.0,Active,2019-05-04
+C1324,Mahindra-Tier1 Auto Components,A007,Engineering,Small,15100000.0,Active,2022-04-24
+C1325,Apex Metal Works,A007,Packaging,Medium,81200000.0,Active,2021-10-24
+C1326,Bharat Fabricators,A007,Automotive,Medium,80800000.0,Active,2021-06-25
+C1327,Sigma Chemicals & Processing,A007,Metal Fabrication,Medium,36400000.0,Active,2018-09-28
+C1328,Vanguard Automation Systems,A007,Metal Fabrication,Large,240700000.0,Active,2021-11-15
+C1329,Matrix Metal Works,A007,Pharmaceuticals,Medium,74800000.0,Active,2024-12-02
+C1330,Kalyani Automation Systems,A007,Pharmaceuticals,Small,13900000.0,Active,2024-12-19
+C1331,Omni Chemicals & Processing,A007,Chemicals,Enterprise,474900000.0,Active,2021-01-26
+C1332,Western Tools & Dies,A007,Chemicals,Medium,72000000.0,Active,2018-03-28
+C1333,Omni Packaging Solutions,A007,Food Processing,Large,267200000.0,Active,2023-03-01
+C1334,Sai Polymers,A007,Packaging,Enterprise,706700000.0,Active,2020-07-13
+C1335,Synergy Industries,A007,Pharmaceuticals,Large,215300000.0,Active,2019-12-28
+C1336,Sai Polymers,A007,Engineering,Medium,49400000.0,Active,2024-10-28
+C1337,Precision Packaging Solutions,A007,Pharmaceuticals,Enterprise,692800000.0,Active,2022-03-15
+C1338,Schneider-Supplier Tech Solutions,A007,Pharmaceuticals,Medium,42600000.0,Active,2024-12-07
+C1339,Siemens-Tier2 Chemicals & Processing,A007,Automotive,Large,220700000.0,Active,2022-02-22
+C1340,Matrix Polymers,A007,Food Processing,Medium,85600000.0,Active,2018-06-16
+C1341,Kirloskar-Style Engineering Pvt Ltd,A007,Engineering,Large,196800000.0,Active,2019-11-24
+C1342,Dynamic Forgings & Castings,A007,Automotive,Small,13300000.0,Active,2021-05-23
+C1343,Kalyani Tools & Dies,A007,Food Processing,Small,23000000.0,Active,2024-11-13
+C1344,Deccan Chemicals & Processing,A007,Electronics,Large,92100000.0,Active,2018-02-04
+C1345,Omni Chemicals & Processing,A007,Textile,Medium,31400000.0,Active,2022-10-16
+C1346,Deccan Packaging Solutions,A007,Engineering,Medium,53000000.0,Active,2023-12-14
+C1347,Mahindra-Tier1 Metal Works,A007,Metal Fabrication,Small,14900000.0,Active,2023-09-06
+C1348,Dynamic Packaging Solutions,A007,Automotive,Enterprise,633600000.0,Active,2022-09-16
+C1349,Synergy Industries,A007,Textile,Small,22600000.0,Active,2019-11-04
+C1350,Kirloskar-Style Metal Works,A007,Metal Fabrication,Small,19000000.0,Active,2024-06-04
+C1351,Precision Tools & Dies,A007,Chemicals,Medium,35300000.0,Active,2020-01-03
+C1352,Apex Industries,A007,Pharmaceuticals,Large,263900000.0,Active,2019-07-22
+C1353,Bharat Forgings & Castings,A007,Pharmaceuticals,Small,26000000.0,Active,2022-05-22
+C1354,Sai Tech Solutions,A007,Metal Fabrication,Enterprise,717100000.0,Active,2022-06-20
+C1355,Sai Industries,A007,Chemicals,Small,20900000.0,Active,2018-04-02
+C1356,Force Tools & Dies,A007,Pharmaceuticals,Medium,87400000.0,Active,2022-09-07
+C1357,Shree Automation Systems,A007,Pharmaceuticals,Medium,73700000.0,Active,2021-02-18
+C1358,Deccan Fabricators,A007,Food Processing,Medium,54000000.0,Active,2018-05-22
+C1359,TechnoCraft Packaging Solutions,A007,Metal Fabrication,Medium,34200000.0,Active,2023-05-21
+C1360,Schneider-Supplier Chemicals & Processing,A007,Chemicals,Large,191500000.0,Active,2023-09-20
+C1361,Kirloskar-Style Polymers,A007,Metal Fabrication,Large,268600000.0,Active,2021-07-01
+C1362,Kalyani Forgings & Castings,A007,Engineering,Large,112400000.0,Active,2018-11-18
+C1363,TechnoCraft Auto Components,A007,Packaging,Small,15500000.0,Active,2020-05-05
+C1364,Tata-Partner Fabricators,A007,Automotive,Small,15800000.0,Active,2019-07-04
+C1365,Apex Tools & Dies,A007,Textile,Large,196000000.0,Active,2024-08-04
+C1366,Pragati Automation Systems,A007,Pharmaceuticals,Large,199300000.0,Active,2018-03-11
+C1367,Dynamic Tools & Dies,A007,Packaging,Enterprise,586100000.0,Active,2019-05-01
+C1368,Atlas Industries,A007,Metal Fabrication,Medium,38600000.0,Active,2022-12-09
+C1369,Precision Packaging Solutions,A007,Packaging,Medium,70700000.0,Active,2021-12-15
+C1370,Kirloskar-Style Tech Solutions,A007,Packaging,Enterprise,601300000.0,Active,2020-07-17
+C1371,Schneider-Supplier Forgings & Castings,A007,Pharmaceuticals,Small,26100000.0,Active,2021-06-28
+C1372,Synergy Chemicals & Processing,A007,Engineering,Small,22100000.0,Active,2018-03-19
+C1373,Precision Auto Components,A007,Pharmaceuticals,Enterprise,785000000.0,Active,2018-07-22
+C1374,Pragati Packaging Solutions,A007,Metal Fabrication,Enterprise,598700000.0,Active,2023-11-18
+C1375,Schneider-Supplier Auto Components,A007,Food Processing,Small,20100000.0,Active,2024-12-01
+C1376,Schneider-Supplier Polymers,A007,Textile,Large,134000000.0,Active,2023-11-27
+C1377,Pragati Chemicals & Processing,A007,Automotive,Enterprise,878800000.0,Active,2023-09-08
+C1378,Kirloskar-Style Auto Components,A007,Packaging,Medium,60800000.0,Active,2018-07-16
+C1379,Dynamic Tools & Dies,A007,Packaging,Small,15100000.0,Active,2023-04-27
+C1380,Sai Auto Components,A007,Pharmaceuticals,Large,177000000.0,Active,2020-04-01
+C1381,Siemens-Tier2 Chemicals & Processing,A007,Food Processing,Medium,85400000.0,Active,2023-09-27
+C1382,Precision Tech Solutions,A007,Electronics,Small,15400000.0,Active,2022-08-11
+C1383,Mahindra-Tier1 Automation Systems,A007,Engineering,Small,15300000.0,Active,2023-03-13
+C1384,Sigma Engineering Pvt Ltd,A007,Engineering,Enterprise,595200000.0,Active,2018-09-17
+C1385,Matrix Polymers,A007,Engineering,Enterprise,304100000.0,Active,2024-11-09
+C1386,Tata-Partner Tech Solutions,A007,Food Processing,Large,143900000.0,Active,2021-03-18
+C1387,Deccan Auto Components,A007,Electronics,Enterprise,397100000.0,Active,2020-12-14
+C1388,Bharat Automation Systems,A007,Chemicals,Small,12400000.0,Active,2018-03-13
+C1389,TechnoCraft Packaging Solutions,A007,Packaging,Small,11900000.0,Active,2019-08-22
+C1390,Deccan Auto Components,A007,Food Processing,Enterprise,630100000.0,Active,2024-11-23
+C1391,Matrix Automation Systems,A007,Food Processing,Enterprise,378900000.0,Active,2018-01-05
+C1392,Matrix Automation Systems,A007,Textile,Small,22800000.0,Active,2019-01-22
+C1393,Western Polymers,A007,Automotive,Enterprise,588100000.0,Active,2020-08-03
+C1394,TechnoCraft Forgings & Castings,A007,Metal Fabrication,Medium,45000000.0,Active,2024-02-28
+C1395,Deccan Packaging Solutions,A007,Chemicals,Enterprise,419000000.0,Active,2023-02-23
+C1396,Siemens-Tier2 Industries,A007,Metal Fabrication,Medium,89600000.0,Active,2022-11-21
+C1397,Matrix Forgings & Castings,A007,Engineering,Medium,54100000.0,Active,2020-04-05
+C1398,TechnoCraft Engineering Pvt Ltd,A007,Chemicals,Small,24600000.0,Active,2021-07-17
+C1399,Mahindra-Tier1 Packaging Solutions,A007,Chemicals,Medium,50200000.0,Active,2021-01-17
+C1400,TechnoCraft Chemicals & Processing,A007,Automotive,Large,109800000.0,Active,2020-05-12
+C1401,Schneider-Supplier Polymers,A007,Chemicals,Large,251100000.0,Active,2019-01-01
+C1402,Precision Chemicals & Processing,A007,Packaging,Medium,47100000.0,Active,2020-10-04
+C1403,TechnoCraft Tools & Dies,A007,Pharmaceuticals,Enterprise,518100000.0,Active,2020-02-04
+C1404,Atlas Engineering Pvt Ltd,A007,Textile,Medium,49900000.0,Active,2023-06-24
+C1405,Shree Industries,A007,Packaging,Medium,69000000.0,Active,2019-10-13
+C1406,Synergy Auto Components,A007,Metal Fabrication,Small,9700000.0,Active,2023-04-07
+C1407,Schneider-Supplier Tech Solutions,A007,Engineering,Small,26000000.0,Active,2022-06-10
+C1408,Siemens-Tier2 Tech Solutions,A007,Chemicals,Medium,32600000.0,Active,2019-07-18
+C1409,Schneider-Supplier Fabricators,A007,Textile,Large,251100000.0,Active,2021-11-23
+C1410,Apex Polymers,A007,Engineering,Enterprise,551400000.0,Active,2022-01-06
+C1411,Kalyani Fabricators,A007,Metal Fabrication,Large,98200000.0,Active,2022-01-26
+C1412,Schneider-Supplier Forgings & Castings,A007,Food Processing,Enterprise,710800000.0,Active,2024-09-03
+C1413,Kirloskar-Style Tech Solutions,A007,Textile,Enterprise,637500000.0,Active,2021-07-20
+C1414,Deccan Forgings & Castings,A007,Metal Fabrication,Small,11900000.0,Active,2019-10-23
+C1415,Bharat Industries,A007,Electronics,Large,144600000.0,Active,2019-05-23
+C1416,Deccan Industries,A007,Engineering,Medium,43400000.0,Active,2022-04-10
+C1417,Precision Chemicals & Processing,A007,Metal Fabrication,Large,256900000.0,Active,2020-01-21
+C1418,Tata-Partner Forgings & Castings,A007,Textile,Small,9000000.0,Active,2020-11-20
+C1419,Sigma Automation Systems,A007,Engineering,Large,220000000.0,Active,2021-10-10
+C1420,Western Engineering Pvt Ltd,A007,Automotive,Large,129500000.0,Active,2020-03-09
+C1421,Bharat Industries,A008,Engineering,Enterprise,867400000.0,Active,2020-11-21
+C1422,Kalyani Industries,A008,Chemicals,Enterprise,432400000.0,Active,2020-04-19
+C1423,Thermax-Vendor Polymers,A008,Metal Fabrication,Enterprise,439000000.0,Active,2023-07-12
+C1424,Matrix Tech Solutions,A008,Engineering,Enterprise,408900000.0,Active,2019-03-07
+C1425,Shree Tech Solutions,A008,Metal Fabrication,Large,93800000.0,Active,2019-03-27
+C1426,Dynamic Chemicals & Processing,A008,Chemicals,Small,11600000.0,Active,2021-04-15
+C1427,Thermax-Vendor Polymers,A008,Engineering,Medium,73600000.0,Active,2024-01-20
+C1428,Apex Polymers,A008,Food Processing,Small,11000000.0,Active,2018-11-02
+C1429,Matrix Forgings & Castings,A008,Engineering,Large,115700000.0,Active,2023-10-01
+C1430,Bharat Auto Components,A008,Textile,Large,243500000.0,Active,2018-04-05
+C1431,Omni Metal Works,A008,Electronics,Medium,48400000.0,Active,2021-03-08
+C1432,Precision Industries,A008,Pharmaceuticals,Small,9400000.0,Active,2018-02-18
+C1433,Mahindra-Tier1 Auto Components,A008,Textile,Enterprise,385100000.0,Active,2019-01-08
+C1434,TechnoCraft Polymers,A008,Metal Fabrication,Large,208000000.0,Active,2019-11-13
+C1435,Atlas Packaging Solutions,A008,Engineering,Enterprise,401700000.0,Active,2018-04-04
+C1436,Mahindra-Tier1 Automation Systems,A008,Engineering,Large,111300000.0,Active,2018-01-20
+C1437,Matrix Tools & Dies,A008,Food Processing,Large,197900000.0,Active,2023-07-05
+C1438,Atlas Chemicals & Processing,A008,Pharmaceuticals,Large,152700000.0,Active,2018-05-16
+C1439,Atlas Automation Systems,A008,Pharmaceuticals,Small,23200000.0,Active,2024-03-25
+C1440,Thermax-Vendor Tools & Dies,A008,Packaging,Medium,53400000.0,Active,2023-08-27
+C1441,Synergy Auto Components,A008,Food Processing,Large,116000000.0,Active,2020-03-06
+C1442,Dynamic Automation Systems,A008,Packaging,Enterprise,554300000.0,Active,2023-07-20
+C1443,Thermax-Vendor Automation Systems,A008,Metal Fabrication,Medium,53000000.0,Active,2022-08-18
+C1444,Sai Tech Solutions,A008,Textile,Medium,53100000.0,Active,2022-12-14
+C1445,Pragati Metal Works,A008,Chemicals,Small,13200000.0,Active,2018-04-28
+C1446,Bharat Automation Systems,A008,Textile,Enterprise,874600000.0,Active,2018-01-12
+C1447,Sigma Tools & Dies,A008,Pharmaceuticals,Enterprise,386500000.0,Active,2024-09-14
+C1448,Tata-Partner Forgings & Castings,A008,Chemicals,Small,22400000.0,Active,2018-12-23
+C1449,Matrix Polymers,A008,Automotive,Enterprise,523000000.0,Active,2023-02-22
+C1450,Shree Auto Components,A008,Electronics,Medium,31800000.0,Active,2020-03-03
+C1451,Tata-Partner Auto Components,A008,Automotive,Enterprise,389800000.0,Active,2019-08-24
+C1452,Matrix Packaging Solutions,A008,Textile,Large,174600000.0,Active,2023-06-15
+C1453,Thermax-Vendor Packaging Solutions,A008,Automotive,Large,110000000.0,Active,2018-11-02
+C1454,Kalyani Tools & Dies,A008,Textile,Medium,30700000.0,Active,2024-07-22
+C1455,Vanguard Industries,A008,Pharmaceuticals,Large,217700000.0,Active,2021-03-09
+C1456,Synergy Industries,A008,Food Processing,Medium,74600000.0,Active,2021-10-02
+C1457,Tata-Partner Polymers,A008,Metal Fabrication,Small,23700000.0,Active,2021-08-11
+C1458,Thermax-Vendor Chemicals & Processing,A008,Food Processing,Enterprise,398900000.0,Active,2024-06-21
+C1459,TechnoCraft Forgings & Castings,A008,Pharmaceuticals,Small,10900000.0,Active,2020-10-25
+C1460,Western Engineering Pvt Ltd,A008,Chemicals,Large,119300000.0,Active,2018-02-07
+C1461,Kalyani Engineering Pvt Ltd,A008,Pharmaceuticals,Medium,63100000.0,Active,2023-01-08
+C1462,Deccan Auto Components,A008,Automotive,Enterprise,327400000.0,Active,2020-02-10
+C1463,Bharat Automation Systems,A008,Pharmaceuticals,Enterprise,600100000.0,Active,2020-07-24
+C1464,Sigma Tools & Dies,A008,Engineering,Large,163300000.0,Active,2023-09-04
+C1465,Pragati Tools & Dies,A008,Automotive,Enterprise,586200000.0,Active,2024-01-10
+C1466,Kirloskar-Style Tools & Dies,A008,Electronics,Small,24900000.0,Active,2018-12-08
+C1467,Force Chemicals & Processing,A008,Metal Fabrication,Medium,89600000.0,Active,2022-09-24
+C1468,Kalyani Chemicals & Processing,A008,Textile,Large,170500000.0,Active,2019-06-10
+C1469,Sigma Metal Works,A008,Food Processing,Small,25000000.0,Active,2024-11-13
+C1470,Tata-Partner Forgings & Castings,A008,Engineering,Medium,64000000.0,Active,2021-02-26
+C1471,Bharat Tools & Dies,A008,Pharmaceuticals,Small,18000000.0,Active,2021-06-06
+C1472,Mahindra-Tier1 Tools & Dies,A008,Engineering,Large,193800000.0,Active,2020-02-03
+C1473,Kirloskar-Style Packaging Solutions,A008,Electronics,Large,267500000.0,Active,2020-08-21
+C1474,Matrix Auto Components,A008,Electronics,Small,15500000.0,Active,2020-07-14
+C1475,Kalyani Chemicals & Processing,A008,Metal Fabrication,Enterprise,520000000.0,Active,2024-10-11
+C1476,Sigma Auto Components,A009,Food Processing,Enterprise,457700000.0,Active,2023-01-20
+C1477,Thermax-Vendor Engineering Pvt Ltd,A009,Chemicals,Small,11800000.0,Active,2018-05-13
+C1478,Kirloskar-Style Metal Works,A009,Food Processing,Small,13000000.0,Active,2024-08-22
+C1479,Synergy Automation Systems,A009,Electronics,Enterprise,685500000.0,Active,2024-08-04
+C1480,Synergy Tools & Dies,A009,Engineering,Enterprise,760900000.0,Active,2019-07-11
+C1481,Synergy Automation Systems,A009,Packaging,Enterprise,427600000.0,Active,2023-08-04
+C1482,Deccan Tech Solutions,A009,Automotive,Medium,86900000.0,Active,2019-11-07
+C1483,Western Metal Works,A009,Automotive,Enterprise,337400000.0,Active,2024-06-26
+C1484,TechnoCraft Tech Solutions,A009,Chemicals,Small,12800000.0,Active,2018-11-14
+C1485,Deccan Fabricators,A009,Metal Fabrication,Small,11600000.0,Active,2020-07-03
+C1486,Mahindra-Tier1 Packaging Solutions,A009,Electronics,Enterprise,614900000.0,Active,2023-05-06
+C1487,Precision Auto Components,A009,Food Processing,Large,263400000.0,Active,2020-03-07
+C1488,Sigma Polymers,A009,Electronics,Enterprise,621300000.0,Active,2024-03-23
+C1489,TechnoCraft Automation Systems,A009,Food Processing,Small,19100000.0,Active,2022-04-03
+C1490,Siemens-Tier2 Chemicals & Processing,A009,Metal Fabrication,Large,209500000.0,Active,2024-12-24
+C1491,Siemens-Tier2 Packaging Solutions,A009,Packaging,Small,11700000.0,Active,2021-03-16
+C1492,Western Auto Components,A009,Food Processing,Large,183700000.0,Active,2018-08-27
+C1493,Matrix Chemicals & Processing,A009,Electronics,Small,9700000.0,Active,2023-04-14
+C1494,Schneider-Supplier Industries,A009,Metal Fabrication,Enterprise,429700000.0,Active,2019-04-22
+C1495,Shree Engineering Pvt Ltd,A009,Packaging,Large,92900000.0,Active,2020-09-27
+C1496,Apex Packaging Solutions,A009,Electronics,Enterprise,548400000.0,Active,2020-06-27
+C1497,Sai Polymers,A009,Textile,Large,110400000.0,Active,2019-08-14
+C1498,Sigma Tools & Dies,A009,Textile,Medium,62600000.0,Active,2021-05-28
+C1499,Atlas Packaging Solutions,A009,Food Processing,Large,216400000.0,Active,2024-02-03
+C1500,Apex Auto Components,A009,Automotive,Enterprise,362200000.0,Active,2023-10-18
+C1501,Apex Chemicals & Processing,A009,Electronics,Small,21000000.0,Active,2024-07-07
+C1502,Tata-Partner Tech Solutions,A009,Textile,Enterprise,368700000.0,Active,2024-08-04
+C1503,Sigma Tech Solutions,A009,Food Processing,Enterprise,304600000.0,Active,2020-04-17
+C1504,Mahindra-Tier1 Fabricators,A009,Pharmaceuticals,Large,240900000.0,Active,2024-07-22
+C1505,Tata-Partner Engineering Pvt Ltd,A009,Food Processing,Small,9300000.0,Active,2019-06-27
+C1506,Pragati Packaging Solutions,A009,Packaging,Large,120700000.0,Active,2022-07-08
+C1507,Sai Polymers,A009,Chemicals,Enterprise,797100000.0,Active,2024-10-14
+C1508,Matrix Chemicals & Processing,A009,Food Processing,Medium,54200000.0,Active,2020-09-06
+C1509,TechnoCraft Forgings & Castings,A009,Engineering,Medium,60300000.0,Active,2023-10-26
+C1510,Dynamic Chemicals & Processing,A009,Pharmaceuticals,Medium,86900000.0,Active,2019-02-03
+C1511,Bharat Polymers,A009,Automotive,Medium,31700000.0,Active,2023-09-03
+C1512,Shree Polymers,A009,Automotive,Medium,89000000.0,Active,2023-11-25
+C1513,Sigma Tools & Dies,A009,Chemicals,Medium,47800000.0,Active,2022-04-24
+C1514,Dynamic Fabricators,A009,Automotive,Large,104900000.0,Active,2019-11-01
+C1515,Thermax-Vendor Metal Works,A009,Engineering,Small,17300000.0,Active,2022-02-04
+C1516,Matrix Fabricators,A009,Pharmaceuticals,Medium,35600000.0,Active,2021-06-27
+C1517,Force Polymers,A009,Engineering,Enterprise,777300000.0,Active,2021-02-16
+C1518,Thermax-Vendor Auto Components,A009,Chemicals,Enterprise,525200000.0,Active,2020-11-15
+C1519,Kirloskar-Style Tools & Dies,A009,Pharmaceuticals,Small,25300000.0,Active,2023-10-21
+C1520,Kalyani Engineering Pvt Ltd,A009,Engineering,Large,268900000.0,Active,2021-10-20
+C1521,Sai Engineering Pvt Ltd,A009,Metal Fabrication,Large,256800000.0,Active,2019-10-01
+C1522,Sai Engineering Pvt Ltd,A009,Textile,Medium,43000000.0,Active,2020-02-07
+C1523,Bharat Automation Systems,A009,Metal Fabrication,Medium,35000000.0,Active,2023-03-09
+C1524,Deccan Tech Solutions,A009,Chemicals,Small,15300000.0,Active,2022-11-10
+C1525,Vanguard Packaging Solutions,A009,Electronics,Enterprise,607600000.0,Active,2021-04-09
+C1526,Kirloskar-Style Forgings & Castings,A009,Pharmaceuticals,Enterprise,361700000.0,Active,2024-10-10
+C1527,Kirloskar-Style Forgings & Castings,A009,Electronics,Enterprise,829700000.0,Active,2021-10-24
+C1528,Deccan Automation Systems,A009,Engineering,Enterprise,557600000.0,Active,2022-06-12
+C1529,Thermax-Vendor Auto Components,A009,Electronics,Medium,83400000.0,Active,2022-05-19
+C1530,TechnoCraft Fabricators,A009,Textile,Large,161700000.0,Active,2018-03-26
+C1531,Western Polymers,A009,Metal Fabrication,Large,134200000.0,Active,2019-11-12
+C1532,Sigma Tools & Dies,A009,Packaging,Small,9200000.0,Active,2023-01-23
+C1533,Western Forgings & Castings,A009,Electronics,Large,251800000.0,Active,2022-02-13
+C1534,Mahindra-Tier1 Metal Works,A009,Chemicals,Medium,36200000.0,Active,2020-12-20
+C1535,Atlas Auto Components,A009,Food Processing,Enterprise,490700000.0,Active,2020-04-07
+C1536,Precision Tech Solutions,A009,Electronics,Small,26800000.0,Active,2021-02-04
+C1537,Vanguard Tools & Dies,A009,Packaging,Enterprise,441900000.0,Active,2018-05-01
+C1538,Thermax-Vendor Metal Works,A009,Automotive,Enterprise,470600000.0,Active,2024-07-02
+C1539,Sai Industries,A009,Automotive,Large,206100000.0,Active,2018-08-04
+C1540,TechnoCraft Packaging Solutions,A009,Pharmaceuticals,Large,147100000.0,Active,2020-07-03
+C1541,Sai Automation Systems,A009,Electronics,Small,16100000.0,Active,2023-08-16
+C1542,Thermax-Vendor Auto Components,A009,Packaging,Small,9500000.0,Active,2018-01-05
+C1543,Apex Automation Systems,A009,Food Processing,Medium,40200000.0,Active,2019-12-26
+C1544,Sigma Industries,A009,Automotive,Small,13700000.0,Active,2024-01-04
+C1545,Precision Fabricators,A009,Engineering,Large,149300000.0,Active,2022-07-09
+C1546,Schneider-Supplier Tools & Dies,A009,Metal Fabrication,Enterprise,371900000.0,Active,2020-03-25
+C1547,Shree Polymers,A009,Electronics,Small,18400000.0,Active,2019-10-16
+C1548,Atlas Tech Solutions,A009,Pharmaceuticals,Large,229100000.0,Active,2021-04-03
+C1549,Deccan Fabricators,A009,Engineering,Large,190500000.0,Active,2024-04-22
+C1550,Thermax-Vendor Packaging Solutions,A009,Chemicals,Small,10400000.0,Active,2021-01-07
+C1551,Bharat Chemicals & Processing,A009,Chemicals,Enterprise,791100000.0,Active,2019-08-04
+C1552,Western Forgings & Castings,A009,Textile,Large,226900000.0,Active,2020-12-15
+C1553,Thermax-Vendor Tools & Dies,A009,Textile,Small,25500000.0,Active,2019-06-13
+C1554,Vanguard Metal Works,A009,Textile,Medium,76800000.0,Active,2019-02-09
+C1555,TechnoCraft Tools & Dies,A009,Pharmaceuticals,Small,11700000.0,Active,2018-12-04
+C1556,Tata-Partner Engineering Pvt Ltd,A009,Electronics,Medium,46000000.0,Active,2021-11-17
+C1557,Vanguard Automation Systems,A009,Pharmaceuticals,Small,25700000.0,Active,2018-06-14
+C1558,Force Tools & Dies,A009,Food Processing,Enterprise,604800000.0,Active,2018-08-09
+C1559,Sigma Auto Components,A009,Automotive,Enterprise,739200000.0,Active,2021-04-10
+C1560,Force Polymers,A009,Metal Fabrication,Large,185300000.0,Active,2021-09-14
+C1561,Apex Chemicals & Processing,A009,Automotive,Medium,87500000.0,Active,2019-02-02
+C1562,Precision Metal Works,A009,Pharmaceuticals,Medium,34000000.0,Active,2018-05-08
+C1563,Kalyani Packaging Solutions,A009,Food Processing,Enterprise,535700000.0,Active,2019-12-27
+C1564,Schneider-Supplier Fabricators,A009,Electronics,Medium,40300000.0,Active,2019-06-21
+C1565,Mahindra-Tier1 Packaging Solutions,A009,Pharmaceuticals,Small,10700000.0,Active,2022-12-20
+C1566,Omni Packaging Solutions,A009,Pharmaceuticals,Medium,40200000.0,Active,2023-02-06
+C1567,Kirloskar-Style Automation Systems,A009,Electronics,Medium,87700000.0,Active,2023-08-14
+C1568,Western Engineering Pvt Ltd,A009,Metal Fabrication,Large,248600000.0,Active,2019-11-25
+C1569,Bharat Metal Works,A009,Packaging,Enterprise,649900000.0,Active,2021-04-16
+C1570,Apex Engineering Pvt Ltd,A009,Automotive,Large,240400000.0,Active,2022-09-06
+C1571,Matrix Auto Components,A009,Engineering,Large,234700000.0,Active,2020-08-16
+C1572,Siemens-Tier2 Automation Systems,A009,Textile,Large,209400000.0,Active,2020-06-15
+C1573,Bharat Automation Systems,A009,Pharmaceuticals,Large,250400000.0,Active,2024-11-28
+C1574,Kalyani Tech Solutions,A009,Engineering,Large,213400000.0,Active,2023-11-01
+C1575,Matrix Polymers,A009,Chemicals,Medium,51400000.0,Active,2018-04-19
+C1576,Siemens-Tier2 Packaging Solutions,A009,Food Processing,Large,127100000.0,Active,2018-04-13
+C1577,Thermax-Vendor Auto Components,A009,Pharmaceuticals,Enterprise,892400000.0,Active,2022-03-09
+C1578,Atlas Automation Systems,A009,Packaging,Enterprise,653500000.0,Active,2020-05-07
+C1579,Precision Metal Works,A009,Textile,Large,240200000.0,Active,2018-07-26
+C1580,Vanguard Metal Works,A009,Packaging,Large,109800000.0,Active,2018-08-22
+C1581,Matrix Tech Solutions,A009,Metal Fabrication,Large,202300000.0,Active,2023-03-10
+C1582,Omni Fabricators,A009,Engineering,Large,92800000.0,Active,2018-04-10
+C1583,Shree Auto Components,A009,Automotive,Enterprise,483500000.0,Active,2021-06-22
+C1584,Bharat Engineering Pvt Ltd,A009,Pharmaceuticals,Medium,51000000.0,Active,2020-09-22
+C1585,Sai Tools & Dies,A009,Engineering,Large,115700000.0,Active,2023-04-14
+C1586,Shree Auto Components,A009,Pharmaceuticals,Medium,31900000.0,Active,2020-04-26
+C1587,Atlas Chemicals & Processing,A009,Food Processing,Enterprise,539500000.0,Active,2018-05-10
+C1588,Kalyani Fabricators,A009,Metal Fabrication,Enterprise,707400000.0,Active,2020-10-05
+C1589,Atlas Forgings & Castings,A009,Pharmaceuticals,Medium,55000000.0,Active,2019-05-10
+C1590,Synergy Fabricators,A009,Electronics,Medium,52600000.0,Active,2024-07-04
+C1591,Matrix Industries,A010,Electronics,Large,180700000.0,Active,2023-12-12
+C1592,Vanguard Automation Systems,A010,Food Processing,Enterprise,552300000.0,Active,2021-08-01
+C1593,Sai Engineering Pvt Ltd,A010,Food Processing,Small,22600000.0,Active,2022-05-26
+C1594,Tata-Partner Metal Works,A010,Textile,Large,112900000.0,Active,2022-10-10
+C1595,Precision Polymers,A010,Metal Fabrication,Enterprise,702000000.0,Active,2021-09-15
+C1596,Precision Auto Components,A010,Automotive,Large,239400000.0,Active,2023-02-11
+C1597,Kalyani Auto Components,A010,Pharmaceuticals,Enterprise,714400000.0,Active,2024-01-04
+C1598,Siemens-Tier2 Metal Works,A010,Textile,Small,21600000.0,Active,2022-03-18
+C1599,Siemens-Tier2 Tech Solutions,A010,Metal Fabrication,Medium,83700000.0,Active,2023-03-10
+C1600,Thermax-Vendor Fabricators,A010,Automotive,Enterprise,674200000.0,Active,2019-02-03
+C1601,Bharat Tools & Dies,A010,Engineering,Small,13400000.0,Active,2018-08-01
+C1602,Pragati Tech Solutions,A010,Food Processing,Small,25700000.0,Active,2020-07-16
+C1603,Kirloskar-Style Forgings & Castings,A010,Textile,Large,237900000.0,Active,2023-08-28
+C1604,Atlas Metal Works,A010,Engineering,Enterprise,387700000.0,Active,2018-03-05
+C1605,Siemens-Tier2 Chemicals & Processing,A010,Chemicals,Medium,60700000.0,Active,2023-09-07
+C1606,Omni Tech Solutions,A010,Pharmaceuticals,Large,210200000.0,Active,2022-08-12
+C1607,Atlas Fabricators,A010,Food Processing,Enterprise,718600000.0,Active,2018-08-14
+C1608,TechnoCraft Tools & Dies,A010,Automotive,Large,172300000.0,Active,2022-07-01
+C1609,Shree Fabricators,A010,Automotive,Enterprise,325600000.0,Active,2020-03-15
+C1610,Siemens-Tier2 Tech Solutions,A010,Pharmaceuticals,Small,26700000.0,Active,2020-09-28
+C1611,Pragati Forgings & Castings,A010,Packaging,Enterprise,607800000.0,Active,2019-11-05
+C1612,Sigma Chemicals & Processing,A010,Packaging,Enterprise,729100000.0,Active,2024-03-09
+C1613,Atlas Fabricators,A010,Food Processing,Small,25500000.0,Active,2023-08-13
+C1614,Omni Metal Works,A010,Metal Fabrication,Large,113300000.0,Active,2020-10-19
+C1615,Sigma Metal Works,A010,Food Processing,Small,9800000.0,Active,2024-12-06
+C1616,Tata-Partner Auto Components,A010,Engineering,Enterprise,860500000.0,Active,2021-06-25
+C1617,Tata-Partner Packaging Solutions,A010,Chemicals,Small,25200000.0,Active,2019-12-13
+C1618,TechnoCraft Auto Components,A010,Automotive,Large,110600000.0,Active,2024-12-03
+C1619,Vanguard Automation Systems,A010,Automotive,Medium,49300000.0,Active,2023-08-13
+C1620,Matrix Chemicals & Processing,A010,Textile,Medium,41700000.0,Active,2021-08-22
+C1621,Mahindra-Tier1 Forgings & Castings,A010,Chemicals,Medium,56000000.0,Active,2022-04-03
+C1622,Shree Engineering Pvt Ltd,A010,Engineering,Medium,32000000.0,Active,2019-01-12
+C1623,TechnoCraft Metal Works,A010,Textile,Small,15100000.0,Active,2023-12-24
+C1624,Thermax-Vendor Industries,A010,Electronics,Medium,79900000.0,Active,2022-08-17
+C1625,Sigma Automation Systems,A010,Textile,Medium,78100000.0,Active,2021-07-21
+C1626,Dynamic Auto Components,A010,Engineering,Medium,76900000.0,Active,2020-02-04
+C1627,Omni Forgings & Castings,A010,Automotive,Large,94100000.0,Active,2024-05-27
+C1628,Deccan Polymers,A010,Packaging,Small,24700000.0,Active,2019-05-03
+C1629,Sai Metal Works,A010,Chemicals,Large,161900000.0,Active,2018-09-23
+C1630,Apex Metal Works,A010,Electronics,Large,207600000.0,Active,2018-06-14
+C1631,Deccan Forgings & Castings,A010,Packaging,Small,11500000.0,Active,2022-12-11
+C1632,Atlas Engineering Pvt Ltd,A010,Chemicals,Enterprise,343700000.0,Active,2022-10-23
+C1633,Precision Automation Systems,A010,Engineering,Enterprise,658900000.0,Active,2022-02-18
+C1634,Omni Tools & Dies,A010,Pharmaceuticals,Small,10900000.0,Active,2021-09-08
+C1635,Thermax-Vendor Automation Systems,A010,Food Processing,Enterprise,482100000.0,Active,2024-04-01
+C1636,Precision Engineering Pvt Ltd,A010,Chemicals,Enterprise,709200000.0,Active,2023-01-18
+C1637,Omni Engineering Pvt Ltd,A010,Food Processing,Enterprise,717300000.0,Active,2021-12-14
+C1638,Sai Tools & Dies,A010,Engineering,Enterprise,370800000.0,Active,2022-06-12
+C1639,Force Automation Systems,A010,Food Processing,Small,13300000.0,Active,2018-10-01
+C1640,Tata-Partner Polymers,A010,Textile,Small,26800000.0,Active,2018-12-08
+C1641,Precision Auto Components,A010,Automotive,Medium,56300000.0,Active,2020-01-11
+C1642,Sigma Metal Works,A010,Chemicals,Large,113300000.0,Active,2021-08-22
+C1643,Apex Chemicals & Processing,A010,Engineering,Small,13500000.0,Active,2022-04-16
+C1644,Schneider-Supplier Packaging Solutions,A010,Packaging,Medium,56600000.0,Active,2020-06-25
+C1645,Sai Fabricators,A010,Chemicals,Large,147400000.0,Active,2022-09-04
+C1646,Precision Automation Systems,A010,Food Processing,Enterprise,467900000.0,Active,2019-03-27
+C1647,Pragati Forgings & Castings,A010,Pharmaceuticals,Medium,37400000.0,Active,2023-03-02
+C1648,Tata-Partner Packaging Solutions,A010,Electronics,Enterprise,871800000.0,Active,2018-08-27
+C1649,Precision Fabricators,A010,Pharmaceuticals,Enterprise,480200000.0,Active,2018-01-09
+C1650,Kalyani Polymers,A010,Electronics,Small,24500000.0,Active,2021-08-02
+C1651,Tata-Partner Forgings & Castings,A010,Food Processing,Medium,69600000.0,Active,2022-01-22
+C1652,Mahindra-Tier1 Engineering Pvt Ltd,A010,Textile,Large,258700000.0,Active,2022-06-27
+C1653,Deccan Metal Works,A010,Chemicals,Small,15100000.0,Active,2024-10-14
+C1654,TechnoCraft Packaging Solutions,A010,Automotive,Small,19000000.0,Active,2023-11-10
+C1655,Sai Tech Solutions,A010,Food Processing,Large,119300000.0,Active,2021-08-24
+C1656,Tata-Partner Tools & Dies,A010,Automotive,Large,233900000.0,Active,2020-02-08
+C1657,Sai Fabricators,A010,Packaging,Enterprise,323200000.0,Active,2020-06-09
+C1658,Atlas Fabricators,A010,Automotive,Small,14500000.0,Active,2023-06-27
+C1659,Deccan Tools & Dies,A010,Electronics,Enterprise,310400000.0,Active,2018-08-02
+C1660,Sigma Tech Solutions,A010,Textile,Medium,54500000.0,Active,2022-02-09
+C1661,Kalyani Industries,A010,Packaging,Small,16900000.0,Active,2020-05-09
+C1662,Omni Tools & Dies,A010,Chemicals,Medium,38800000.0,Active,2022-11-02
+C1663,Tata-Partner Auto Components,A010,Automotive,Medium,71100000.0,Active,2024-08-19
+C1664,Western Engineering Pvt Ltd,A010,Textile,Medium,33600000.0,Active,2023-05-09
+C1665,Bharat Chemicals & Processing,A010,Packaging,Small,19800000.0,Active,2020-02-03
+C1666,Pragati Tech Solutions,A010,Engineering,Small,13300000.0,Active,2020-10-12
+C1667,Atlas Polymers,A010,Engineering,Enterprise,825500000.0,Active,2019-01-11
+C1668,Kalyani Automation Systems,A010,Packaging,Enterprise,838400000.0,Active,2020-08-10
+C1669,Kalyani Engineering Pvt Ltd,A010,Metal Fabrication,Large,98000000.0,Active,2019-10-01
+C1670,Apex Metal Works,A010,Chemicals,Large,181900000.0,Active,2024-12-17
+C1671,Shree Packaging Solutions,A011,Packaging,Medium,52700000.0,Active,2022-01-22
+C1672,Siemens-Tier2 Tools & Dies,A011,Food Processing,Small,26200000.0,Active,2019-10-17
+C1673,Shree Chemicals & Processing,A011,Textile,Enterprise,623400000.0,Active,2018-09-26
+C1674,Precision Metal Works,A011,Electronics,Enterprise,490200000.0,Active,2019-10-10
+C1675,Tata-Partner Automation Systems,A011,Chemicals,Large,131600000.0,Active,2020-12-04
+C1676,Schneider-Supplier Forgings & Castings,A011,Electronics,Enterprise,517100000.0,Active,2020-09-17
+C1677,Synergy Automation Systems,A011,Electronics,Medium,56900000.0,Active,2021-04-19
+C1678,Matrix Industries,A011,Chemicals,Enterprise,704500000.0,Active,2023-03-20
+C1679,Deccan Fabricators,A011,Packaging,Large,111200000.0,Active,2021-07-17
+C1680,Matrix Metal Works,A011,Electronics,Medium,84000000.0,Active,2021-01-06
+C1681,Apex Polymers,A011,Pharmaceuticals,Enterprise,745700000.0,Active,2019-01-27
+C1682,TechnoCraft Engineering Pvt Ltd,A011,Metal Fabrication,Small,11400000.0,Active,2024-09-13
+C1683,TechnoCraft Automation Systems,A011,Metal Fabrication,Enterprise,718200000.0,Active,2019-12-10
+C1684,Apex Automation Systems,A011,Packaging,Small,26900000.0,Active,2018-02-24
+C1685,Sigma Tech Solutions,A011,Food Processing,Enterprise,744400000.0,Active,2021-05-25
+C1686,Omni Packaging Solutions,A011,Metal Fabrication,Medium,73400000.0,Active,2022-09-03
+C1687,Matrix Engineering Pvt Ltd,A011,Packaging,Enterprise,527600000.0,Active,2021-03-17
+C1688,Siemens-Tier2 Metal Works,A011,Pharmaceuticals,Small,13200000.0,Active,2021-06-02
+C1689,Shree Industries,A011,Textile,Enterprise,471200000.0,Active,2021-06-25
+C1690,Kirloskar-Style Tools & Dies,A011,Automotive,Medium,55800000.0,Active,2020-10-20
+C1691,Western Auto Components,A011,Packaging,Large,119800000.0,Active,2020-05-16
+C1692,Vanguard Forgings & Castings,A011,Metal Fabrication,Large,259100000.0,Active,2020-10-25
+C1693,Apex Forgings & Castings,A011,Pharmaceuticals,Medium,35800000.0,Active,2022-09-25
+C1694,Kirloskar-Style Engineering Pvt Ltd,A011,Automotive,Medium,30400000.0,Active,2024-01-12
+C1695,Force Fabricators,A011,Food Processing,Enterprise,612500000.0,Active,2024-08-10
+C1696,Apex Packaging Solutions,A011,Engineering,Enterprise,833300000.0,Active,2021-05-03
+C1697,Matrix Fabricators,A011,Engineering,Large,234700000.0,Active,2023-04-24
+C1698,Synergy Automation Systems,A011,Metal Fabrication,Large,139700000.0,Active,2023-12-17
+C1699,Atlas Auto Components,A011,Packaging,Small,16800000.0,Active,2023-09-11
+C1700,Force Industries,A011,Automotive,Small,13400000.0,Active,2022-07-28
+C1701,Tata-Partner Chemicals & Processing,A011,Chemicals,Large,174600000.0,Active,2021-03-24
+C1702,Omni Fabricators,A011,Metal Fabrication,Medium,68100000.0,Active,2018-09-28
+C1703,Siemens-Tier2 Packaging Solutions,A011,Chemicals,Small,16800000.0,Active,2021-09-20
+C1704,Force Packaging Solutions,A011,Metal Fabrication,Small,16500000.0,Active,2020-10-13
+C1705,Thermax-Vendor Metal Works,A011,Chemicals,Large,177200000.0,Active,2023-03-10
+C1706,Tata-Partner Fabricators,A011,Electronics,Enterprise,778000000.0,Active,2021-10-12
+C1707,Sai Tech Solutions,A011,Pharmaceuticals,Small,12900000.0,Active,2024-05-14
+C1708,Vanguard Automation Systems,A011,Chemicals,Enterprise,369500000.0,Active,2021-06-22
+C1709,Apex Automation Systems,A011,Food Processing,Medium,76400000.0,Active,2021-08-20
+C1710,TechnoCraft Chemicals & Processing,A011,Chemicals,Small,14200000.0,Active,2022-04-28
+C1711,TechnoCraft Engineering Pvt Ltd,A011,Textile,Large,137100000.0,Active,2020-07-13
+C1712,Vanguard Polymers,A011,Food Processing,Large,254200000.0,Active,2020-08-24
+C1713,Tata-Partner Automation Systems,A011,Automotive,Large,170600000.0,Active,2019-10-06
+C1714,Sai Forgings & Castings,A011,Engineering,Large,113300000.0,Active,2022-01-24
+C1715,Bharat Polymers,A011,Engineering,Large,254200000.0,Active,2024-09-03
+C1716,Thermax-Vendor Engineering Pvt Ltd,A011,Textile,Medium,51700000.0,Active,2019-03-27
+C1717,Sai Polymers,A011,Chemicals,Large,234200000.0,Active,2020-06-14
+C1718,Force Industries,A011,Chemicals,Small,9600000.0,Active,2018-09-04
+C1719,Pragati Polymers,A011,Electronics,Small,11800000.0,Active,2020-01-08
+C1720,Thermax-Vendor Packaging Solutions,A011,Chemicals,Small,13900000.0,Active,2018-07-21
+C1721,Dynamic Tools & Dies,A011,Pharmaceuticals,Small,10400000.0,Active,2022-12-23
+C1722,Siemens-Tier2 Polymers,A011,Automotive,Small,22400000.0,Active,2022-10-05
+C1723,Apex Packaging Solutions,A011,Food Processing,Medium,79900000.0,Active,2024-05-26
+C1724,Western Polymers,A011,Textile,Small,14400000.0,Active,2021-04-04
+C1725,Deccan Chemicals & Processing,A011,Electronics,Enterprise,474700000.0,Active,2018-04-14
+C1726,Sai Fabricators,A011,Electronics,Large,253400000.0,Active,2022-09-08
+C1727,Dynamic Engineering Pvt Ltd,A011,Electronics,Enterprise,870900000.0,Active,2024-09-23
+C1728,Apex Tech Solutions,A011,Chemicals,Small,16200000.0,Active,2019-08-12
+C1729,Omni Metal Works,A011,Engineering,Large,149800000.0,Active,2024-11-03
+C1730,Apex Industries,A011,Metal Fabrication,Medium,81900000.0,Active,2021-10-08
+C1731,Synergy Tools & Dies,A012,Food Processing,Enterprise,614000000.0,Active,2024-10-25
+C1732,Tata-Partner Engineering Pvt Ltd,A012,Electronics,Large,164100000.0,Active,2023-06-27
+C1733,Matrix Engineering Pvt Ltd,A012,Packaging,Enterprise,822900000.0,Active,2020-12-07
+C1734,Sai Tech Solutions,A012,Textile,Enterprise,487800000.0,Active,2023-04-11
+C1735,Vanguard Packaging Solutions,A012,Electronics,Small,25600000.0,Active,2021-12-03
+C1736,Dynamic Tools & Dies,A012,Automotive,Medium,61200000.0,Active,2018-03-07
+C1737,Vanguard Auto Components,A012,Automotive,Enterprise,597100000.0,Active,2023-09-16
+C1738,Matrix Packaging Solutions,A012,Textile,Enterprise,539600000.0,Active,2020-02-14
+C1739,Mahindra-Tier1 Packaging Solutions,A012,Pharmaceuticals,Large,200700000.0,Active,2020-10-21
+C1740,Kirloskar-Style Tools & Dies,A012,Pharmaceuticals,Medium,78200000.0,Active,2023-06-17
+C1741,Kalyani Fabricators,A012,Electronics,Enterprise,426400000.0,Active,2020-12-24
+C1742,Matrix Tools & Dies,A012,Textile,Enterprise,305900000.0,Active,2021-03-05
+C1743,Omni Auto Components,A012,Automotive,Large,216300000.0,Active,2019-12-04
+C1744,Sai Tech Solutions,A012,Packaging,Small,10100000.0,Active,2021-10-06
+C1745,Synergy Automation Systems,A012,Textile,Medium,50700000.0,Active,2018-04-09
+C1746,Mahindra-Tier1 Polymers,A012,Pharmaceuticals,Large,202400000.0,Active,2021-05-18
+C1747,Sai Chemicals & Processing,A012,Chemicals,Small,19700000.0,Active,2018-12-07
+C1748,Deccan Tools & Dies,A012,Pharmaceuticals,Small,11300000.0,Active,2022-10-21
+C1749,Dynamic Automation Systems,A012,Pharmaceuticals,Enterprise,425600000.0,Active,2018-04-07
+C1750,Synergy Metal Works,A012,Metal Fabrication,Medium,39900000.0,Active,2024-01-11
+C1751,Synergy Engineering Pvt Ltd,A012,Metal Fabrication,Enterprise,555200000.0,Active,2021-06-10
+C1752,Pragati Auto Components,A012,Chemicals,Enterprise,526400000.0,Active,2021-12-16
+C1753,Sigma Fabricators,A012,Textile,Large,185500000.0,Active,2022-04-06
+C1754,Thermax-Vendor Fabricators,A012,Metal Fabrication,Enterprise,636300000.0,Active,2021-12-26
+C1755,Deccan Chemicals & Processing,A012,Engineering,Enterprise,691300000.0,Active,2019-01-28
+C1756,Sigma Tech Solutions,A012,Packaging,Enterprise,428300000.0,Active,2022-04-13
+C1757,Sigma Tools & Dies,A012,Automotive,Medium,56500000.0,Active,2022-04-01
+C1758,Shree Fabricators,A012,Packaging,Small,25400000.0,Active,2020-09-01
+C1759,Kalyani Fabricators,A012,Automotive,Large,205500000.0,Active,2021-01-23
+C1760,Schneider-Supplier Fabricators,A012,Pharmaceuticals,Small,26500000.0,Active,2024-01-28
+C1761,Schneider-Supplier Tech Solutions,A012,Electronics,Enterprise,404300000.0,Active,2023-11-25
+C1762,Sai Auto Components,A012,Automotive,Large,95200000.0,Active,2023-03-23
+C1763,Siemens-Tier2 Tools & Dies,A012,Metal Fabrication,Small,16600000.0,Active,2024-02-02
+C1764,Vanguard Chemicals & Processing,A012,Automotive,Large,107500000.0,Active,2022-05-28
+C1765,Force Chemicals & Processing,A012,Automotive,Large,240700000.0,Active,2024-06-23
+C1766,Kirloskar-Style Metal Works,A012,Packaging,Small,25900000.0,Active,2021-07-27
+C1767,Atlas Chemicals & Processing,A012,Automotive,Small,12500000.0,Active,2024-09-05
+C1768,Siemens-Tier2 Fabricators,A012,Engineering,Medium,56600000.0,Active,2020-10-07
+C1769,Schneider-Supplier Industries,A012,Food Processing,Medium,68100000.0,Active,2024-01-10
+C1770,Deccan Industries,A012,Packaging,Small,15100000.0,Active,2022-12-03
+C1771,Shree Tech Solutions,A012,Engineering,Small,25500000.0,Active,2019-12-03
+C1772,Kirloskar-Style Automation Systems,A012,Automotive,Medium,77300000.0,Active,2019-11-12
+C1773,Vanguard Auto Components,A012,Chemicals,Large,240700000.0,Active,2023-04-24
+C1774,Siemens-Tier2 Tools & Dies,A012,Pharmaceuticals,Small,15800000.0,Active,2020-03-09
+C1775,Matrix Metal Works,A012,Packaging,Enterprise,435600000.0,Active,2019-05-07
+C1776,Kirloskar-Style Fabricators,A013,Pharmaceuticals,Enterprise,458700000.0,Active,2021-06-19
+C1777,Sigma Automation Systems,A013,Textile,Enterprise,797700000.0,Active,2023-03-02
+C1778,Shree Polymers,A013,Metal Fabrication,Medium,89600000.0,Active,2021-06-21
+C1779,Atlas Fabricators,A013,Chemicals,Large,215900000.0,Active,2022-09-27
+C1780,Siemens-Tier2 Fabricators,A013,Engineering,Medium,45500000.0,Active,2021-05-02
+C1781,Apex Industries,A013,Metal Fabrication,Enterprise,383900000.0,Active,2022-06-12
+C1782,Shree Polymers,A013,Automotive,Large,216200000.0,Active,2023-06-28
+C1783,Bharat Tools & Dies,A013,Food Processing,Enterprise,500800000.0,Active,2023-02-06
+C1784,Sigma Fabricators,A013,Metal Fabrication,Enterprise,628100000.0,Active,2024-01-15
+C1785,Kalyani Tech Solutions,A013,Food Processing,Enterprise,584100000.0,Active,2019-05-24
+C1786,Sigma Metal Works,A013,Packaging,Enterprise,707100000.0,Active,2020-01-08
+C1787,Pragati Auto Components,A013,Food Processing,Enterprise,764400000.0,Active,2022-07-19
+C1788,Bharat Tools & Dies,A013,Textile,Medium,85300000.0,Active,2022-12-17
+C1789,Force Metal Works,A013,Metal Fabrication,Medium,69800000.0,Active,2024-01-03
+C1790,Mahindra-Tier1 Tools & Dies,A013,Packaging,Enterprise,537600000.0,Active,2021-01-22
+C1791,Matrix Forgings & Castings,A013,Metal Fabrication,Large,145400000.0,Active,2019-04-28
+C1792,Force Polymers,A013,Engineering,Medium,39200000.0,Active,2022-06-01
+C1793,Omni Tools & Dies,A013,Packaging,Small,17500000.0,Active,2023-07-23
+C1794,Force Tech Solutions,A013,Food Processing,Enterprise,723700000.0,Active,2024-02-13
+C1795,Matrix Automation Systems,A013,Metal Fabrication,Enterprise,764000000.0,Active,2020-11-24
+C1796,TechnoCraft Metal Works,A013,Food Processing,Small,15200000.0,Active,2023-12-19
+C1797,Bharat Forgings & Castings,A013,Metal Fabrication,Medium,52100000.0,Active,2020-09-27
+C1798,Bharat Metal Works,A013,Food Processing,Small,20600000.0,Active,2019-08-07
+C1799,Precision Forgings & Castings,A013,Pharmaceuticals,Enterprise,355700000.0,Active,2021-11-06
+C1800,TechnoCraft Tools & Dies,A013,Pharmaceuticals,Large,159600000.0,Active,2024-08-02
+C1801,Deccan Polymers,A013,Metal Fabrication,Medium,53900000.0,Active,2022-02-15
+C1802,Synergy Automation Systems,A013,Engineering,Enterprise,782100000.0,Active,2018-03-11
+C1803,Matrix Metal Works,A013,Textile,Enterprise,711800000.0,Active,2018-08-21
+C1804,Atlas Polymers,A013,Food Processing,Small,14500000.0,Active,2020-12-21
+C1805,Apex Metal Works,A013,Electronics,Large,230600000.0,Active,2023-06-28
+C1806,Sai Automation Systems,A013,Engineering,Medium,88800000.0,Active,2022-07-28
+C1807,Atlas Auto Components,A013,Metal Fabrication,Small,15100000.0,Active,2023-10-09
+C1808,Force Industries,A013,Electronics,Enterprise,329100000.0,Active,2020-01-04
+C1809,Omni Tech Solutions,A013,Packaging,Small,25000000.0,Active,2023-06-09
+C1810,TechnoCraft Automation Systems,A013,Pharmaceuticals,Small,18800000.0,Active,2019-05-12
+C1811,TechnoCraft Engineering Pvt Ltd,A013,Electronics,Large,143600000.0,Active,2018-10-04
+C1812,Sigma Packaging Solutions,A013,Automotive,Enterprise,449200000.0,Active,2018-09-04
+C1813,Matrix Packaging Solutions,A013,Metal Fabrication,Enterprise,558700000.0,Active,2020-06-15
+C1814,Schneider-Supplier Metal Works,A013,Chemicals,Enterprise,324400000.0,Active,2020-06-02
+C1815,Matrix Metal Works,A013,Engineering,Enterprise,607600000.0,Active,2023-02-11
+C1816,Thermax-Vendor Packaging Solutions,A013,Pharmaceuticals,Enterprise,540400000.0,Active,2019-12-09
+C1817,Siemens-Tier2 Chemicals & Processing,A013,Engineering,Enterprise,879100000.0,Active,2024-04-19
+C1818,Deccan Fabricators,A013,Textile,Medium,71700000.0,Active,2018-06-19
+C1819,Omni Forgings & Castings,A013,Food Processing,Large,224400000.0,Active,2024-03-09
+C1820,Pragati Chemicals & Processing,A013,Automotive,Enterprise,845800000.0,Active,2023-05-09
+C1821,Bharat Polymers,A013,Chemicals,Small,23100000.0,Active,2023-03-09
+C1822,Deccan Tech Solutions,A013,Packaging,Small,13000000.0,Active,2018-12-11
+C1823,Tata-Partner Auto Components,A013,Pharmaceuticals,Enterprise,652700000.0,Active,2023-10-11
+C1824,Sai Polymers,A013,Electronics,Small,15200000.0,Active,2020-06-27
+C1825,Vanguard Tools & Dies,A013,Electronics,Enterprise,426400000.0,Active,2023-03-22
+C1826,Dynamic Fabricators,A013,Food Processing,Small,20900000.0,Active,2022-02-21
+C1827,Omni Industries,A013,Packaging,Small,12700000.0,Active,2022-06-10
+C1828,Mahindra-Tier1 Automation Systems,A013,Electronics,Enterprise,317700000.0,Active,2022-10-06
+C1829,Kalyani Automation Systems,A013,Food Processing,Enterprise,897500000.0,Active,2018-05-18
+C1830,Siemens-Tier2 Tech Solutions,A013,Chemicals,Enterprise,852700000.0,Active,2019-07-20
+C1831,Apex Auto Components,A013,Food Processing,Medium,42700000.0,Active,2018-10-10
+C1832,Kirloskar-Style Tools & Dies,A013,Food Processing,Enterprise,511200000.0,Active,2019-07-20
+C1833,Deccan Automation Systems,A013,Packaging,Small,21000000.0,Active,2023-11-25
+C1834,Thermax-Vendor Automation Systems,A013,Textile,Enterprise,435100000.0,Active,2021-08-25
+C1835,Vanguard Fabricators,A013,Electronics,Medium,85400000.0,Active,2019-07-10
+C1836,Bharat Industries,A013,Packaging,Enterprise,693700000.0,Active,2023-02-13
+C1837,Shree Chemicals & Processing,A013,Food Processing,Enterprise,546200000.0,Active,2023-01-20
+C1838,Tata-Partner Tools & Dies,A013,Textile,Small,19800000.0,Active,2023-07-01
+C1839,Western Metal Works,A013,Chemicals,Medium,64200000.0,Active,2021-11-03
+C1840,Sigma Engineering Pvt Ltd,A013,Food Processing,Medium,81000000.0,Active,2019-08-12
+C1841,Siemens-Tier2 Forgings & Castings,A013,Metal Fabrication,Enterprise,862300000.0,Active,2019-06-05
+C1842,Mahindra-Tier1 Auto Components,A013,Automotive,Medium,64700000.0,Active,2021-04-22
+C1843,Kalyani Tech Solutions,A013,Chemicals,Medium,88400000.0,Active,2022-11-04
+C1844,Kalyani Automation Systems,A013,Metal Fabrication,Medium,57700000.0,Active,2018-01-24
+C1845,Precision Chemicals & Processing,A013,Food Processing,Enterprise,817300000.0,Active,2018-07-09
+C1846,Schneider-Supplier Industries,A013,Engineering,Small,16900000.0,Active,2024-12-02
+C1847,Mahindra-Tier1 Polymers,A013,Automotive,Large,161900000.0,Active,2022-11-21
+C1848,Vanguard Polymers,A013,Engineering,Small,11600000.0,Active,2020-10-25
+C1849,Apex Packaging Solutions,A013,Metal Fabrication,Large,164300000.0,Active,2020-03-08
+C1850,Omni Forgings & Castings,A013,Pharmaceuticals,Small,14900000.0,Active,2023-02-15
+C1851,Schneider-Supplier Tech Solutions,A013,Chemicals,Large,151600000.0,Active,2023-08-11
+C1852,Vanguard Packaging Solutions,A013,Pharmaceuticals,Large,197000000.0,Active,2024-03-05
+C1853,Pragati Fabricators,A013,Automotive,Medium,82800000.0,Active,2022-06-23
+C1854,Mahindra-Tier1 Fabricators,A013,Metal Fabrication,Large,175600000.0,Active,2021-11-10
+C1855,Matrix Packaging Solutions,A013,Metal Fabrication,Medium,66400000.0,Active,2024-07-09
+C1856,Thermax-Vendor Forgings & Castings,A013,Automotive,Medium,65000000.0,Active,2019-10-01
+C1857,Deccan Automation Systems,A013,Textile,Enterprise,586200000.0,Active,2019-06-21
+C1858,Matrix Metal Works,A013,Textile,Large,184200000.0,Active,2021-08-21
+C1859,Kirloskar-Style Industries,A013,Electronics,Medium,59000000.0,Active,2021-01-22
+C1860,Synergy Automation Systems,A013,Chemicals,Large,127200000.0,Active,2019-05-20
+C1861,Siemens-Tier2 Auto Components,A013,Chemicals,Large,179800000.0,Active,2022-11-01
+C1862,Siemens-Tier2 Industries,A013,Chemicals,Medium,51800000.0,Active,2018-07-21
+C1863,Apex Automation Systems,A013,Textile,Small,13900000.0,Active,2022-12-18
+C1864,Synergy Engineering Pvt Ltd,A013,Electronics,Medium,44700000.0,Active,2024-12-06
+C1865,Schneider-Supplier Chemicals & Processing,A013,Chemicals,Medium,71400000.0,Active,2021-03-02
+C1866,Kalyani Fabricators,A013,Textile,Large,106400000.0,Active,2019-12-27
+C1867,Synergy Tools & Dies,A013,Textile,Large,101000000.0,Active,2019-04-19
+C1868,Shree Tech Solutions,A013,Electronics,Small,18700000.0,Active,2024-01-11
+C1869,Thermax-Vendor Auto Components,A013,Chemicals,Enterprise,369800000.0,Active,2018-08-07
+C1870,Apex Industries,A013,Chemicals,Enterprise,480000000.0,Active,2018-10-14
+C1871,Apex Packaging Solutions,A013,Electronics,Medium,65300000.0,Active,2023-10-25
+C1872,Vanguard Engineering Pvt Ltd,A013,Pharmaceuticals,Enterprise,660800000.0,Active,2021-11-06
+C1873,Western Industries,A013,Electronics,Large,261300000.0,Active,2020-05-28
+C1874,Sai Forgings & Castings,A013,Packaging,Large,212000000.0,Active,2022-05-21
+C1875,Vanguard Auto Components,A013,Metal Fabrication,Enterprise,303900000.0,Active,2022-08-16
+C1876,Kirloskar-Style Tools & Dies,A013,Engineering,Enterprise,703800000.0,Active,2018-08-11
+C1877,Thermax-Vendor Chemicals & Processing,A013,Textile,Medium,41600000.0,Active,2018-04-07
+C1878,Mahindra-Tier1 Industries,A013,Pharmaceuticals,Large,228000000.0,Active,2021-02-22
+C1879,Mahindra-Tier1 Metal Works,A013,Chemicals,Medium,49400000.0,Active,2019-07-26
+C1880,Kirloskar-Style Tools & Dies,A013,Metal Fabrication,Large,262200000.0,Active,2021-11-20
+C1881,TechnoCraft Packaging Solutions,A013,Pharmaceuticals,Medium,86000000.0,Active,2021-05-12
+C1882,Matrix Fabricators,A013,Packaging,Large,239300000.0,Active,2020-08-10
+C1883,TechnoCraft Metal Works,A013,Food Processing,Enterprise,303400000.0,Active,2021-01-14
+C1884,Sigma Chemicals & Processing,A013,Metal Fabrication,Enterprise,760200000.0,Active,2018-12-07
+C1885,Force Chemicals & Processing,A013,Pharmaceuticals,Large,239900000.0,Active,2018-06-14
+C1886,Dynamic Automation Systems,A013,Textile,Medium,77800000.0,Active,2022-09-15
+C1887,Deccan Auto Components,A013,Engineering,Medium,39600000.0,Active,2023-08-24
+C1888,Shree Tech Solutions,A013,Automotive,Enterprise,712700000.0,Active,2023-08-08
+C1889,Deccan Metal Works,A013,Food Processing,Small,10800000.0,Active,2023-06-09
+C1890,Sai Automation Systems,A013,Electronics,Large,110000000.0,Active,2019-12-03
+C1891,Western Packaging Solutions,A013,Food Processing,Medium,82400000.0,Active,2022-05-19
+C1892,Force Industries,A013,Engineering,Enterprise,447100000.0,Active,2022-09-25
+C1893,Atlas Fabricators,A013,Textile,Large,214100000.0,Active,2019-02-28
+C1894,Schneider-Supplier Packaging Solutions,A013,Packaging,Large,252900000.0,Active,2021-12-07
+C1895,Kirloskar-Style Automation Systems,A013,Electronics,Medium,57600000.0,Active,2020-04-22
+C1896,Schneider-Supplier Fabricators,A013,Pharmaceuticals,Small,11500000.0,Active,2023-07-14
+C1897,Dynamic Tech Solutions,A013,Automotive,Small,25400000.0,Active,2022-06-01
+C1898,Shree Polymers,A013,Automotive,Large,232200000.0,Active,2021-05-19
+C1899,Western Chemicals & Processing,A013,Engineering,Small,19200000.0,Active,2022-02-18
+C1900,Kirloskar-Style Industries,A013,Engineering,Enterprise,666000000.0,Active,2019-02-25

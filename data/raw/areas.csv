@@ -1,0 +1,14 @@
+area_id,district,taluka,area_name,latitude,longitude,industrial_density,midc_presence,estimated_industrial_units,estimated_market_size,yoy_growth_rate
+A001,Pune,Chakan,Chakan MIDC Phase 1-4,18.7602,73.8634,94,1,1450,125000000.0,14.2
+A002,Pune,Talegaon,Talegaon Industrial Area,18.7304,73.6765,82,1,920,78000000.0,11.5
+A003,Pune,Ranjangaon,Ranjangaon MIDC Industrial Hub,18.8471,74.2543,89,1,1180,110000000.0,15.8
+A004,Pune,Pimpri-Chinchwad,PCPMC Auto Hub,18.6298,73.7997,98,1,1850,165000000.0,8.4
+A005,Pune,Bhosari,Bhosari Industrial Estate,18.6385,73.8458,91,1,1320,105000000.0,7.6
+A006,Pune,Shirur,Shirur Industrial Zone,18.8286,74.3789,76,1,850,65000000.0,13.1
+A007,Pune,Baramati,Baramati High-Tech MIDC,18.1517,74.5772,68,1,650,52000000.0,9.2
+A008,Pune,Daund,Daund Logistics & Industrial Belt,18.4651,74.5956,45,0,420,32000000.0,5.1
+A009,Pune,Khed,Khed Auto Component Cluster,18.8504,73.9103,71,1,710,58000000.0,10.4
+A010,Pune,Haveli,Haveli Engineering Belt,18.4412,73.8123,64,0,580,46000000.0,6.8
+A011,Pune,Mulshi,Mulshi Light Manufacturing Zone,18.5912,73.6102,58,0,490,38000000.0,8.9
+A012,Pune,Purandar,Purandar Agri & Industrial Park,18.2834,73.9741,50,0,390,29000000.0,6.2
+A013,Pune,Maval,Maval Heavy Fabrication Corridor,18.7511,73.5412,75,1,780,62000000.0,9.8

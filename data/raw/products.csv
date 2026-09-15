@@ -1,0 +1,16 @@
+product_id,product_name,product_category,unit_price
+P001,3-Phase Induction Motor 10HP,Motors,45000.0
+P002,Heavy Duty Taper Roller Bearing,Bearings,6500.0
+P003,Modular Conveyor Belt Systems,Material Handling,120000.0
+P004,High-Pressure Hydraulic Vane Pump,Hydraulics,38000.0
+P005,Industrial Photoelectric Sensor Kit,Automation,12500.0
+P006,CNC Milling Carbide Tool Inserts (Pack),Metal Cutting,18500.0
+P007,Programmable Logic Controller (PLC),Automation,85000.0
+P008,Industrial Variable Frequency Drive 15kW,Electricals,54000.0
+P009,High-Tensile Steel Fastener Assortment,Fasteners,8500.0
+P010,Pneumatic Double-Acting Cylinder,Hydraulics,22000.0
+P011,Automated Lubrication System,Material Handling,42000.0
+P012,Precision Ball Screw Assembly,Bearings,31000.0
+P013,Heavy Duty Helical Gearbox,Motors,95000.0
+P014,Industrial Safety Light Curtain,Safety Gear,28000.0
+P015,High Temperature Heat Exchanger Valve,Hydraulics,49000.0

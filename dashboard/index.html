@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Regional B2B Market Penetration & Opportunity Scoring Dashboard</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <!-- Header -->
+  <div class="header">
+    <div>
+      <h1>Regional B2B Market Analytics & Opportunity Scoring</h1>
+      <p>Industrial Sales Penetration, Opportunity Model & Root-Cause Diagnostics | Pune Region, Maharashtra</p>
+    </div>
+    <div class="badge-tag">⚡ Live Executive Dashboard</div>
+  </div>
+
+  <!-- KPI Grid -->
+  <div class="kpi-grid">
+    <div class="kpi-card">
+      <div class="kpi-label">Total Regional B2B Sales</div>
+      <div class="kpi-value" id="kpi-sales">₹68.4 Cr</div>
+      <div class="kpi-subtext">8,500+ Transactions</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">Addressable Industrial Units</div>
+      <div class="kpi-value" id="kpi-units">11,670</div>
+      <div class="kpi-subtext">Across 13 Pune Talukas</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">Active Customer Accounts</div>
+      <div class="kpi-value" id="kpi-customers">1,900</div>
+      <div class="kpi-subtext">B2B Enterprise Accounts</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">Avg Regional Penetration</div>
+      <div class="kpi-value" id="kpi-penetration">16.3%</div>
+      <div class="kpi-subtext">83.7% Untapped Gap</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">High Opportunity Areas</div>
+      <div class="kpi-value" id="kpi-high-opp" style="color: var(--accent-emerald);">2 Areas</div>
+      <div class="kpi-subtext">Ranjangaon & Chakan</div>
+    </div>
+  </div>
+
+  <!-- Filter Bar -->
+  <div class="filter-bar">
+    <div class="filter-group">
+      <label for="filter-category">Opportunity Tier</label>
+      <select id="filter-category">
+        <option value="All">All Categories</option>
+        <option value="High Opportunity">High Opportunity (Score ≥ 75)</option>
+        <option value="Medium Opportunity">Medium Opportunity (50-75)</option>
+        <option value="Low Opportunity">Low Opportunity (&lt; 50)</option>
+      </select>
+    </div>
+    <div class="filter-group">
+      <label for="filter-gap">Primary Bottleneck</label>
+      <select id="filter-gap">
+        <option value="All">All Root Causes</option>
+        <option value="Distribution Gap">Distribution Gap</option>
+        <option value="Service Gap">Service Gap</option>
+        <option value="Demand Gap">Demand Gap</option>
+      </select>
+    </div>
+  </div>
+
+  <!-- Dashboard Grid -->
+  <div class="dashboard-grid">
+    <!-- Market Matrix Chart -->
+    <div class="card">
+      <div class="card-title">
+        <span>Market Potential vs Current Penetration Matrix</span>
+        <span style="font-size:0.8rem; color:var(--text-muted);">4-Quadrant Prioritization</span>
+      </div>
+      <canvas id="matrixChart" height="280"></canvas>
+    </div>
+
+    <!-- Opportunity Score Ranking Table -->
+    <div class="card">
+      <div class="card-title">Area Opportunity Ranking & Classification</div>
+      <div class="table-container">
+        <table id="oppTable">
+          <thead>
+            <tr>
+              <th>Rank</th>
+              <th>Taluka</th>
+              <th>Score</th>
+              <th>Category</th>
+              <th>Penetration %</th>
+              <th>Primary Gap</th>
+            </tr>
+          </thead>
+          <tbody id="table-body">
+            <!-- Dynamically Populated -->
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <div class="dashboard-grid">
+    <!-- Root Cause Diagnostic Detail Card -->
+    <div class="card" id="detail-card">
+      <div class="card-title">
+        <span>Root-Cause Diagnostic Drill-Down</span>
+        <span id="detail-selected-area" style="color:var(--accent-blue); font-weight:700;">Select an area</span>
+      </div>
+      <div id="detail-content">
+        <p style="color:var(--text-muted); font-size:0.9rem;">Click on any row in the Opportunity table above to view deep-dive root cause diagnostics.</p>
+      </div>
+    </div>
+
+    <!-- Process Automation & Time Reduction Calculator -->
+    <div class="card">
+      <div class="card-title">
+        <span>Manual vs Automated Analysis Time Reduction</span>
+        <span class="badge-tag">Empirical Measure</span>
+      </div>
+      <p style="color:var(--text-muted); font-size:0.88rem; line-height:1.4;">
+        Replaces legacy manual report aggregation across Excel spreadsheets with automated SQL/Python ETL pipeline & interactive visual dashboard.
+      </p>
+      <div class="calc-container">
+        <div class="calc-card">
+          <div style="color:var(--text-muted); font-size:0.8rem;">LEGACY MANUAL PROCESS</div>
+          <div class="calc-time" style="color:var(--accent-rose);">2.5 hrs</div>
+          <div style="font-size:0.75rem; color:var(--text-muted);">Excel filtering, manual penetration formulas, report deck compile</div>
+        </div>
+        <div class="calc-card">
+          <div style="color:var(--text-muted); font-size:0.8rem;">AUTOMATED TABLEAU / WEB PIPELINE</div>
+          <div class="calc-time" style="color:var(--accent-emerald);">10 mins</div>
+          <div style="font-size:0.75rem; color:var(--text-muted);">Instant pipeline refresh, automated root-cause diagnosis</div>
+        </div>
+      </div>
+      <div class="recommendation-banner" style="margin-top:20px; text-align:center;">
+        <strong>Verified Time Savings: ~93.3% Reduction in Report-Prioritization Cycle Time</strong>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

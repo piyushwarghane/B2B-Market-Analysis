@@ -1,0 +1,90 @@
+# ==============================================================================
+# Git Ignore Configuration for B2B Market Penetration & Analytics Project
+# ==============================================================================
+
+# --- Python Bytecode & Cache ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# --- Virtual Environments ---
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# --- Database Binaries & Local Stores ---
+# Ignore generated SQLite database files while keeping schema.sql and analysis_queries.sql
+*.db
+*.sqlite
+*.sqlite3
+database/*.db
+database/*.sqlite*
+
+# --- Jupyter Notebook Checkpoints ---
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# --- Environment Variables, Credentials & Secrets ---
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# --- Operating System Files ---
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Linux
+*~
+
+# --- IDE & Editor Settings ---
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+
+# --- Distribution & Packaging Artifacts ---
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# --- Testing, Coverage & Linter Caches ---
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+.tox/
+
+# --- Logs, Crash Dumps & Temporary Files ---
+*.log
+tmp/
+temp/
+*.tmp
+
+# --- Tableau Temporary & Auto-Save Files ---
+*.twb~
+*.twbx~
+*.tfl~
+*.tflx~
+CrashDumps/
