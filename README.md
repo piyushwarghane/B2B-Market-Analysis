@@ -177,12 +177,3 @@ This automatically runs data generation, cleaning, SQLite ingestion, SQL aggrega
 Simply double-click `dashboard/index.html` or open it in any web browser to view the interactive matrix chart, opportunity ranking table, and area drill-down cards.
 
 ---
-
-## 🎯 Resume Description Bullet Points
-
-Use these verified bullet points on your resume:
-
-- **Built an End-to-End B2B Regional Market Analytics Pipeline**: Analyzed 8,500+ simulated industrial transactions across 13 talukas in the Pune region using **Python, SQL (SQLite), Pandas, Scikit-learn, and Tableau**.
-- **Engineered Opportunity Scoring & Root-Cause Models**: Formulated a multi-factor Opportunity Score (0–100) combining Market Potential, YoY Growth, Penetration Gap, and Service SLA metrics; automated diagnostic classification tagging **Demand Gaps, Distribution Gaps, and Service Gaps**.
-- **Segmented Markets with Scikit-learn K-Means**: Applied $K$-Means clustering to segment industrial areas into 4 distinct commercial profiles, identifying **Ranjangaon MIDC** as a prime untapped market (7.2% penetration vs 80.2 potential score).
-- **Reduced Analysis Cycle Time by ~93.3%**: Replaced legacy manual Excel report preparation (2.5 hours) with an automated SQL/Python ETL pipeline and interactive visual dashboard (10 minutes).
